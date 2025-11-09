@@ -1,0 +1,16 @@
+filename = 'enchanted-bookshelves-1.1+1.21.6.jar'
+name = 'Enchanted Bookshelves'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bc90c0551e23a7c946da533e2ba9b8eae1d1703a26c4800014066a28b3a125ddb70f62f4d2434a7e62317d179134f3ba51288bc29e7434c6cb3665896372771d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CIfCvYLI/versions/mPRB25Be/enchanted-bookshelves-1.1%2B1.21.6.jar'
+
+[update.modrinth]
+mod-id = 'CIfCvYLI'
+version = 'mPRB25Be'

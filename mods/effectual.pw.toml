@@ -1,0 +1,16 @@
+filename = 'effectual-1.2.0-1.21.6.jar'
+name = 'Effectual'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4efbae3746038fc9e35bef1abf8b2f37fbfbb661754cff9063bf59d433dceb0575ef9396daabe2202e6a5d85bc1d9a457cdd32c6d1c06d3e8a659e10cbd00df3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OoF97Pto/versions/Ut8kVFgg/effectual-1.2.0-1.21.6.jar'
+
+[update.modrinth]
+mod-id = 'OoF97Pto'
+version = 'Ut8kVFgg'

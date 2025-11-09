@@ -1,0 +1,16 @@
+filename = 'movingelevators-1.4.11-fabric-mc1.21.6.jar'
+name = 'Moving Elevators'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '940f3ee2b60ace05514afaefe6ed12a62898d45142b49884da7353b810a2de83143665d59b5bdb4f305a24291680b84f0e276e3170452801e43366b17fae89c5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9KZOe6HD/versions/hB6R87zo/movingelevators-1.4.11-fabric-mc1.21.6.jar'
+
+[update.modrinth]
+mod-id = '9KZOe6HD'
+version = 'hB6R87zo'

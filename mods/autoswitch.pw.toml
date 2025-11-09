@@ -1,0 +1,34 @@
+filename = 'autoswitch-fabric-12.2.0.jar'
+name = 'AutoSwitch'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.21.6',
+    '1.21.6 Pre-Release 1',
+    '1.21.6 Pre-Release 2',
+    '1.21.6 Pre-Release 3',
+    '1.21.6 Pre-Release 4',
+    '1.21.6 rc1',
+    '1.21.7',
+    '1.21.7 rc1',
+    '1.21.7 rc2',
+    '1.21.8',
+    '1.21.8 rc1',
+    '25w31a',
+    '25w32a',
+    '25w33a',
+    '25w34a',
+    '25w34b',
+    '25w35a'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8967c561050fe2ca8544f0209862d543a643892c74f55760fe69dd5401b594a66fc850d57cf7886288c1aa5a4ec8026fda7abb0cf28d3328eb525202d21a416f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uSdcnlts/versions/mqRx1SEm/autoswitch-fabric-12.2.0.jar'
+
+[update.modrinth]
+mod-id = 'uSdcnlts'
+version = 'mqRx1SEm'

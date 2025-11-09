@@ -1,0 +1,16 @@
+filename = 'ptp-1.0.8.jar'
+name = 'Projectile Trajectory Preview'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '55720d8321d09e6519ee1eba233c3771bd2479fc133d9e9e9ed29067594c1b79298cb1d44e3a7ba214b2dedcf35db0f0ac77fccc8332b845c7578f1dec124616'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/preyrsIh/versions/mw9LngFO/ptp-1.0.8.jar'
+
+[update.modrinth]
+mod-id = 'preyrsIh'
+version = 'mw9LngFO'

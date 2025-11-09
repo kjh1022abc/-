@@ -1,0 +1,41 @@
+filename = 'Almanac-1.21.5-fabric-1.4.5.jar'
+name = 'Almanac'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.7 rc1',
+    '1.21.7 rc2',
+    '1.21.8',
+    '1.21.8 rc1',
+    '1.21.9',
+    '25w14craftmine',
+    '25w15a',
+    '25w16a',
+    '25w17a',
+    '25w18a',
+    '25w19a',
+    '25w20a',
+    '25w31a',
+    '25w32a',
+    '25w33a',
+    '25w34a',
+    '25w34b',
+    '25w35a',
+    '25w36a',
+    '25w36b',
+    '25w37a'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ec831925f65bf3a398d0579cc6cae275effcfb61142a62ec3eff3d9cf58b91eb7cab953d34824c75e27074f09ce73d24b585897ac4253ab4e85af3105c780ed1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Gi02250Z/versions/mzFZuKaS/Almanac-1.21.5-fabric-1.4.5.jar'
+
+[update.modrinth]
+mod-id = 'Gi02250Z'
+version = 'mzFZuKaS'

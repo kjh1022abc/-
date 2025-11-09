@@ -1,0 +1,16 @@
+filename = 'footprintparticle-0.5.4b-mc1.21.6.jar'
+name = 'FootprintParticle'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b205de286d13997bc1c9831bcdcd8c3af89c20c83981762842bd1d82a1c7aae4556cf588e7771799a2c39b5d29bb99dee12b2e0b996081b24cb5b8c6c97c62b5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xZQOoOaY/versions/XlA1n0hN/footprintparticle-0.5.4b-mc1.21.6.jar'
+
+[update.modrinth]
+mod-id = 'xZQOoOaY'
+version = 'XlA1n0hN'
