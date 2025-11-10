@@ -111,6 +111,11 @@ hash = "a606543eb2b9eee9da65f892ba0425df44b3eee7d9a43a31ef4e78f752770446"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "4cdd26fb342e6c15d3394797f7648f04001daf9a4bda96126c3dbf7bd0087f26"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "8df539f87f7ecebb609e9cce5bf02f13236d21163963ee0f9051a74a23cd17d4"
 metafile = true
@@ -311,6 +316,11 @@ hash = "16caa54f4668e051c685c32883ca4f0e474bb62e7a4703fb6706f757d9b86ae0"
 metafile = true
 
 [[files]]
+file = "mods/gamingbarns-guns.pw.toml"
+hash = "d19a643e3312aefccc7c219d13607dfa8b716eeacc4b47dab46676da1c75d2f3"
+metafile = true
+
+[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "194e5b3124c53fc9c6226a33be22d1f0a4236546e401b561feabc1fade066e47"
 metafile = true
@@ -323,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/grind-enchantments.pw.toml"
 hash = "dbc3f812e7531d09e01efc807f255738bca9e6383d7ae7a50a1c65e6b1525504"
+metafile = true
+
+[[files]]
+file = "mods/guns++.pw.toml"
+hash = "31350ebf85e1ec25477582ba5acd15e2ba5c673ef5c43bc5737828da0f3cb4c7"
 metafile = true
 
 [[files]]
@@ -491,6 +506,11 @@ hash = "449cacaa61e50e464a9adcdf0d1f467a750c9542147d2e51780d5f53cf48538f"
 metafile = true
 
 [[files]]
+file = "mods/only-hammers-and-excavators.pw.toml"
+hash = "f00c3f30d217deb536a241a5403ddfbb3c1d4c45b812897dbbaaf62eacde390b"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "3135de3a3f8ee342b3e0433ea201405d96c56f9bda633a9888c3b3ebf9dd8d3d"
 metafile = true
@@ -651,6 +671,11 @@ hash = "74591d64709e2a5b3abaf6581b4d5061db0bde16209a5d1bd7919cc95de9270a"
 metafile = true
 
 [[files]]
+file = "mods/spellbound-weapons.pw.toml"
+hash = "a985953568c8176e300489bd1f28437c08944592a7dd9034a486c782e461b5cf"
+metafile = true
+
+[[files]]
 file = "mods/stack-refill.pw.toml"
 hash = "d2750a8ffdbe8ac60ff379f8e0da6f38729076c0a489d7ebe0c914f06d91c59a"
 metafile = true
@@ -753,6 +778,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "33e1cf3fbfe5b266eda7b2db10253e0c36e06826329ab7d25f2075ef7ac36ac0"
+metafile = true
+
+[[files]]
+file = "mods/weaponsexpanded.pw.toml"
+hash = "95b9a2c7da35cb414142e386b327b8f8f648f813f8a4ac9c213aaf98448d1ef1"
 metafile = true
 
 [[files]]
