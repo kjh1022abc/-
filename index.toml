@@ -336,11 +336,6 @@ hash = "dbc3f812e7531d09e01efc807f255738bca9e6383d7ae7a50a1c65e6b1525504"
 metafile = true
 
 [[files]]
-file = "mods/guns++.pw.toml"
-hash = "31350ebf85e1ec25477582ba5acd15e2ba5c673ef5c43bc5737828da0f3cb4c7"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "31e2ee849523a4c09f153bc9202f523a363c592ce9b7aa901a1639715a651787"
 metafile = true
