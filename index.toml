@@ -666,11 +666,6 @@ hash = "74591d64709e2a5b3abaf6581b4d5061db0bde16209a5d1bd7919cc95de9270a"
 metafile = true
 
 [[files]]
-file = "mods/spellbound-weapons.pw.toml"
-hash = "a985953568c8176e300489bd1f28437c08944592a7dd9034a486c782e461b5cf"
-metafile = true
-
-[[files]]
 file = "mods/stack-refill.pw.toml"
 hash = "d2750a8ffdbe8ac60ff379f8e0da6f38729076c0a489d7ebe0c914f06d91c59a"
 metafile = true
