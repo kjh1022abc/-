@@ -1,0 +1,15 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"magistuarmory:griffin_decoration"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"paladins:paladin_armor_legs"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"paladins:netherite_crusader_armor_feet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:spruce_fence_gate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jewelry:netherite_tanzanite_ring"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jewelry:ruby_ring"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jewelry:netherite_jade_ring"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jewelry:unique_attack_ring"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jewelry:unique_attack_necklace"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jewelry:unique_dex_ring"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jewelry:unique_dex_necklace"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jewelry:citrine_necklace"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
