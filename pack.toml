@@ -1,4 +1,4 @@
-name = "My 1.21.8 Pack"
+name = "My 1.21.1 Pack"
 author = "you"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6a8b4dc5aa67f97884a9a6374b18b672257f725d16fc4d13756e0b74ea390047"
+hash = "7703d7d5d9fc691be4251715ab4dff601237b5c9a20254815f9a8f309c6726a7"
 
 [versions]
-fabric = "0.17.3"
-minecraft = "1.21.8"
+fabric = "0.18.1"
+minecraft = "1.21.1"
