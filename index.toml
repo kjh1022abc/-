@@ -657,10 +657,6 @@ file = "mods/inventoryhud.fabric.1.21.1-3.4.26.jar"
 hash = "b00d133f219171ffbe68f3c9aeba278c557da5d92442e7d72f5eb75ead119f0b"
 
 [[files]]
-file = "mods/iris-fabric-1.8.1+mc1.21.1.jar"
-hash = "0ee4559f66da150b1a4a9dd98239248b487fd57c3381b1e69a5dba271d2c1345"
-
-[[files]]
 file = "mods/jamlib-fabric-1.3.5+1.21.1.jar"
 hash = "889b33cec23db13b4442f934830659a3b0d2e72ca8c481159b94365b6e0968fc"
 
@@ -789,10 +785,6 @@ file = "mods/more_rpg_library-fabric-2.5.5+1.21.1.jar"
 hash = "3b58823f6cacb34e2a00c769467ce49e4b4bb72f3fd4a2b0d6280b7e38ed5612"
 
 [[files]]
-file = "mods/moreculling-fabric-1.21.1-1.0.0.jar"
-hash = "ae62ff3b3c1345476d5471e55676b26ab815de9efb2aac07eacfc38b5adad408"
-
-[[files]]
 file = "mods/moredelight-25.07.28-1.21-fabric.jar"
 hash = "2970a1e5b58b76135d04a75c3323e2cee6612298b568d5bfdd194cd03793def7"
 
@@ -897,10 +889,6 @@ file = "mods/recipe_modification-fabric-1.21.1-0.1.2.jar"
 hash = "10c6d4406e028c63fa3f2f6b33eac5e1ed945c2d1dcf5fc0f7e44c3ecf6f49a0"
 
 [[files]]
-file = "mods/reeses-sodium-options-fabric-1.8.0+mc1.21.3.jar"
-hash = "967d4872bf8c3475c4e07f88e75051aeba235709e24f613d8d6e6f0beb39969a"
-
-[[files]]
 file = "mods/refurbished_furniture-fabric-1.21.1-1.0.20.jar"
 hash = "9dc3351a861c00432296c25d1e4d785cfc158ffc1ada87cfcd920635803793bf"
 
@@ -971,14 +959,6 @@ hash = "17a93c19fca463c0fe9bcc57d682a7f6bf3467ad85f230f86826ad89ecc5724a"
 [[files]]
 file = "mods/smoothswapping-0.9.3.1-1.21.1-fabric.jar"
 hash = "f351a27aff17d72139b3d9b3741d9734de8604cc867141a2281f0db61116f3a3"
-
-[[files]]
-file = "mods/sodium-extra-fabric-0.6.0+mc1.21.1.jar"
-hash = "1a7434e444c851d82efbe3d5a8fd2dbb142e9bdf0012d7c6a0e4741c641b1a2d"
-
-[[files]]
-file = "mods/sodium-fabric-0.6.0+mc1.21.1.jar"
-hash = "21b3371f52ab2b2d9abd05e28a4eba3675fb2dbd174614719569d0c365bbf01e"
 
 [[files]]
 file = "mods/sound-physics-remastered-fabric-1.21.1-1.5.1.jar"
