@@ -593,6 +593,10 @@ file = "mods/farmersknives-fabric-1.21.1-4.0.4.jar"
 hash = "00a2316c76f99dd45f40782a4c13f639b426cdaf242d9a76fe8bedb2708b46c8"
 
 [[files]]
+file = "mods/fence_on_slab-fabric-1.21-1.0.0.jar"
+hash = "8f501d3d60fcb18a7d1a3e9f5190b8848acd4a13376d6009f80a68801c27cf21"
+
+[[files]]
 file = "mods/ferritecore-7.0.2-hotfix-fabric.jar"
 hash = "e3fae8e321474a35e94f9bb09eafd0440ce0fe98f4aebbc067e392889700a4fa"
 
