@@ -218,7 +218,7 @@ hash = "9be5ee5fabcf249f59518599c9d0dcd3f748a3e07a1ac553cd53146e17364c01"
 
 [[files]]
 file = "mods/PresenceFootsteps-1.11.1+1.21.jar"
-hash = "4ec7e5a700b2caa5e0bd736e243f49ed3e8ae6e6af8fd4a4e145875bc3127b90"
+hash = "b2a0732fb8965ce7a766153a72851952f294ef30ceab569426dfb2c5f2624782"
 
 [[files]]
 file = "mods/Prism-1.21.1-fabric-1.0.11.jar"
@@ -346,7 +346,7 @@ hash = "e74ff7453e374e0bd02fdcddacb913f6fd9fb6c53afa29e7c321b61a8df0d368"
 
 [[files]]
 file = "mods/automobility-0.5.0.h+1.21.1-fabric.jar"
-hash = "a301296994a7ab048429d8d320f917667df415de9e39aa1abf81b1ff3cde4cc1"
+hash = "015bd6d8da51a5bab10d08b73068504ebda40d5f0c77d1da58ffd8f7fa167b73"
 
 [[files]]
 file = "mods/autoswitch-9.1.2.jar"
@@ -382,11 +382,11 @@ hash = "748bbe5b32ddb7435ecb1fac39a285d70908851b10955fdfb73f32015c2c5962"
 
 [[files]]
 file = "mods/better-end-21.0.11.jar"
-hash = "b6300dad6b92eb5810008695e55b615f724b4d082a711c94f0d9941a1784cfd6"
+hash = "892e86e2bb637d4bada4ba2ad95801bd28f23755cc71b32a617854ac11645ca3"
 
 [[files]]
 file = "mods/better-nether-21.0.11.jar"
-hash = "b4608071ff59d59fb9352f13774c5423b0e2eb00df21ce8986434404e6f67433"
+hash = "e06c99da6a9653ee3fc94de3fab09762a3311db7ffd7b4ce1a627264c00e3b50"
 
 [[files]]
 file = "mods/bettercombat-fabric-2.2.5+1.21.1.jar"
@@ -534,7 +534,7 @@ hash = "099caf91d8bcf8d3fd0e2e455b7facade2fa71e9e1807d7f73fefea783879571"
 
 [[files]]
 file = "mods/effectual-1.2.0-1.21.1.jar"
-hash = "0143fc89133169784c5a942089a6260ecce8aa19bc43d0dd323d1672f4f446f8"
+hash = "eec5cc2bd3f9a6b9b5d2bf840b96a62a547af51ee8303e60a82de4607d9368ba"
 
 [[files]]
 file = "mods/elemental_wizards_rpg-fabric-2.5.3+1.21.1.jar"
@@ -550,7 +550,7 @@ hash = "6e5735c9d9fe94e6d14f64c9d82bc7750603d119361d3adc4b21d24210ece5f3"
 
 [[files]]
 file = "mods/ends_delight-2.5.2+refabricated.1.21.1.jar"
-hash = "bdfc7d3311f3f5472c8886dd4d46098ef58c7078d38f4dff04f5e6cd812d861e"
+hash = "3c676ecd9fe1758d5cd0dd929d24253d830932585e4f2474b78efcb2e41fa71c"
 
 [[files]]
 file = "mods/enhancedblockentities-0.10.2+1.21.jar"
@@ -661,6 +661,10 @@ file = "mods/inventoryhud.fabric.1.21.1-3.4.26.jar"
 hash = "b00d133f219171ffbe68f3c9aeba278c557da5d92442e7d72f5eb75ead119f0b"
 
 [[files]]
+file = "mods/iris-fabric-1.8.1+mc1.21.1.jar"
+hash = "0ee4559f66da150b1a4a9dd98239248b487fd57c3381b1e69a5dba271d2c1345"
+
+[[files]]
 file = "mods/jamlib-fabric-1.3.5+1.21.1.jar"
 hash = "889b33cec23db13b4442f934830659a3b0d2e72ca8c481159b94365b6e0968fc"
 
@@ -718,7 +722,7 @@ hash = "509f8e01f9f8ffb2e95cb84a67879351253b5405270402f611352a071067134a"
 
 [[files]]
 file = "mods/make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar"
-hash = "42daaf9bf8070827cf03deb492a312cac6a3f002f4a4736d9a4c956726a8ced1"
+hash = "7b867cfa1cddacf314f616ffcec9696bca755f2563d72e89332ad435219b31a1"
 
 [[files]]
 file = "mods/malilib-fabric-1.21-0.21.9.jar"
@@ -789,6 +793,10 @@ file = "mods/more_rpg_library-fabric-2.5.5+1.21.1.jar"
 hash = "3b58823f6cacb34e2a00c769467ce49e4b4bb72f3fd4a2b0d6280b7e38ed5612"
 
 [[files]]
+file = "mods/moreculling-fabric-1.21.1-1.0.0.jar"
+hash = "ae62ff3b3c1345476d5471e55676b26ab815de9efb2aac07eacfc38b5adad408"
+
+[[files]]
 file = "mods/moredelight-25.07.28-1.21-fabric.jar"
 hash = "2970a1e5b58b76135d04a75c3323e2cee6612298b568d5bfdd194cd03793def7"
 
@@ -842,7 +850,7 @@ hash = "2a08acdeba831a1adaeefbc4d0c7f4fcf2f1541328ba8ea470d2cc238ed603b7"
 
 [[files]]
 file = "mods/particle_core-0.2.6+1.21.jar"
-hash = "dd63870172f906373a7c8f3647e72c72cad530c8db8101db29043cbfb21d8c0c"
+hash = "d9b1fe50416d7b9bf7f4092b178d86fba5f254562e2a25aa5a41d983749dfafd"
 
 [[files]]
 file = "mods/particlerain-4.0.0-beta.3+1.21.1-fabric.jar"
@@ -850,7 +858,7 @@ hash = "19d6a0e1476c6d1352920b73341ceb94be337c2ee0bcb43fc4c3411cf29906d5"
 
 [[files]]
 file = "mods/particular-1.1.2+1.21.jar"
-hash = "932e9f48506c6258f9215a243049076fbc9e72c3f42284115d59f65696c20be8"
+hash = "2c3eb546707671565b9e77947513a1de7ab55d8999f27c872883a45e5087b6a7"
 
 [[files]]
 file = "mods/pineapple_delight-1.1.0-1.21.1-fabric-fix.jar"
@@ -891,6 +899,10 @@ hash = "9057d43f0595930dfe5c8ad392f504b6139aa3496f3e0e4d6500db1f117bde80"
 [[files]]
 file = "mods/recipe_modification-fabric-1.21.1-0.1.2.jar"
 hash = "10c6d4406e028c63fa3f2f6b33eac5e1ed945c2d1dcf5fc0f7e44c3ecf6f49a0"
+
+[[files]]
+file = "mods/reeses-sodium-options-fabric-1.8.0+mc1.21.3.jar"
+hash = "dab4ee1d7cb40676f00355a2526a41169b00aa53b6f26c411ece55d123432d03"
 
 [[files]]
 file = "mods/refurbished_furniture-fabric-1.21.1-1.0.20.jar"
@@ -963,6 +975,14 @@ hash = "17a93c19fca463c0fe9bcc57d682a7f6bf3467ad85f230f86826ad89ecc5724a"
 [[files]]
 file = "mods/smoothswapping-0.9.3.1-1.21.1-fabric.jar"
 hash = "f351a27aff17d72139b3d9b3741d9734de8604cc867141a2281f0db61116f3a3"
+
+[[files]]
+file = "mods/sodium-extra-fabric-0.6.0+mc1.21.1.jar"
+hash = "da46357e4125515e5dd7392df1850fcd7557fef3f2776d148667b1bb9e755f8d"
+
+[[files]]
+file = "mods/sodium-fabric-0.6.0+mc1.21.1.jar"
+hash = "eee96af360ddea2c9d5d4b59943e307aee52166c0c37df1926cfddc81f1ae67d"
 
 [[files]]
 file = "mods/sound-physics-remastered-fabric-1.21.1-1.5.1.jar"
