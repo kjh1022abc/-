@@ -941,6 +941,10 @@ file = "mods/relics-fabric-1.2.1+1.21.1.jar"
 hash = "77d9bde7da6316d42616d22420c07b062a03996afcc8d6bf157916f9d72cffe4"
 
 [[files]]
+file = "mods/replaymod-1.21-2.6.23.jar"
+hash = "8b5a32697585010e282f0b437859b0a5169e631232f6f6ea3abfb6dcf020c5c6"
+
+[[files]]
 file = "mods/rogues-fabric-2.6.4+1.21.1.jar"
 hash = "5b61daccb2c3470d2b34adfc95a9b191aebf58a71d796f18318af536faceb959"
 
