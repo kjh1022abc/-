@@ -125,6 +125,10 @@ file = "mods/GlitchCore-fabric-1.21.1-2.1.0.0.jar"
 hash = "9e36cf0fed4b1f40f1c60ac3dc99582a71cd2dc802339b95ee98e054e748b4c9"
 
 [[files]]
+file = "mods/HMI 4.3 - 1.21.(1).jar"
+hash = "8fef74afd768f25621bd63b8df35c22f5b9eb35cdec91a360c6335e41890e24c"
+
+[[files]]
 file = "mods/Highlighter-1.21-fabric-1.1.11.jar"
 hash = "f516da418f582062104def4b91312d7d35210b42f8683a6863bfb3cf4d621ee7"
 
@@ -511,6 +515,10 @@ hash = "b394a7191e04a8ca764396fb46277d3ec9cf4a2aba5de9cdc4bb751f56e256f7"
 [[files]]
 file = "mods/display_case-fabric-1.21.1-1.2.jar"
 hash = "2a0700a898615906efde9f0ce0878a88cf4a6d00baab4622fbc66d1e84db1860"
+
+[[files]]
+file = "mods/do_a_barrel_roll-fabric-3.7.3+1.21.jar"
+hash = "ce0e586ab1d4af204afd52522bb00c4585952c11c2637d30d02ca0423edca8a4"
 
 [[files]]
 file = "mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar"
