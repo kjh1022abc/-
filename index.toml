@@ -285,10 +285,6 @@ file = "mods/accessories-fabric-1.1.0-beta.52+1.21.1.jar"
 hash = "1cba43330f1a3624bb3785ca0510a4d7e1fa2b6934a2548f3fdf95b2d6ff6706"
 
 [[files]]
-file = "mods/accessories_compat_layer-fabric-0.1.10+1.21.1.jar"
-hash = "ea2bdfe9a0f7df48984734e4e247099bcf7d91600ed5928c4ff65dcc40beaccf"
-
-[[files]]
 file = "mods/accessorify-2.3.5+1.21.1.jar"
 hash = "78fcaae4f433269caaaf193b64a6e4ecd20fd3f6a6560b1142ed6b7e8eefa0e3"
 
@@ -506,7 +502,7 @@ hash = "6c7e8eb8bcd0f9a991331241c1f26b70878a0118baeb5b011da4f8c305e9423d"
 
 [[files]]
 file = "mods/desktop.ini"
-hash = "a963a4cda5bc375902e43bd1564cd42528a590c0769da1f1234419f2771d0748"
+hash = "dc21d015c0dee5ad9dc6def8c8e5512926c55687f2546a85d39819d1fb4fc9d4"
 
 [[files]]
 file = "mods/disenchanting_table-merged-1.21.1-5.0.2.jar"
@@ -607,6 +603,10 @@ hash = "00a2316c76f99dd45f40782a4c13f639b426cdaf242d9a76fe8bedb2708b46c8"
 [[files]]
 file = "mods/ferritecore-7.0.2-hotfix-fabric.jar"
 hash = "52d7f2b5135ba6f8f085422169d02a49ad4fb21e3708ec0ddb4dae9241e5a149"
+
+[[files]]
+file = "mods/fetzisdisplays-fabric-1.0.1-beta-1.21.jar"
+hash = "09d3b6ac887ea21ab103ffa5fce391cf60d40805625a1b45881f676fe24ba648"
 
 [[files]]
 file = "mods/footprintparticle-0.5.4b-mc1.21(.1).jar"
