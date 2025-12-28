@@ -9,6 +9,10 @@ file = "mods/AmbientSounds_FABRIC_v6.3.1_mc1.21.1.jar"
 hash = "1511865858d3a91f844fda348b332aa90931e2f2717abef22627a3d38dd04b2e"
 
 [[files]]
+file = "mods/AsyncParticles-3.4.0-beta.1+1.21.1.jar"
+hash = "a5827c73af46e9212f814fd10c230e87b95bbcc254c80a92a1a2e73aa4789085"
+
+[[files]]
 file = "mods/AutochefsDelight-1.21.1-Fabric-2.1.0.jar"
 hash = "1d925ec91b578c7a299d2f0b05dd37b2765e6b274ceb74ae595ccc3932c8afdc"
 
@@ -395,10 +399,6 @@ hash = "6c86d8c315993dc5b49664c67e750c0aa3e3fc81cf6604634dca5e3d2ca2a10c"
 [[files]]
 file = "mods/bettercombat-fabric-2.2.5+1.21.1.jar"
 hash = "271179d3f5cff81c8d2403c490fb933cc596aea115967f9b2a5219846580fead"
-
-[[files]]
-file = "mods/bettermounthud-1.2.4.jar"
-hash = "5b410574728e30edc4732d3a4d4cfa7dfce954424a866459565acc6056d57547"
 
 [[files]]
 file = "mods/betterstats-3.13.9+fabric-1.21.jar"
@@ -1085,6 +1085,10 @@ file = "mods/tcdcommons-3.12.7+fabric-1.21.jar"
 hash = "2deb47cf1bef28b58a2ca45b7789c9f5c4636b986c01fcf7859adeb6f76c2dd3"
 
 [[files]]
+file = "mods/threadtweak-fabric-0.1.5+mc1.21.1.jar"
+hash = "d5c0b0f5014b2ab729b820ad17acab7ce7f51b6dd72a5655839b31f6a2394682"
+
+[[files]]
 file = "mods/tia-fabric-1.21-1.2.1.jar"
 hash = "9518d1a5fbc7e7c374c4c6185376c049d9c2e9e62685b02a489ad12271d996bf"
 
@@ -1139,6 +1143,10 @@ hash = "3abf2883ad35e1bf3eb113b2805c8e8c7bd3378bfb8044340e202bf9b67d6ba8"
 [[files]]
 file = "mods/visuality-0.7.7+1.21.jar"
 hash = "b8841c69728eea15aa1f45e7fdf8be7faec1af0598d7246f413b21e9b26a31ef"
+
+[[files]]
+file = "mods/vmp-fabric-mc1.21.1-0.2.0+beta.7.172-all.jar"
+hash = "97a35a4388b1e7cd5325983b1e3f5f72fe7460367ef5755ae9fc9785c2930803"
 
 [[files]]
 file = "mods/voicechat-fabric-1.21.1-2.6.6.jar"
