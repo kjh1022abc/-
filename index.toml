@@ -281,13 +281,10 @@ file = "mods/[1.21.1][Fabric] RPG-HUD-3.10.2.jar"
 hash = "d64dc89107a482ec3b1916b096f5c965064786718c683a5ad4112953938659fe"
 
 [[files]]
-<<<<<<< HEAD
 file = "mods/accessories-fabric-1.1.0-beta.52+1.21.1.jar"
 hash = "1cba43330f1a3624bb3785ca0510a4d7e1fa2b6934a2548f3fdf95b2d6ff6706"
 
 [[files]]
-=======
->>>>>>> e177923f5a9b1a6c79d59914d624938e21eeb2e6
 file = "mods/accessorify-2.3.5+1.21.1.jar"
 hash = "78fcaae4f433269caaaf193b64a6e4ecd20fd3f6a6560b1142ed6b7e8eefa0e3"
 
