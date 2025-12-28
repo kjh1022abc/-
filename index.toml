@@ -137,6 +137,10 @@ file = "mods/Highlighter-1.21-fabric-1.1.11.jar"
 hash = "f516da418f582062104def4b91312d7d35210b42f8683a6863bfb3cf4d621ee7"
 
 [[files]]
+file = "mods/HorseCombatControls-f1.21.0-1.0.5.jar"
+hash = "a4b93d6dc48f3274a843dd964d0249eea5634618767b32c618fda70d5f1a5da9"
+
+[[files]]
 file = "mods/Iceberg-1.21.1-fabric-1.3.2.jar"
 hash = "512c6ca788ec4c676a2f73e668489a03cfe0cb5c0ebda31a1be48527ef1a64e4"
 
@@ -151,6 +155,10 @@ hash = "5893759a26abef27218d7f7151ed611749fc2e0218dd4bad4a5742fb21535600"
 [[files]]
 file = "mods/InvMove-0.9.1+1.21.1-Fabric.jar"
 hash = "74e8351ad5073d21c91bc9c5f5a8e92055384c72dd1d5dd0dde31e03dc3b9820"
+
+[[files]]
+file = "mods/InventoryProfilesNext-fabric-1.21.1-2.2.2.jar"
+hash = "e7f1fdc650ec39c22d582dbf77e3223319e706ae6181f1cd54d739af6c23cab1"
 
 [[files]]
 file = "mods/ItemBorders-1.21-fabric-1.2.5.jar"
@@ -505,10 +513,6 @@ file = "mods/dense-flowers-0.2.2+mc1.21.0.jar"
 hash = "6c7e8eb8bcd0f9a991331241c1f26b70878a0118baeb5b011da4f8c305e9423d"
 
 [[files]]
-file = "mods/desktop.ini"
-hash = "dc21d015c0dee5ad9dc6def8c8e5512926c55687f2546a85d39819d1fb4fc9d4"
-
-[[files]]
 file = "mods/disenchanting_table-merged-1.21.1-5.0.2.jar"
 hash = "e763d0d244297bab7e8d8b82fe56ae7e24d1524f677ae1a7a96f9b8570a136b1"
 
@@ -649,6 +653,14 @@ file = "mods/gravestones-1.2.6+1.21.1+A.jar"
 hash = "f67a61bd4c56a6444597cbc895d4444d13d83fb822ea21072d1322680090be15"
 
 [[files]]
+file = "mods/guiclock-1.21.1-4.7.jar"
+hash = "43fd792c42773070f7cbfd093971b2c7fda620b8463300dc81cbe5c5cfa835a6"
+
+[[files]]
+file = "mods/horseman-fabric-1.21.1-1.5.8.jar"
+hash = "cf6b208f27c66806e67c88e5c91174e8c1849bb3f31b13aea770e1d165f63d3b"
+
+[[files]]
 file = "mods/idwtialsimmoedm-0.3.2+1.21.jar"
 hash = "ae1811ce012833cf3d2208dd1d998dbd524805d999d4598dd17037733d1610dc"
 
@@ -735,6 +747,10 @@ hash = "7a69efa2d5b68d9ad39be56b59efb7bd2943570f7c3c4de5cff216b995bad870"
 [[files]]
 file = "mods/letsdo-vinery-fabric-1.5.2.jar"
 hash = "c55c43e45ca08dc01d18af88cd10e694e42f723d79e0014b5487cce372f5a044"
+
+[[files]]
+file = "mods/libIPN-fabric-1.21.1-6.6.2.jar"
+hash = "483398d6d92127540882c2f676a37efbfd98da1a51fdfb86b177a18f607c2a96"
 
 [[files]]
 file = "mods/lithium-fabric-0.14.7+mc1.21.1.jar"
