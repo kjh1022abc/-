@@ -185,6 +185,10 @@ file = "mods/JadeAddons-1.21.1-Fabric-6.0.3.jar"
 hash = "c687e3a25beeb992e995a7e8efa96b27a6844d9516f09190917b56606780f716"
 
 [[files]]
+file = "mods/Kaffee's_Dual_Ride-1.1.0.jar"
+hash = "49f230d0df2b3236b0e36ed109cf023d98204a620adaffd06930cfe4ed1578a6"
+
+[[files]]
 file = "mods/LegendaryTooltips-1.21.1-fabric-1.5.5.jar"
 hash = "c85fb91226a9e005659d4c31a6b18c334c5087230bf1ecac17c6250c0ee04e59"
 
