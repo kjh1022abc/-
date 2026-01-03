@@ -865,6 +865,10 @@ file = "mods/modernfix-fabric-5.25.1+mc1.21.1.jar"
 hash = "81c34a0767af89699b34feb268601460a7d90c6cefc0907c552838c513b221bc"
 
 [[files]]
+file = "mods/modernnetworking-fabric-1.2.8+1.21.1.jar"
+hash = "ca124579c0ac44ee3eef7d1f1870a3e706f267077106a362db533111fd962526"
+
+[[files]]
 file = "mods/modmenu-11.0.3.jar"
 hash = "da0ef3a50351d7abb909c58e8d628bb916301994d8970956ee206cc6236b9380"
 
