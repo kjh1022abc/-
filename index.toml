@@ -289,8 +289,8 @@ file = "mods/SwordBlockingMechanics-v21.1.1-1.21.1-Fabric.jar"
 hash = "2812e919449a6dcef18f2cd0a5c819da53881c0cf4cfa2095a27f57ed6b0a850"
 
 [[files]]
-file = "mods/TACZ-Refabricated-1.21.1-0.4.0-forge1.1.7-hotfix.jar"
-hash = "e506749c3d8552eeccaf509922ef0d05cd68184f7f5fccccb2ddbfd32c98b30a"
+file = "mods/TACZ-Refabricated-1.21.1-0.3.1-forge1.1.7.jar"
+hash = "633087c2964174a756a09ee5837ce8930d2f668650050c6621b6390425aae05f"
 
 [[files]]
 file = "mods/TaxFreeLevels-1.4.7-fabric-1.21.1.jar"
