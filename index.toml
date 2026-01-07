@@ -273,8 +273,8 @@ file = "mods/Searchables-fabric-1.21.1-1.0.2.jar"
 hash = "6969e91fbeb616e5b0d3c45e4aeb7cb07d5b89686bdf0fd8bf5ad17ecf9bfb16"
 
 [[files]]
-file = "mods/SlashBlade-Refabricated-1.21.1-1.1.6-Resharped-1.8.60.jar"
-hash = "aea0663a3837d54073844fcc1deeb1bedff74aa9b6c7298e96a84320aa664afd"
+file = "mods/SlashBlade-Refabricated-1.21.1-1.3.0-Resharped-1.8.61.jar"
+hash = "a4ce9355c058ea1bc30758e1bdeb1cabbab7da7313e471384324eee56a696ec6"
 
 [[files]]
 file = "mods/StylishEffects-v21.1.2-1.21.1-Fabric.jar"
@@ -289,8 +289,8 @@ file = "mods/SwordBlockingMechanics-v21.1.1-1.21.1-Fabric.jar"
 hash = "2812e919449a6dcef18f2cd0a5c819da53881c0cf4cfa2095a27f57ed6b0a850"
 
 [[files]]
-file = "mods/TACZ-Refabricated-1.21.1-0.3.1-forge1.1.7.jar"
-hash = "633087c2964174a756a09ee5837ce8930d2f668650050c6621b6390425aae05f"
+file = "mods/TACZ-Refabricated-1.21.1-0.4.0-forge1.1.7-hotfix.jar"
+hash = "e506749c3d8552eeccaf509922ef0d05cd68184f7f5fccccb2ddbfd32c98b30a"
 
 [[files]]
 file = "mods/TaxFreeLevels-1.4.7-fabric-1.21.1.jar"
@@ -505,10 +505,6 @@ file = "mods/combat_roll-fabric-2.0.6+1.21.1.jar"
 hash = "0263da292533ae3336569daccd85baa44053ed8f195d2275ebac20d897bcf344"
 
 [[files]]
-file = "mods/configurableextramobdrops-1.21.1-3.6.jar"
-hash = "0bd62489bda4464543b771f63dbfce5247215c9ebfc2764c95ee7d56d86a3cde"
-
-[[files]]
 file = "mods/configuration-fabric-1.21.1-3.1.1.jar"
 hash = "75afb459040f5d4b3b5d6aaa19f3296d11c344faaaeae85677b4f7984d066242"
 
@@ -522,7 +518,7 @@ hash = "b7291856f8485b3728d2fe42600245e0dfc952bd14c400ce25c50e94c61d04e9"
 
 [[files]]
 file = "mods/corndelight-1.21-1.0.0.jar"
-hash = "b25f6c2fa998d18833ba03e28f0218aaeb80f57471644c6286ecb15b66b47387"
+hash = "b844d3e4fdda2ac10a73881b57c51ef53b637917c315da065ad8c1f442d490f4"
 
 [[files]]
 file = "mods/coroutil-fabric-1.21.1-1.3.8.jar"
@@ -538,7 +534,7 @@ hash = "09e8aa7fffe95f1f5875dc5d619997bc1d1f6e4f3ae5d2cff0962baaba81a7a5"
 
 [[files]]
 file = "mods/culturaldelights-0.17.7.jar"
-hash = "230ecc79431d9b47065b185a49cda57b7496d291891e0bcd6d7ad5f83def9986"
+hash = "d0f642271364c160d0800b9c54836ba7a9063eb32f1d22c29b99b04e33b5a5ea"
 
 [[files]]
 file = "mods/dense-flowers-0.2.2+mc1.21.0.jar"
@@ -578,7 +574,7 @@ hash = "ac66f5809a287638456a2d0d31abe19b2673d6e1b834cce9e82dc07d23472eb8"
 
 [[files]]
 file = "mods/effectual-1.2.0-1.21.1.jar"
-hash = "eec5cc2bd3f9a6b9b5d2bf840b96a62a547af51ee8303e60a82de4607d9368ba"
+hash = "ee687341c011c84a3fea5dda887db9bcaa5ac9a67011d19cb1705e86eb77d674"
 
 [[files]]
 file = "mods/elemental_wizards_rpg-fabric-2.5.3+1.21.1.jar"
@@ -714,7 +710,7 @@ hash = "f4e14b849679a237412c1656e38a7c70b914d3319cb494873ac9e267eded732b"
 
 [[files]]
 file = "mods/inventorio-mc1.21.1-fabric-v1.11.0.jar"
-hash = "138e226c147b4abec2a9b3bd9fd2d5596f221efb5da6b8aaa241724eb9c3e40c"
+hash = "339d6a3fb0efbcb425ae9006199f92034475d890e64122086324de60498e39b9"
 
 [[files]]
 file = "mods/inventoryhud.fabric.1.21.1-3.4.26.jar"
@@ -770,7 +766,7 @@ hash = "ee52b7bc25d69029b9943e1744757c991d5ba65e23d1dad0012d0ae4dab6da43"
 
 [[files]]
 file = "mods/letsdo-farm_and_charm-fabric-1.1.14.jar"
-hash = "dec0c5bca59e8d3190207cfa459d6930daadf5f0460495c15b6ae9acc93ee19b"
+hash = "fe31197229f60639f0649437bbdaced045cf0bea40241372d1b0a0c419a8bc6e"
 
 [[files]]
 file = "mods/letsdo-herbalbrews-fabric-1.1.2.jar"
@@ -799,10 +795,6 @@ hash = "b6c5d420dc8b363a2c37cac336553b1a0d344bae8b43979d455eb722be814359"
 [[files]]
 file = "mods/lootr-fabric-1.21.1-1.11.36.110.jar"
 hash = "08fdab43488ec0b15b7a389aa17163a69eba565107688143a4dae609bcc3b9a9"
-
-[[files]]
-file = "mods/ly-reach-enchantment-v1.0.1.jar"
-hash = "3427e3383c3f23ee3871c839dfd0073d501ba2ff73e9d8cfe00445f2b67c5b57"
 
 [[files]]
 file = "mods/make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar"
@@ -1101,6 +1093,10 @@ file = "mods/sounds-2.4.17+lts+1.21.1-fabric.jar"
 hash = "4dcbce5a35030d98927499f614dc927dd5d3e74ee0e0057cd82f68077b94ab97"
 
 [[files]]
+file = "mods/spear-backport-fabric-1.7.2-1.21.1.jar"
+hash = "cd43ca5bf42d164792c5259f9c1fee74bd072023204007c5b5555e87c4b7f3be"
+
+[[files]]
 file = "mods/spell_engine-fabric-1.8.19+1.21.1.jar"
 hash = "cc421980bd042b7fd9ccb1a85f03bb8a352e57e94c7850bb39d0d0ef52130d4f"
 
@@ -1185,8 +1181,8 @@ file = "mods/trashslot-fabric-1.21.1-21.1.4.jar"
 hash = "aaf6c17cffc2b30a458c4407e07916b50970cb1d6fb1d0a0612559955d773924"
 
 [[files]]
-file = "mods/travelersbackpack-fabric-1.21.1-10.1.29.jar"
-hash = "20d86b0f7b8e939ef1c921a18dcb235489653ac68af3ade41b564ab952449178"
+file = "mods/travelersbackpack-fabric-1.21.1-10.1.30.jar"
+hash = "5a640985080676db7c070ea2eb0c9b5c14d9bd3e4bc0871492873142a55a2288"
 
 [[files]]
 file = "mods/trinkets-3.10.0.jar"
@@ -1273,5 +1269,5 @@ file = "mods/yet_another_config_lib_v3-3.8.0+1.21.1-fabric.jar"
 hash = "3ad3b24abf153406ce66905d448bd0b802e26ffef3f14acc790d1e2edeb7671b"
 
 [[files]]
-file = "mods/ysm-2.6.0-fabric+mc1.21.1-release.jar"
-hash = "36edaca7edbd5733b248d74dbf7c7a2be8bc63b61ea5244cd02326ce312c749c"
+file = "mods/ysm-2.6.1-fabric+mc1.21.1-release.jar"
+hash = "d4bbbb059eeff65b3bcc26dc8cbb5ca8bfb92f345c3cfab211953dd147e011f0"
