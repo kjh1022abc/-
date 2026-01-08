@@ -541,10 +541,6 @@ file = "mods/dense-flowers-0.2.2+mc1.21.0.jar"
 hash = "6c7e8eb8bcd0f9a991331241c1f26b70878a0118baeb5b011da4f8c305e9423d"
 
 [[files]]
-file = "mods/desktop.ini"
-hash = "b5271521d0a86f62e33c33e17f10e6b56ac6982f8bdeaa625596c6b529f81663"
-
-[[files]]
 file = "mods/disenchanting_table-merged-1.21.1-5.0.2.jar"
 hash = "e763d0d244297bab7e8d8b82fe56ae7e24d1524f677ae1a7a96f9b8570a136b1"
 
@@ -1111,6 +1107,10 @@ hash = "7905948340f287d34e3b55cc69f2d823b2f3442a8e46f74b4f531b91eaef721c"
 [[files]]
 file = "mods/splinecart-0.3.1+1.21.1.jar"
 hash = "dde4d84764f7fa0cd7eb581ed735c5bd53f7759d88afad0ef6475dd636e3b568"
+
+[[files]]
+file = "mods/spuds-shops-1.21.1-1.9.0.jar"
+hash = "c6df89ccdb218d97e9331333b698edeb534e176ece2689d26e02b102bbe4f5de"
 
 [[files]]
 file = "mods/stackedblocks-25.02.13-1.21-fabric.jar"
