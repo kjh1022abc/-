@@ -157,6 +157,10 @@ file = "mods/HorseCombatControls-f1.21.0-1.0.5.jar"
 hash = "a4b93d6dc48f3274a843dd964d0249eea5634618767b32c618fda70d5f1a5da9"
 
 [[files]]
+file = "mods/Icarus-Fabric-4.6.4.jar"
+hash = "4857e1d351788b425282df332a381d1563786f8d448d74732cdae4d0a3799cb3"
+
+[[files]]
 file = "mods/Iceberg-1.21.1-fabric-1.3.2.jar"
 hash = "512c6ca788ec4c676a2f73e668489a03cfe0cb5c0ebda31a1be48527ef1a64e4"
 
@@ -277,6 +281,10 @@ file = "mods/SlashBlade-Refabricated-1.21.1-1.3.0-Resharped-1.8.61.jar"
 hash = "a4ce9355c058ea1bc30758e1bdeb1cabbab7da7313e471384324eee56a696ec6"
 
 [[files]]
+file = "mods/Sparkweave-Fabric-0.510.0.jar"
+hash = "47c344115506263f630b200d85e100deb70593713dce9ab3087a78a1d2b1e452"
+
+[[files]]
 file = "mods/StylishEffects-v21.1.2-1.21.1-Fabric.jar"
 hash = "974d9c0ba5faf256eb16eb92d295e80b0d1291d334be2500f798e71c06abaace"
 
@@ -323,10 +331,6 @@ hash = "d64dc89107a482ec3b1916b096f5c965064786718c683a5ad4112953938659fe"
 [[files]]
 file = "mods/accessories-fabric-1.1.0-beta.52+1.21.1.jar"
 hash = "1cba43330f1a3624bb3785ca0510a4d7e1fa2b6934a2548f3fdf95b2d6ff6706"
-
-[[files]]
-file = "mods/accessorify-2.3.5+1.21.1.jar"
-hash = "78fcaae4f433269caaaf193b64a6e4ecd20fd3f6a6560b1142ed6b7e8eefa0e3"
 
 [[files]]
 file = "mods/actuallyharvest-1.21.1-1.1.6.1-FABRIC.jar"
@@ -465,6 +469,10 @@ file = "mods/cave_dust-3.0.1.jar"
 hash = "2cb163507a903b69fa41767f73863899d07186ca58f76a174487cac801509d45"
 
 [[files]]
+file = "mods/charmofundying-fabric-9.1.0+1.21.1.jar"
+hash = "0621701174308570e5b73c54f073685c5e512aa7fe68a68254b43f2756d11990"
+
+[[files]]
 file = "mods/chat_heads-0.14.2-fabric-1.21.jar"
 hash = "dfda9afa540eb41a1b7f26bbee94d4235b88c1baef60f4c9b70f671f06e1d2f0"
 
@@ -503,6 +511,10 @@ hash = "553fccb94df24be7dd5bc3bd67a61720a430e7a81094f0f6a14dcfc93a2f938b"
 [[files]]
 file = "mods/combat_roll-fabric-2.0.6+1.21.1.jar"
 hash = "0263da292533ae3336569daccd85baa44053ed8f195d2275ebac20d897bcf344"
+
+[[files]]
+file = "mods/common-networking-fabric-1.0.21-1.21.1.jar"
+hash = "f6982f297423c312032477121a961a80deacb0ace4265dc2c3fb4753f1a24bcf"
 
 [[files]]
 file = "mods/configuration-fabric-1.21.1-3.1.1.jar"
@@ -651,6 +663,10 @@ hash = "52d7f2b5135ba6f8f085422169d02a49ad4fb21e3708ec0ddb4dae9241e5a149"
 [[files]]
 file = "mods/fetzisdisplays-fabric-1.0.1-beta-1.21.jar"
 hash = "09d3b6ac887ea21ab103ffa5fce391cf60d40805625a1b45881f676fe24ba648"
+
+[[files]]
+file = "mods/figura-0.1.5+1.21.1-fabric-mc.jar"
+hash = "d02fd3349476930369c72add7622c82fac1288052ce80a91377ed4f904915503"
 
 [[files]]
 file = "mods/footprintparticle-0.5.4b-mc1.21(.1).jar"
@@ -1023,6 +1039,10 @@ hash = "77d9bde7da6316d42616d22420c07b062a03996afcc8d6bf157916f9d72cffe4"
 [[files]]
 file = "mods/replaymod-1.21-2.6.23.jar"
 hash = "dddd99c38803a451f4e30c605074d9702bf6775e575357d0a73431fdd01e6dec"
+
+[[files]]
+file = "mods/resourcefulconfig-fabric-1.21-3.0.11.jar"
+hash = "bdd4d96cdeb71e527e2f72970db3ff0cac4b4e5b6d34a8685b215da2307b0732"
 
 [[files]]
 file = "mods/rogues-fabric-2.6.4+1.21.1.jar"
