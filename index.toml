@@ -485,7 +485,7 @@ file = "mods/chefs-delight-1.0.4-fabric-1.21.1.jar"
 hash = "4a3e48e6b92f3897bcc796d80360b10b31ffd057d781a80905a02c14b2eac9b2"
 
 [[files]]
-file = "mods/choppersdelight-fabric-1.21.1-1.0.2.jar"
+file = "mods/choppersdelight-fabric-1.21.1-1.0.2.jar.disabled"
 hash = "ac256917b43bfdd526037f4c40c9fd606326bf25490dc77e82298021bb0c33e8"
 
 [[files]]
@@ -665,10 +665,6 @@ file = "mods/fetzisdisplays-fabric-1.0.1-beta-1.21.jar"
 hash = "09d3b6ac887ea21ab103ffa5fce391cf60d40805625a1b45881f676fe24ba648"
 
 [[files]]
-file = "mods/figura-0.1.5+1.21.1-fabric-mc.jar"
-hash = "d02fd3349476930369c72add7622c82fac1288052ce80a91377ed4f904915503"
-
-[[files]]
 file = "mods/footprintparticle-0.5.4b-mc1.21(.1).jar"
 hash = "8c6a4f1c786fdb653ac2986a94ba898f84bba04e5c74354f45e45e804cda33d6"
 
@@ -769,10 +765,6 @@ file = "mods/lambdynamiclights-4.8.6+1.21.1.jar"
 hash = "add1bc72fcda8db17fc798f79cfbd781038bf6cac808a473521fa76e38de7b6c"
 
 [[files]]
-file = "mods/language-reload-1.7.5+1.21.1.jar"
-hash = "ce0905de8bdcaf50688d80c84374d23b010fd8ded0cfa2c6b0f8b30469183b64"
-
-[[files]]
 file = "mods/letsdo-bakery-fabric-2.1.2.jar"
 hash = "ad357c7c0991b3e46bb3db5ac048b57fc2f9ad7ecc66526850604a5ac075fc77"
 
@@ -829,10 +821,6 @@ file = "mods/maseffects-1.21.1.jar"
 hash = "ab0ec4f941dbad27de78e0fc76733c0b6ce08fe44e760cf336f1a8eab13f4e9e"
 
 [[files]]
-file = "mods/mcef-fabric-2.1.6-1.21.1.jar"
-hash = "2f5b4d7f79bb16d2316c01e931b118b9d6c2305c6c087f6e27659b5723f10397"
-
-[[files]]
 file = "mods/mcw-bridges-3.1.0-mc1.21.1fabric.jar"
 hash = "1953d94d901235a204d31aff20dea972b553c785f184a30f613b72af6c2686d2"
 
@@ -845,12 +833,24 @@ file = "mods/mcw-fences-1.2.0-1.21.1fabric.jar"
 hash = "5659f9f6b9aab593cff473cdfbbd20dfd277601366f52f9c61e2e4d8fd2376ad"
 
 [[files]]
+file = "mods/mcw-lights-1.1.5-mc1.21.1fabric.jar"
+hash = "a5743a24da303ec6ef259dc3d53e4f0eb2bfccbb3ecc3f223dbeb1714e457f32"
+
+[[files]]
+file = "mods/mcw-mcwpaths-1.1.1-mc1.21.1fabric.jar"
+hash = "ee1f81f5490bca160ace90749cf98a0513156d82801f4c68af5acf88c90aa898"
+
+[[files]]
 file = "mods/mcw-roofs-2.3.2-mc1.21.1fabric.jar"
 hash = "824251e0c8cf44e90664e748cd33b09d0010c5a0d4f96e221b7197cf0c3eb874"
 
 [[files]]
 file = "mods/mcw-stairs-1.0.1-1.21.1fabric.jar"
 hash = "3a1cbcf501a89e5ec05840d4f75447f1ecb77e6b8c71386f627c2d83eb08d911"
+
+[[files]]
+file = "mods/mcw-trapdoors-1.1.5-mc1.21.1fabric.jar"
+hash = "b32ff007aa60c90a1293d52fd3f58b04e97b3c783034376ce830fd5b7359f001"
 
 [[files]]
 file = "mods/mcw-windows-2.4.0-1.21.1fabric.jar"
@@ -993,10 +993,6 @@ file = "mods/pneumonocore-1.2.0+1.21.1.jar"
 hash = "460dc2e9c9745b92558c863434a6db4d808c918d902d40ea903d4827651201e6"
 
 [[files]]
-file = "mods/prickle-fabric-1.21.1-21.1.11.jar"
-hash = "2ec4d145c0eafadd69fed7d5e0c4979b5d8d397ad9ab8687fd51291a85515e0b"
-
-[[files]]
 file = "mods/puffish_skills-0.16.8-1.21-fabric.jar"
 hash = "7d37e1732aaf8c0429bb4568cc8751713dd471d8f3dfde2b6fb28eb280ba5868"
 
@@ -1037,10 +1033,6 @@ file = "mods/relics-fabric-1.2.1+1.21.1.jar"
 hash = "77d9bde7da6316d42616d22420c07b062a03996afcc8d6bf157916f9d72cffe4"
 
 [[files]]
-file = "mods/replaymod-1.21-2.6.23.jar"
-hash = "dddd99c38803a451f4e30c605074d9702bf6775e575357d0a73431fdd01e6dec"
-
-[[files]]
 file = "mods/resourcefulconfig-fabric-1.21-3.0.11.jar"
 hash = "bdd4d96cdeb71e527e2f72970db3ff0cac4b4e5b6d34a8685b215da2307b0732"
 
@@ -1059,6 +1051,10 @@ hash = "4891ee69465eaf0c3b887a8d91b2858fc3abc286af2d0f60aec2a19129ea56ef"
 [[files]]
 file = "mods/show-me-your-skin-1.11.3+1.21.jar"
 hash = "89f49d0b265c33330049dd5040e0476d75a0864a477fda3bff5a8bf40ea500cb"
+
+[[files]]
+file = "mods/shulkerboxslot-fabric-6.0.0+1.21.1.jar"
+hash = "40c528495210bd74297098cfad6aa7048eba02747941d4a2c30a8a915e7bc133"
 
 [[files]]
 file = "mods/shulkerboxtooltip-fabric-5.1.8+1.21.1.jar"
@@ -1191,10 +1187,6 @@ hash = "97c240d47a9ea25bad628ae9b79f3ddcd69f44b7777c8dc5e7dcc1638f2a82d7"
 [[files]]
 file = "mods/tooltipfix-1.1.1-1.20.jar"
 hash = "21f986fa6fab80fd22ee180339129392f207197e0fa77af06bbcb1b3c16332e2"
-
-[[files]]
-file = "mods/trade-cycling-fabric-1.21.1-1.0.18.jar"
-hash = "a8e2fff3e9c72ddbae01fc81dd9e927028a794404afcf893f5ec3a2a4c696246"
 
 [[files]]
 file = "mods/trailandtales_delight-1.3.jar"
