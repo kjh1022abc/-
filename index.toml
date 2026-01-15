@@ -1273,10 +1273,6 @@ file = "mods/vegandelight-fabric-1.21.1-2.0.0-beta3.jar"
 hash = "d26bff6a4aa4fd645df09252677ee76825ea2201793bc6fa51e86a413e3402b1"
 
 [[files]]
-file = "mods/videotape-1.5.1.jar"
-hash = "8364825f089739af444c97203409b63a353b533ac0454f1d4e59958fcb6d3473"
-
-[[files]]
 file = "mods/village_taverns-fabric-1.1.5+1.21.1.jar"
 hash = "3abf2883ad35e1bf3eb113b2805c8e8c7bd3378bfb8044340e202bf9b67d6ba8"
 
