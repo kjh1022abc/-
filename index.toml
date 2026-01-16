@@ -121,6 +121,10 @@ file = "mods/EnchantingInfuser-v21.1.2-1.21.1-Fabric.jar"
 hash = "6edb14aaf69fad8b017c7f3ce8984ffeb3a12355d3575e5fc4900a6e7f1597c7"
 
 [[files]]
+file = "mods/EuphoriaPatcher-1.7.8-r5.6.1-fabric.jar"
+hash = "1eb61ef08f74978153e23e2800725eeca67c7013b33ffdd3ba69908f734746a4"
+
+[[files]]
 file = "mods/ExplorersCompass-1.21.1-2.2.5-fabric.jar"
 hash = "1928425d73656e11e45535f4ffcd9f43a1cf80a2e88f75049dfc2aa40d647bac"
 
@@ -167,6 +171,10 @@ hash = "4857e1d351788b425282df332a381d1563786f8d448d74732cdae4d0a3799cb3"
 [[files]]
 file = "mods/Iceberg-1.21.1-fabric-1.3.2.jar"
 hash = "512c6ca788ec4c676a2f73e668489a03cfe0cb5c0ebda31a1be48527ef1a64e4"
+
+[[files]]
+file = "mods/IdleTweaks-1.1.0.jar"
+hash = "6bc76394394c626ed60f7ab26a00903a3d60e01c1e0155d7fbe74ffd83a2032a"
 
 [[files]]
 file = "mods/ImmediatelyFast-Fabric-1.6.7+1.21.1.jar"
@@ -455,6 +463,10 @@ hash = "77bda474aaba16e20b83aa89c3ae739d1fd48969dd3aee115d82e704eb170ddf"
 [[files]]
 file = "mods/better-nether-21.0.11.jar"
 hash = "6c86d8c315993dc5b49664c67e750c0aa3e3fc81cf6604634dca5e3d2ca2a10c"
+
+[[files]]
+file = "mods/betterbiomeblend-1.5.2.jar"
+hash = "5f632bf837b9b3c28eeaa4182fef6b24634a492e793ca98e7ba1ec0ffbb11083"
 
 [[files]]
 file = "mods/bettercombat-fabric-2.3.1+1.21.1.jar"
@@ -1085,6 +1097,10 @@ file = "mods/resourcefulconfig-fabric-1.21-3.0.11.jar"
 hash = "bdd4d96cdeb71e527e2f72970db3ff0cac4b4e5b6d34a8685b215da2307b0732"
 
 [[files]]
+file = "mods/resourcefulconfig-fabric-1.21-3.0.11.jar.duplicate"
+hash = "bdd4d96cdeb71e527e2f72970db3ff0cac4b4e5b6d34a8685b215da2307b0732"
+
+[[files]]
 file = "mods/rogues-fabric-2.6.4+1.21.1.jar"
 hash = "5b61daccb2c3470d2b34adfc95a9b191aebf58a71d796f18318af536faceb959"
 
@@ -1199,6 +1215,10 @@ hash = "de880c774daaa992c7d428261d8585dd82d43bf02e0982095ddf7be59c6bcdb4"
 [[files]]
 file = "mods/structure_pool_api-fabric-1.2.1+1.21.1.jar"
 hash = "560284cf233141fae52cbd997a2d6b217d6ec37aa06711e9a096926766014933"
+
+[[files]]
+file = "mods/superfastmath-0.0.2-1.21.1.jar"
+hash = "2d19f8a9026bf4c07c463fb0598806af1d2c804ec1e6efe18ce2df0c2f4b23e4"
 
 [[files]]
 file = "mods/supermartijn642configlib-1.1.8-fabric-mc1.21.jar"
@@ -1327,6 +1347,10 @@ hash = "a711521751b0c56ebb4139756ce6bfe4622ef3f6fa7043cb2af149d6a18a1f81"
 [[files]]
 file = "mods/xaeroworldmap-fabric-1.21.1-1.40.6.jar"
 hash = "632da2b6267e354cc20f9da8376d30a8235dd8754ec0694922daf60085565f9b"
+
+[[files]]
+file = "mods/xlpackets-1.0.5-1.21.jar"
+hash = "abb16ebdb2f23ea24294751e890e22604599b6b2c86a83c7a0a2a41d44773c37"
 
 [[files]]
 file = "mods/yarrp-mc1.21.1-fabric-v0.2.0.jar"
