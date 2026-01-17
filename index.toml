@@ -1197,10 +1197,6 @@ file = "mods/stackrefill-1.21.1-4.9.jar"
 hash = "c01c17c3122db7a29d16dad703e104b2b438d6838807cafd68954beaa30320ba"
 
 [[files]]
-file = "mods/storagedelight-25.06.24-1.21-fabric.jar"
-hash = "de880c774daaa992c7d428261d8585dd82d43bf02e0982095ddf7be59c6bcdb4"
-
-[[files]]
 file = "mods/structure_pool_api-fabric-1.2.1+1.21.1.jar"
 hash = "560284cf233141fae52cbd997a2d6b217d6ec37aa06711e9a096926766014933"
 
@@ -1263,10 +1259,6 @@ hash = "90bc31fa9f38ab8e066d978fe2803d8b02c32e27d9a6094ce73873d8561061f5"
 [[files]]
 file = "mods/txnilib-fabric-1.0.24-1.21.1.jar"
 hash = "814ea0db4bddf0bbc7beb316490e5f709e067203bbe1b8780ef3b2dde267ccc3"
-
-[[files]]
-file = "mods/ubesdelight-fabric-1.21.1-0.4.6-3.0.0+refab.jar"
-hash = "fda4a11a25216f3a1855467a7064cb3ccd23c2e42e210e5ae3cbc96eeee79f19"
 
 [[files]]
 file = "mods/vegandelight-fabric-1.21.1-2.0.0-beta3.jar"
