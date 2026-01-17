@@ -245,10 +245,6 @@ file = "mods/Necronomicon-Fabric-1.6.0+1.21.jar"
 hash = "2cfee8e9ceb63c34a540d341752768af67cb2e6b9fc307b50d276895d6f0dc29"
 
 [[files]]
-file = "mods/NetherChested-v21.1.1-1.21.1-Fabric.jar"
-hash = "b5b1b7c69f69e4ce5af5bb4020485984a6c0bd393ee0ce89404ca263d069d104"
-
-[[files]]
 file = "mods/Not Enough Recipe Book-FABRIC-0.4.3+1.21.jar"
 hash = "0f2f8d670bc6aa2f76b030acfd8ad6e4c38595be231d08006c51fe4328302bf3"
 
@@ -1185,14 +1181,6 @@ file = "mods/spell_power-fabric-1.4.4+1.21.1.jar"
 hash = "e209dde4b4f8aa62e84e9135620d7f904049c81fd2831fe44564506b687719fe"
 
 [[files]]
-file = "mods/spellbladenext-fabric-2.7.1+1.21.1.jar"
-hash = "7905948340f287d34e3b55cc69f2d823b2f3442a8e46f74b4f531b91eaef721c"
-
-[[files]]
-file = "mods/splinecart-0.3.1+1.21.1.jar"
-hash = "dde4d84764f7fa0cd7eb581ed735c5bd53f7759d88afad0ef6475dd636e3b568"
-
-[[files]]
 file = "mods/spuds-shops-1.21.1-1.9.0.jar"
 hash = "c6df89ccdb218d97e9331333b698edeb534e176ece2689d26e02b102bbe4f5de"
 
@@ -1319,10 +1307,6 @@ hash = "ac1f56191737e2047fe7330c9990321b3ee289f98244cf0c19f88a69ea11e457"
 [[files]]
 file = "mods/weaponmaster_ydm-fabric-1.21.1-4.4.2.jar"
 hash = "5bf5cfc041e9b543e993a8a696702c3a2a09caaed9304e9f88d2a425e451b603"
-
-[[files]]
-file = "mods/winterly-0.11.2+1.21.jar"
-hash = "38c610967a780517c1557f8c1753e15877731b8c3196733bb30ba20053165f35"
 
 [[files]]
 file = "mods/witcher-class-mod-fabric-2.6.2+1.21.1.jar"
