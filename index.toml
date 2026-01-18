@@ -529,6 +529,10 @@ file = "mods/chefs-delight-1.0.4-fabric-1.21.1.jar"
 hash = "4a3e48e6b92f3897bcc796d80360b10b31ffd057d781a80905a02c14b2eac9b2"
 
 [[files]]
+file = "mods/chimericlib-fabric-2.2.0.jar"
+hash = "5870bc17cdd6b8abc28c673912b2bc11d392e3b3d014849f3e15faaa257dafec"
+
+[[files]]
 file = "mods/cicada-lib-0.14.3+1.21-1.21.1.jar"
 hash = "cae8a9f4204365a789ebabcd5ba13c918629b394f3f84dcebcc75402f7e6b646"
 
@@ -1185,6 +1189,10 @@ file = "mods/spuds-shops-1.21.1-1.9.0.jar"
 hash = "c6df89ccdb218d97e9331333b698edeb534e176ece2689d26e02b102bbe4f5de"
 
 [[files]]
+file = "mods/stackable-fabric-1.21.1-2.0.4.jar"
+hash = "6ca1f4e87a9cf5ba93d225d52967efa99d0913c9cfae27ee9e9dfd7979f2b690"
+
+[[files]]
 file = "mods/stackedblocks-25.02.13-1.21-fabric.jar"
 hash = "fde2cafb6d4fc159cb4a6134231a29284f99c9840f6677398f3dd9abada11382"
 
@@ -1267,6 +1275,10 @@ hash = "d26bff6a4aa4fd645df09252677ee76825ea2201793bc6fa51e86a413e3402b1"
 [[files]]
 file = "mods/village_taverns-fabric-1.1.5+1.21.1.jar"
 hash = "3abf2883ad35e1bf3eb113b2805c8e8c7bd3378bfb8044340e202bf9b67d6ba8"
+
+[[files]]
+file = "mods/villagertweaks-fabric-4.2.0.jar"
+hash = "67e6f1a01f0e7667e616a62611312d2c41e9bbba72b55b53aae6df6461d4da21"
 
 [[files]]
 file = "mods/visuality-0.7.7+1.21.jar"
