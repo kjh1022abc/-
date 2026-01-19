@@ -33,10 +33,6 @@ file = "mods/BetterF3-11.0.3-Fabric-1.21.1.jar"
 hash = "1f0932e92997fcde21a16cb046da225bc60b910c6025eb7a3064f3344a55cef0"
 
 [[files]]
-file = "mods/BetterPingDisplay-Fabric-1.21.1-1.1.1.jar"
-hash = "cbf0b295975a8a02a95ea08e74cb75ddc1386dafbb7fb780c02f60eda18d2d5b"
-
-[[files]]
 file = "mods/BetterTridents-v21.1.0-1.21.1-Fabric.jar"
 hash = "289d9f0859eb58d335c07802d4a2d92c68b4c6029bc58875d3f0be4cd9d353ba"
 
@@ -467,10 +463,6 @@ hash = "5f632bf837b9b3c28eeaa4182fef6b24634a492e793ca98e7ba1ec0ffbb11083"
 [[files]]
 file = "mods/bettercombat-fabric-2.3.1+1.21.1.jar"
 hash = "8d9bbb002884f57405d93d65f956e301ae894a1151bc9a92eec26574796195c3"
-
-[[files]]
-file = "mods/betterendelytrafix-fabric-1.0.0-1.21.1.jar"
-hash = "10c89e2fdc196df69704e679a41e2271e7092d23ef6555e7e5d812bc93642647"
 
 [[files]]
 file = "mods/betterstats-3.13.9+fabric-1.21.jar"
@@ -1219,6 +1211,10 @@ hash = "3babc48f1b507363884299223543acc014e0269fe7ea3160365aa757c69e22d4"
 [[files]]
 file = "mods/supermartijn642corelib-1.1.18a-fabric-mc1.21.jar"
 hash = "710fc6a29ef9b7ab667383ca5ae037cc55c8d98ff1243c0d6145f8b0230798fe"
+
+[[files]]
+file = "mods/tabtweaks-1.5.9+1.21.1-fabric.jar"
+hash = "855819a70d70ced3147d26ee5af692e91e7b897e1a3515880fa5eadbc36593c1"
 
 [[files]]
 file = "mods/talk_balloons-fabric-1.4.1+1.21.1.jar"
