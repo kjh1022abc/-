@@ -361,6 +361,10 @@ file = "mods/additional_rpg_jewelry-fabric-2.2.2+1.21.1.jar"
 hash = "3a2e4151d51d533a26479cee495aa58214dcd949ec18775dd872227ee15fce51"
 
 [[files]]
+file = "mods/adorabuild-structures-2.11.0-fabric-1.21.3.jar"
+hash = "45b03ede3562388f0f6a84d2262c1f1e290f88b12bed625f5e01f18f4c8955fa"
+
+[[files]]
 file = "mods/ambiance-fabric-1.21-1.1.0.jar"
 hash = "5a7d27b9cb3c51a05ccc73aea73053349335e33eff44ba16925466ca07528a91"
 
@@ -655,6 +659,10 @@ hash = "dac45049d6871c7cf94f31414ee1d1ed73f75ba31af4e0956d5ddebd4bf024f2"
 [[files]]
 file = "mods/entityculling-fabric-1.9.5-mc1.21.1.jar"
 hash = "9099d607d6899f2b4d84bd02b6e22f672f0e44dcedf7e4157a1e60a8dcaba0f6"
+
+[[files]]
+file = "mods/explorations-fabric-1.21.1-1.6.2.jar"
+hash = "4aee064b3ec5254e912cc80248b264c87c2644ede72db2e10984507a2360d4a3"
 
 [[files]]
 file = "mods/explosive-enhancement-1.3.2-1.21-1.21.1.jar"
@@ -1205,6 +1213,10 @@ file = "mods/supermartijn642corelib-1.1.18a-fabric-mc1.21.jar"
 hash = "710fc6a29ef9b7ab667383ca5ae037cc55c8d98ff1243c0d6145f8b0230798fe"
 
 [[files]]
+file = "mods/swinginglanterns-1.21.1-1.3.1.jar"
+hash = "627c6ccc2b33287dcd905988b4c30dd3432fe855dfb090714491d335531cdcd8"
+
+[[files]]
 file = "mods/tabtweaks-1.5.9+1.21.1-fabric.jar"
 hash = "855819a70d70ced3147d26ee5af692e91e7b897e1a3515880fa5eadbc36593c1"
 
@@ -1235,6 +1247,10 @@ hash = "97c240d47a9ea25bad628ae9b79f3ddcd69f44b7777c8dc5e7dcc1638f2a82d7"
 [[files]]
 file = "mods/tooltipfix-1.1.1-1.20.jar"
 hash = "21f986fa6fab80fd22ee180339129392f207197e0fa77af06bbcb1b3c16332e2"
+
+[[files]]
+file = "mods/totw_modded-fabric-1.21-1.0.9.jar"
+hash = "2a56ac479b63b48ff0a31c5373e65b0fdacbd4277c633931cd8e934876069eac"
 
 [[files]]
 file = "mods/trailandtales_delight-1.3.jar"
