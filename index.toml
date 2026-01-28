@@ -813,16 +813,16 @@ file = "mods/lambdynamiclights-4.8.6+1.21.1.jar"
 hash = "ba6cffcc68eefcb6745b9ea224c26009cc70772d4b48db689d57d96f613f5937"
 
 [[files]]
-file = "mods/letsdo-bakery-fabric-2.1.2.jar"
-hash = "ad357c7c0991b3e46bb3db5ac048b57fc2f9ad7ecc66526850604a5ac075fc77"
+file = "mods/letsdo-bakery-fabric-2.1.3.jar"
+hash = "5f0945425861adf29c94ac9d6ce5093a4095aea29d762be4a5dd4ffcfc3cc38a"
 
 [[files]]
-file = "mods/letsdo-candlelight-fabric-2.1.5.jar"
-hash = "ee52b7bc25d69029b9943e1744757c991d5ba65e23d1dad0012d0ae4dab6da43"
+file = "mods/letsdo-candlelight-fabric-2.1.6.jar"
+hash = "fc8f607647c983c314106c2a9874633d49df3872e6ea18d677935a89fd0ceea8"
 
 [[files]]
-file = "mods/letsdo-farm_and_charm-fabric-1.1.14.jar"
-hash = "fe31197229f60639f0649437bbdaced045cf0bea40241372d1b0a0c419a8bc6e"
+file = "mods/letsdo-farm_and_charm-fabric-1.1.15.jar"
+hash = "62c3e5aa4b87b6c2eb91e18a53db9966bf06ad24fdf90042287897ab6b80f66c"
 
 [[files]]
 file = "mods/letsdo-herbalbrews-fabric-1.1.2.jar"
