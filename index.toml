@@ -709,8 +709,8 @@ file = "mods/fastquit-3.0.0+1.20.6.jar"
 hash = "64d20db9db39afe4d973a1f623d16e6f4ab125543632896c620886bc85ba410b"
 
 [[files]]
-file = "mods/ferritecore-7.0.2-hotfix-fabric.jar"
-hash = "52d7f2b5135ba6f8f085422169d02a49ad4fb21e3708ec0ddb4dae9241e5a149"
+file = "mods/ferritecore-7.0.3-fabric.jar"
+hash = "98c3ab1d5aab8f14b5d082d3f1a467727fd335f02d124555c94339761c4c18f2"
 
 [[files]]
 file = "mods/fetzisdisplays-fabric-1.0.1-beta-1.21.jar"
