@@ -229,6 +229,10 @@ file = "mods/MapDistanceFix-1.0.12+mc1.20.5-1.21.10.jar"
 hash = "86a78d9cc15c8abfd17e5ea2d3ebe9b6e838b80c8570e490060cac9682f53a84"
 
 [[files]]
+file = "mods/MinecraftCapes Fabric 1.21.1-1.0.0.jar"
+hash = "766c885be9bb876ea4597e23f16d0fe810bf6205cf62db2ac5cb6c005a7840dc"
+
+[[files]]
 file = "mods/MouseTweaks-fabric-mc1.21-2.26.jar"
 hash = "bcdc336c81fcf8f9b341ec2c540dc2aeefc1956edacb1906d67ad1ddf689c92d"
 
