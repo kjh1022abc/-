@@ -197,6 +197,10 @@ file = "mods/Item_Obliterator-Fabric_Quilt-MC_1.21-3.1.1.jar"
 hash = "7376b8517a3193dccd5a269cf334f8878ae489cdd147c488b4ac20ecbd3a7b86"
 
 [[files]]
+file = "mods/ItemsDisplayed - v1.3-1.21.1.jar"
+hash = "7cd3156c31d7d97dab0b359b9bd41c15b1484ea3631c198893bd88ee4a380564"
+
+[[files]]
 file = "mods/Jade-1.21.1-Fabric-15.10.2.jar"
 hash = "f00c933ac513abda4e82f13ea6248c02243e07ee4b3d01e21898c3a52d1c95e0"
 
@@ -710,7 +714,7 @@ hash = "64d20db9db39afe4d973a1f623d16e6f4ab125543632896c620886bc85ba410b"
 
 [[files]]
 file = "mods/ferritecore-7.0.3-fabric.jar"
-hash = "98c3ab1d5aab8f14b5d082d3f1a467727fd335f02d124555c94339761c4c18f2"
+hash = "c2afb5dc05d31434a513f72640dec08552c63e8771609aac771e462ea5807f2f"
 
 [[files]]
 file = "mods/fetzisdisplays-fabric-1.0.1-beta-1.21.jar"
@@ -1047,6 +1051,10 @@ hash = "21745a2ba2cb41ff6e59f8a8453d14c887c02c1b1205b4d5e073d8aee5f61b6a"
 [[files]]
 file = "mods/pneumonocore-1.2.0+1.21.1.jar"
 hash = "460dc2e9c9745b92558c863434a6db4d808c918d902d40ea903d4827651201e6"
+
+[[files]]
+file = "mods/polymorph-fabric-1.1.0+1.21.1.jar"
+hash = "bc47b33c864b463167998680c296f513e6d06b42de6db03db0f274ae1f2ee671"
 
 [[files]]
 file = "mods/pumpkin_pie_delight-1.0.2+1.21.jar"
