@@ -89,8 +89,8 @@ file = "mods/DiagonalFences-v21.1.1-1.21.1-Fabric.jar"
 hash = "3aefd48f57b048879a9fd0fb91d4597301cc2a613f99a05a5f5a80bb683fa096"
 
 [[files]]
-file = "mods/DistantHorizons-2.3.6-b-1.21.1-fabric-neoforge.jar"
-hash = "180ede29c9b1550db75938a510390cf53220c60cc8cc395d64cfa26bd6c25c6c"
+file = "mods/DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar"
+hash = "486fdeb5b0545637fd94988f12574cda632b107452838484b55e62a0093d3243"
 
 [[files]]
 file = "mods/Drip Sounds-0.5.1+1.21.5-Fabric.jar"
@@ -110,7 +110,7 @@ hash = "413526d06a8c520cdb75dfc69a00eb1d98bd4702812219b9184e4cdcdc490849"
 
 [[files]]
 file = "mods/EmeraldTools-Fabric-1.21.1-1.8.17.jar"
-hash = "91d14648a48cc1133199ae14ced0cab228198f4ddaafd19b963ba8baa01acc88"
+hash = "b4c358b63d9f44448783aca1a5aa5868c22366d103b7aa6fe66664fc39d1bbe1"
 
 [[files]]
 file = "mods/EnchantingInfuser-v21.1.2-1.21.1-Fabric.jar"
@@ -231,6 +231,10 @@ hash = "e4bbfca9e814fcd7e6a3927d52616814e2a6e35e507cf58f6b1ac80a79360bc7"
 [[files]]
 file = "mods/MinecraftCapes Fabric 1.21.1-1.0.0.jar"
 hash = "653c6c15fd501763013e02b5909a792ba96a875b73cea48b64de1577fd26bf5c"
+
+[[files]]
+file = "mods/MobCollisionOff-2.0.jar"
+hash = "02d5764dfa5e08aa6ca475d0be99009dad7f42bdcea9af2d1baed856cbd62301"
 
 [[files]]
 file = "mods/MouseTweaks-fabric-mc1.21-2.26.jar"
@@ -462,11 +466,11 @@ hash = "748bbe5b32ddb7435ecb1fac39a285d70908851b10955fdfb73f32015c2c5962"
 
 [[files]]
 file = "mods/better-end-21.0.11.jar"
-hash = "77bda474aaba16e20b83aa89c3ae739d1fd48969dd3aee115d82e704eb170ddf"
+hash = "d353aca1e6ee3fc851474d996cf2637413e405a605201c14d7b4c3c0aeb6ff22"
 
 [[files]]
 file = "mods/better-nether-21.0.11.jar"
-hash = "6c86d8c315993dc5b49664c67e750c0aa3e3fc81cf6604634dca5e3d2ca2a10c"
+hash = "10640ff6d515d30955487650cbe3548d28d21c1d578008b6ed1b80f90d014249"
 
 [[files]]
 file = "mods/betterbiomeblend-1.5.2.jar"
@@ -1069,6 +1073,10 @@ file = "mods/pumpkin_pie_delight-1.0.2+1.21.jar"
 hash = "52e0315ed8807e18f58f7e88baa259d19d9fe59b1e86c33d40ffd89fa444b8f7"
 
 [[files]]
+file = "mods/punchy-2.3-fabric-1.21.1.jar"
+hash = "eb7a85c3f3a0cc9305d713f06911a39f0750e65364501e1522ec82e6c73f0bbc"
+
+[[files]]
 file = "mods/ranged_weapon_api-fabric-2.3.2+1.21.1.jar"
 hash = "3909bc5067df522bd507a290f957ff14a9a9ed6e60019c00d436bf5f7af1c239"
 
@@ -1223,6 +1231,10 @@ hash = "3afd16ec2b6c7123a082102d832e350da2c4c7cef41aeb9129944fa499ec7e83"
 [[files]]
 file = "mods/supermartijn642corelib-1.1.18a-fabric-mc1.21.jar"
 hash = "171f74a0f6598285356d766a74eb18e7d154a6d4d65d84da40ee497423ab28e8"
+
+[[files]]
+file = "mods/swinginglanterns-1.21.1-1.4.0.jar"
+hash = "da35792a349fe077fdea35cbd02656518b5cdadf517e360831e66662dfdf9a89"
 
 [[files]]
 file = "mods/tabtweaks-1.5.9+1.21.1-fabric.jar"
