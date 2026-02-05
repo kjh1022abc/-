@@ -629,6 +629,10 @@ file = "mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar"
 hash = "89f59f56db2ec0c299802081380178c055d297a2522a9fae8c76b5339eae7140"
 
 [[files]]
+file = "mods/dummmmmmy-1.21-2.0.11-fabric.jar"
+hash = "c36fd56d3c643607fdf7dfda6cb57b7e723ed430b1a289d9931641c30d8ebf92"
+
+[[files]]
 file = "mods/dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar"
 hash = "429ab71c30bd433ffe2a567dfbd55fa97a537d23c86a9cbb19026cba45188617"
 
