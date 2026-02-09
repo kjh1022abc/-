@@ -101,6 +101,10 @@ file = "mods/DumplingsDelightRewrapped-1.21.1-1.3.0+fabric.jar"
 hash = "f659d524fe2755b3465539d891b03d34d49e317b54a4b4f6c46b917a4511725b"
 
 [[files]]
+file = "mods/EMIProfessions-fabric-1.21.1-1.0.3.jar"
+hash = "a488bbf310576a23d0e19a0e560ddd8ba79ceff1eda0947fb8b127c46ff72df2"
+
+[[files]]
 file = "mods/EasyMagic-v21.1.4-1.21.1-Fabric.jar"
 hash = "04eceb7d0afe515b0933ada1f115dab9d53e4098128d3a1be705031e61603899"
 
@@ -597,6 +601,10 @@ file = "mods/customchestmenus-fabric-1.21.1-1.6.0.jar"
 hash = "c2d6c885ab1686076b1aad5ef10f92cce885185c8b54bc771e574edc26f55547"
 
 [[files]]
+file = "mods/dashloader-5.1.0-beta.8+1.21.1.jar"
+hash = "743bce89a7361b5b976663b86eaa860a55bb33fd925a35a45a34a5cf7a21c1ea"
+
+[[files]]
 file = "mods/dense-flowers-0.2.2+mc1.21.0.jar"
 hash = "6c7e8eb8bcd0f9a991331241c1f26b70878a0118baeb5b011da4f8c305e9423d"
 
@@ -645,6 +653,30 @@ file = "mods/elytraslot-fabric-9.0.1+1.21.1.jar"
 hash = "f8db8ded455fb3d0d5a4dcf5033d8fa5ec833cdb501cc0cea168e9a0dd8cf374"
 
 [[files]]
+file = "mods/emi-1.1.22+1.21.1+fabric.jar"
+hash = "96399c49bbef6ba71a0aa585cf4947086a131098f2dd04a15cbdd6758a53093a"
+
+[[files]]
+file = "mods/emi-letsdo-compat-2.0.1.jar"
+hash = "0bbc860f1638a95edb1524a421b0642e19d4d659f76ff7be762738c3277689ae"
+
+[[files]]
+file = "mods/emi_enchanting-0.1.2+1.21.jar"
+hash = "b76a2a97815338bc640b85d57828ab871c97438ad5f9d7777d4aa0bf8324458d"
+
+[[files]]
+file = "mods/emi_ores-1.2+1.21.1+fabric.jar"
+hash = "a04a61094b884a1b0185e8c18aca5c7a2d31e1a78c114e7f915813d8f7c30c85"
+
+[[files]]
+file = "mods/emiffect-fabric-2.1.6+mc1.21.1.jar"
+hash = "753f68c436f9de2c2857c552d04903fb4f976bea7e2ae54fc0898723db1c9463"
+
+[[files]]
+file = "mods/emixx-fabric-1.2.3.jar"
+hash = "a334082d78e03f14f55efdd0b16b9bfc959d2f7764745e129927ab9e3c6d1ac9"
+
+[[files]]
 file = "mods/enchanted-bookshelves-1.0+1.21.jar"
 hash = "358fa186ebef6ea94b83b2f458b4fd2fd14a97669d55d77348f794770e4fef98"
 
@@ -658,11 +690,11 @@ hash = "bd755004af220b138b0d435e2d3bcafae23a775393d3f588de605c9cb266b7ce"
 
 [[files]]
 file = "mods/entity_model_features_fabric_1.21.1-2.4.1.jar"
-hash = "e825079fdee5bda1fda354ca85f99bbc58689ca6e8094124f0f2f34a741662e1"
+hash = "f0965f21771a6de65fdeb2f26f054e0cfb47c0386d778a3b7708bf41da1c143d"
 
 [[files]]
 file = "mods/entity_texture_features_fabric_1.21.1-6.2.9.jar"
-hash = "55df6b310a2cd378368d5ed627bf60cbd3d2627fc603456a0b6d9b60dc8ba157"
+hash = "e9b62c31ac441cb4c2e1d894104565515d801c5d24539a310287430805140ff7"
 
 [[files]]
 file = "mods/entityculling-fabric-1.9.5-mc1.21.1.jar"
