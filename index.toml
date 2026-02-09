@@ -658,7 +658,7 @@ hash = "96399c49bbef6ba71a0aa585cf4947086a131098f2dd04a15cbdd6758a53093a"
 
 [[files]]
 file = "mods/emi-letsdo-compat-2.0.1.jar"
-hash = "a6003b792968492e9e227635328ff9916ddf42d0b06e1900ae9f2e787101ba9a"
+hash = "ae6157bab31146d35ab5bd06d79ac9752040143f920d3aecc1347955e584a224"
 
 [[files]]
 file = "mods/emi_enchanting-0.1.2+1.21.jar"
@@ -777,8 +777,8 @@ file = "mods/fzzy_config-0.7.5+1.21.jar"
 hash = "f64224a57474d0c373b7625ba2537686e9fb0a2089bbe66b5fb8ec9e4b3f04e8"
 
 [[files]]
-file = "mods/geckolib-fabric-1.21.1-4.7.4.jar"
-hash = "96593b565a5f66b9436227e61014d05d780e62e26396f2c79addd7a7cdeffbe6"
+file = "mods/geckolib-fabric-1.21.1-4.8.3.jar"
+hash = "d11bf9d1cb7456d2547d94fdd177155d8e81e1e9c405201c7aef0781e0a3efd4"
 
 [[files]]
 file = "mods/gliders-1.21.1-fabric-1.1.8.jar"
@@ -801,16 +801,16 @@ file = "mods/idwtialsimmoedm-0.3.2+1.21.jar"
 hash = "d79ba6ef9fde801ed4e1411326816ac8950d7f96a4202a3bf0a6726dce92978b"
 
 [[files]]
-file = "mods/immersive_aircraft-1.4.1+1.21.1-fabric.jar"
-hash = "db11bfabadf5f875099ceb64b7995cd149d8fcf97327689802ebc375238438f7"
+file = "mods/immersive_aircraft-1.4.2+1.21.1-fabric.jar"
+hash = "e34aac5fc3bbf152a1507c822ab640c7f76023cf5d351d48ff15cac6a59f5b85"
 
 [[files]]
 file = "mods/immersive_melodies-fabric-0.6.2+1.21.1.jar"
 hash = "dd7a4701aa5a753fb25e9a782d96f7da0ae280e12ae00ff27085d4d579628896"
 
 [[files]]
-file = "mods/immersive_paintings-fabric-1.21.1-0.7.4.jar"
-hash = "f4e14b849679a237412c1656e38a7c70b914d3319cb494873ac9e267eded732b"
+file = "mods/immersive_paintings-fabric-1.21.1-0.7.6.jar"
+hash = "244ca83a2a62e8d03914090eeb083ea60be8016fb58e980bdac22552d873385f"
 
 [[files]]
 file = "mods/inventoryhud.fabric.1.21.1-3.4.26.jar"
@@ -1378,11 +1378,11 @@ hash = "70bfe127d0649d639d1a2d078c642badde8f7f5b247c430efb6915a3ec3eecea"
 
 [[files]]
 file = "mods/xaerominimap-fabric-1.21.1-25.3.10.jar"
-hash = "51e52058f947323fcf2d6cd495dbdc42e9937beb916a1d976f78a702fb08aaef"
+hash = "a2380c4836a5ebce3d9757eb8226ee9a3ef3fcd2ca03971d32f9eecc11ff7324"
 
 [[files]]
 file = "mods/xaeroworldmap-fabric-1.21.1-1.40.11.jar"
-hash = "57861a4496fd5c714cf67d53539c8612dbd88543605c7e4b9b23ecc819c0a601"
+hash = "2c42f51a3d64cf93ac385bca6f8962feb1db84fc07a95e47a2c5448622ad3151"
 
 [[files]]
 file = "mods/xlpackets-1.0.5-1.21.jar"
