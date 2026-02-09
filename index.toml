@@ -169,10 +169,6 @@ file = "mods/Iceberg-1.21.1-fabric-1.3.2.jar"
 hash = "512c6ca788ec4c676a2f73e668489a03cfe0cb5c0ebda31a1be48527ef1a64e4"
 
 [[files]]
-file = "mods/IdleTweaks-1.1.0.jar"
-hash = "20fd73ef9bbf8287efa110218569ef3ede6dac65bb9323ef672aa5c2e8fc3f26"
-
-[[files]]
 file = "mods/ImmediatelyFast-Fabric-1.6.10+1.21.1.jar"
 hash = "8ffe57f1e320756eced473872a0d8d4a59caa6c857a88631fc8b5d5d39f9a0bd"
 
@@ -297,10 +293,6 @@ file = "mods/ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar"
 hash = "af0c47160739d91492c390d4ab3ea23106541175cc6772d780ee5c63dac40eab"
 
 [[files]]
-file = "mods/RoughlyEnoughItems-16.0.799-fabric.jar"
-hash = "eb38e2c4213674563dc604056cf20eb66420e4f9c9ee6907b478ced3d088a170"
-
-[[files]]
 file = "mods/ScalableLux-0.1.0.1+fabric.d0d58ab-all.jar"
 hash = "1727229e51f01a0eceee57cd29efc4b7e8fcf9f3e4abe83b984a9e5b10dd8f25"
 
@@ -311,10 +303,6 @@ hash = "6969e91fbeb616e5b0d3c45e4aeb7cb07d5b89686bdf0fd8bf5ad17ecf9bfb16"
 [[files]]
 file = "mods/ShoulderSurfing-Fabric-1.21.1-4.18.2.jar"
 hash = "6768f48ac27b9f7e6c168852cb2b1c270c24505a9dd8b39f51810091d7d0484d"
-
-[[files]]
-file = "mods/SlashBlade-Refabricated-1.21.1-1.3.0-Resharped-1.8.61.jar"
-hash = "696b1861d3038d3e1ae243ea47f2d2eda2ca99536bdda66972f7301210d9e187"
 
 [[files]]
 file = "mods/Sparkweave-Fabric-0.510.0.jar"
@@ -423,6 +411,10 @@ hash = "978c807340d04922fce645f0c557a26b05058dd802571ed3af552466050bfe1a"
 [[files]]
 file = "mods/artifacts-fabric-13.1.0.jar"
 hash = "992745ebb2c33cc3570ba05e02f5b4395d915e6b7dc487568510591ca6499fac"
+
+[[files]]
+file = "mods/auto_tool-fabric-1.2.0.jar"
+hash = "39e9afe1d90d55c40e86ddfc1583ebece39fa716ea67c2d563d075625c738e2b"
 
 [[files]]
 file = "mods/automobility-0.5.0.h+1.21.1-fabric.jar"
@@ -605,10 +597,6 @@ file = "mods/customchestmenus-fabric-1.21.1-1.6.0.jar"
 hash = "c2d6c885ab1686076b1aad5ef10f92cce885185c8b54bc771e574edc26f55547"
 
 [[files]]
-file = "mods/dashloader-5.1.0-beta.8+1.21.1.jar"
-hash = "51309b43337fccae6d6a381e5fa3b681f7f996e6c04c00124ffe0759c25dd772"
-
-[[files]]
 file = "mods/dense-flowers-0.2.2+mc1.21.0.jar"
 hash = "6c7e8eb8bcd0f9a991331241c1f26b70878a0118baeb5b011da4f8c305e9423d"
 
@@ -670,11 +658,11 @@ hash = "bd755004af220b138b0d435e2d3bcafae23a775393d3f588de605c9cb266b7ce"
 
 [[files]]
 file = "mods/entity_model_features_fabric_1.21.1-2.4.1.jar"
-hash = "341619bbb0b2e96ecba65790082783e0de8fc2406934806337b0a5c9b64d59e7"
+hash = "e825079fdee5bda1fda354ca85f99bbc58689ca6e8094124f0f2f34a741662e1"
 
 [[files]]
 file = "mods/entity_texture_features_fabric_1.21.1-6.2.9.jar"
-hash = "7100643f6c1ef14b51f032e0b300785dfa38dfed8a73b330a53293df5533d55d"
+hash = "55df6b310a2cd378368d5ed627bf60cbd3d2627fc603456a0b6d9b60dc8ba157"
 
 [[files]]
 file = "mods/entityculling-fabric-1.9.5-mc1.21.1.jar"
@@ -803,6 +791,10 @@ hash = "dd8e8135d23e7282ee5cd052fe19038bf61529ae220e3c41bf2b8913b5b9133d"
 [[files]]
 file = "mods/iris-fabric-1.8.8+mc1.21.1.jar"
 hash = "af1b7189351fe0556c9e8a74b4b4db6a08c51d6825bb5b95553ffb4238a2d65e"
+
+[[files]]
+file = "mods/jei-1.21.1-fabric-19.27.0.340.jar"
+hash = "70cbbe429e8ff1198e00cf786ec355573972f24c17dc378deed393014062eb6b"
 
 [[files]]
 file = "mods/jewelry-fabric-2.3.1+1.21.1.jar"
@@ -1143,10 +1135,6 @@ hash = "a1e27abbd2e1a38921533a4f4d32197bb165ea08351dabb7123eee182be98fcd"
 [[files]]
 file = "mods/shulkerboxtooltip-fabric-5.1.8+1.21.1.jar"
 hash = "3ee79955737dad45ee9c01709c48fca69da90814483490c3f495fbe9d7adae15"
-
-[[files]]
-file = "mods/simple-autoswitch-1.3.0.jar"
-hash = "1f3312b08fb34eb64f5ef9364d38d378dcb4601f8c6e1e74d7d60d86955f9824"
 
 [[files]]
 file = "mods/simplehats-fabric-1.21.1-0.4.0.jar"
