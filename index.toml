@@ -621,8 +621,8 @@ file = "mods/do_a_barrel_roll-fabric-3.7.3+1.21.jar"
 hash = "a4a719a76dea8fa5217580bd384a40c5cbcec9d09e5230567db4d3460dcbcf71"
 
 [[files]]
-file = "mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar"
-hash = "89f59f56db2ec0c299802081380178c055d297a2522a9fae8c76b5339eae7140"
+file = "mods/drippyloadingscreen_fabric_3.1.0_MC_1.21.1.jar"
+hash = "72591347cac28d70c24d4c238fad925af0cf38978306752df96086e4fff8f4fa"
 
 [[files]]
 file = "mods/dummmmmmy-1.21-2.0.11-fabric.jar"
