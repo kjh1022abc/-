@@ -829,8 +829,8 @@ file = "mods/invoke-1.2.0+1.21.1.jar"
 hash = "dd8e8135d23e7282ee5cd052fe19038bf61529ae220e3c41bf2b8913b5b9133d"
 
 [[files]]
-file = "mods/iris-fabric-1.8.8+mc1.21.1.jar"
-hash = "af1b7189351fe0556c9e8a74b4b4db6a08c51d6825bb5b95553ffb4238a2d65e"
+file = "mods/iris-fabric-1.8.1+mc1.21.1.jar"
+hash = "0ee4559f66da150b1a4a9dd98239248b487fd57c3381b1e69a5dba271d2c1345"
 
 [[files]]
 file = "mods/jei-1.21.1-fabric-19.27.0.340.jar"
@@ -887,6 +887,10 @@ hash = "267086c3172948691458330630e5ad60ecbc26e9b797dd06f6c75f317cc3f075"
 [[files]]
 file = "mods/libIPN-fabric-1.21.1-6.6.2.jar"
 hash = "6b9d9ee26bacc1980750a8269df9369cf00fe36b0235e1fad3eebf394b4b74c3"
+
+[[files]]
+file = "mods/libjf-3.17.3.jar"
+hash = "bcf972e8a0ffc24ddff25319e3fc89feb7cee3d26833bf16e8f53d16ae01b359"
 
 [[files]]
 file = "mods/libz-1.0.3.jar"
@@ -1001,8 +1005,8 @@ file = "mods/more_rpg_library-fabric-2.5.5+1.21.1.jar"
 hash = "80cde03da35c35a03e4e734a5d09ca4bb0e4f4d98228f805a7480cc5c53e537a"
 
 [[files]]
-file = "mods/moreculling-fabric-1.21.1-1.0.6.jar"
-hash = "38a2cf6339d9ffd76881c9c6b7b44a50b6a11a2b8027f5de6a6ee5c6812bb00d"
+file = "mods/moreculling-fabric-1.21.1-1.0.3.jar"
+hash = "70d86c2c9c4ecddb7d364c0ac9eb081a268c35a8844a75206dfe38acbde3adfc"
 
 [[files]]
 file = "mods/moredelight-25.07.28-1.21-fabric.jar"
@@ -1125,8 +1129,8 @@ file = "mods/redirected-fabric-1.0.0-1.21.1.jar"
 hash = "941eeb42eae331bea9b9ccc08e9811de74112ec3e563be243f01d38e865d8f40"
 
 [[files]]
-file = "mods/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar"
-hash = "dfd297750b1a4885296f5819c20b23448ce3af656d31b1d9a2237996420ea160"
+file = "mods/reeses-sodium-options-fabric-1.8.0-beta.4+mc1.21.1.jar"
+hash = "13435401fa390c4b26403a03ea84d7d1263251b3c0d51a4916d66e6cb4b4bb90"
 
 [[files]]
 file = "mods/reinforced-barrels-2.6.1+1.21.1.jar"
@@ -1147,6 +1151,10 @@ hash = "77d9bde7da6316d42616d22420c07b062a03996afcc8d6bf157916f9d72cffe4"
 [[files]]
 file = "mods/resourcefulconfig-fabric-1.21-3.0.11.jar"
 hash = "cb5d6d57d64119744cd23667f6d6fda4373f996a5a45053f568a3b790f28bf86"
+
+[[files]]
+file = "mods/respackopts-4.14.0+1.21.1.jar"
+hash = "8e5794576805b54b78bdce3db1eaa6754d6f28f84bcd047fba16df28ec6d944e"
 
 [[files]]
 file = "mods/rogues-fabric-2.6.4+1.21.1.jar"
@@ -1201,12 +1209,12 @@ file = "mods/smoothswapping-0.9.3.1-1.21.1-fabric.jar"
 hash = "66f6b0c02303d346ee7188961c4ae784d98cf0b36b5759166b51c1a4cbacfe2a"
 
 [[files]]
-file = "mods/sodium-extra-fabric-0.6.0+mc1.21.1.jar"
-hash = "da46357e4125515e5dd7392df1850fcd7557fef3f2776d148667b1bb9e755f8d"
+file = "mods/sodium-extra-fabric-0.6.0-beta.3+mc1.21.1.jar"
+hash = "ba514459a6c064b8f581d44b876dab1f27c3cc6ff3b4bab5841674d0acf4c2c2"
 
 [[files]]
-file = "mods/sodium-fabric-0.6.9+mc1.21.1.jar"
-hash = "918b884c8277d7a53314c50a18566379db9759534a413750ecb68734add21011"
+file = "mods/sodium-fabric-0.6.0-beta.2+mc1.21.1.jar"
+hash = "f14ba16f64196a349893d165dde8bc87bd1615e40972df6aba937b935f48f7e3"
 
 [[files]]
 file = "mods/sound-physics-remastered-fabric-1.21.1-1.5.1.jar"
