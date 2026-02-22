@@ -613,6 +613,10 @@ file = "mods/dense-flowers-0.2.2+mc1.21.0.jar"
 hash = "6c7e8eb8bcd0f9a991331241c1f26b70878a0118baeb5b011da4f8c305e9423d"
 
 [[files]]
+file = "mods/desktop.ini"
+hash = "30efa6757d878e6675f529518bb92b6f8d7f9713c6a7a0d03512be639954d319"
+
+[[files]]
 file = "mods/disenchanting_table-merged-1.21.1-5.0.2.jar"
 hash = "e763d0d244297bab7e8d8b82fe56ae7e24d1524f677ae1a7a96f9b8570a136b1"
 
@@ -829,8 +833,13 @@ file = "mods/invoke-1.2.0+1.21.1.jar"
 hash = "dd8e8135d23e7282ee5cd052fe19038bf61529ae220e3c41bf2b8913b5b9133d"
 
 [[files]]
+<<<<<<< HEAD
 file = "mods/iris-fabric-1.8.1+mc1.21.1.jar"
 hash = "0ee4559f66da150b1a4a9dd98239248b487fd57c3381b1e69a5dba271d2c1345"
+=======
+file = "mods/iris-fabric-1.8.7+mc1.21.1.jar"
+hash = "c5c08a2e455a7602de799f857c904e542c2822c5c63027169711c5bc8114f3ec"
+>>>>>>> 6d9160db6b3b7d3a9ddba2399854d2b12df28aec
 
 [[files]]
 file = "mods/jei-1.21.1-fabric-19.27.0.340.jar"
