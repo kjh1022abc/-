@@ -1,0 +1,13 @@
+name = "My 1.21.1 Pack"
+author = "you"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "26122a0cc36ab2d619d752e89e9338480d77d437308c27108c1042997c7fcbf1"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.1"

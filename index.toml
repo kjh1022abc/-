@@ -1,0 +1,1417 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/AdvancementPlaques-1.21.1-fabric-1.6.8.jar"
+hash = "aaece6b69dad7c081afc884c92beda99d722466c124c5bdcb78b077fdc8e00bf"
+
+[[files]]
+file = "mods/AmbientSounds_FABRIC_v6.3.1_mc1.21.1.jar"
+hash = "321dde421f8b0762fd8b201ffe50c7d597b96a96cd95abe9ee624a61d440ddfe"
+
+[[files]]
+file = "mods/AsyncParticles-3.4.0-beta.1+1.21.1.jar"
+hash = "6107dc6b6716f6b572f2b13341e8ca9b1ed7f4e824447603563be1f99761a56b"
+
+[[files]]
+file = "mods/AutochefsDelight-1.21.1-Fabric-2.1.0.jar"
+hash = "1d925ec91b578c7a299d2f0b05dd37b2765e6b274ceb74ae595ccc3932c8afdc"
+
+[[files]]
+file = "mods/Axiom-5.2.1-for-MC1.21.1.jar"
+hash = "cd152e94658e56e8503fc942c5a53111a61fcb84c41ab7be85d4e05d03462133"
+
+[[files]]
+file = "mods/BadOptimizations-2.4.1-1.21.1.jar"
+hash = "25142aca10a7137183bca8583c01380f662ca2e55ba8ce42321645522f1f1330"
+
+[[files]]
+file = "mods/BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar"
+hash = "311fc800b4b2ff1f49c18e3b91238b61b66f9decb1721321561028a9f7eafdcf"
+
+[[files]]
+file = "mods/BetterF3-11.0.3-Fabric-1.21.1.jar"
+hash = "1f0932e92997fcde21a16cb046da225bc60b910c6025eb7a3064f3344a55cef0"
+
+[[files]]
+file = "mods/BetterTridents-v21.1.0-1.21.1-Fabric.jar"
+hash = "289d9f0859eb58d335c07802d4a2d92c68b4c6029bc58875d3f0be4cd9d353ba"
+
+[[files]]
+file = "mods/BiomeParticleWeather-5.3.1.jar"
+hash = "011c2f9a43549f6ad8ad527005f617ada026b6ad72f4ec43a897cef9e3bb0cf7"
+
+[[files]]
+file = "mods/BiomesOPlenty-fabric-1.21.1-21.1.0.13.jar"
+hash = "df7c645202a77ebcc230161c46b4d206240fac1d43807c923b443683b833e514"
+
+[[files]]
+file = "mods/BlockRunner-v21.1.2-1.21.1-Fabric.jar"
+hash = "337d4d7737b07053ab8865621c194df1e28a6e2cd6a585887fb18adf09354c7f"
+
+[[files]]
+file = "mods/BrewinAndChewin-fabric-4.4.1+1.21.1.jar"
+hash = "03f6bae8f9e6ebcce1a7915033279397e8655602f0cd8ca2a82f4eda7bf36b4d"
+
+[[files]]
+file = "mods/BridgingMod-2.6.2+1.21.1.fabric-release.jar"
+hash = "213e6ce0304f9c1732232657e4d1b857778aae72ce3831fc5c9b07e2e8395950"
+
+[[files]]
+file = "mods/Clumps-fabric-1.21.1-19.0.0.1.jar"
+hash = "df85119b4a20d402db0a783627c7b44c5cc05a5bf83f07784251437a27018e6e"
+
+[[files]]
+file = "mods/Controlling-fabric-1.21.1-19.0.5.jar"
+hash = "f3b5a0f1db5133cc82b4ee571e9d5798377626222dcacefb36575dd3a8685442"
+
+[[files]]
+file = "mods/CreativeCore_FABRIC_v2.13.14_mc1.21.1.jar"
+hash = "68fe23db6e59ade6225e321a58624764ea3af4d0bcce081a1109630feff6406f"
+
+[[files]]
+file = "mods/CreativeOnePunch-1.6-universal.jar"
+hash = "1c94104d06e747031920cd90b339e790517fea90f08e5f21a723f7e65ed2ea91"
+
+[[files]]
+file = "mods/Cull Less Leaves-1.4.0+1.21-fabric.jar"
+hash = "4e2d0b513760c851e2618befe17083a798b09e5857c67735b2a025331cfdc69e"
+
+[[files]]
+file = "mods/CutThrough-v21.1.0-1.21.1-Fabric.jar"
+hash = "484d6f0a75933d7f13d6722da2ee83b209aff29d4c389bcca29784c713456760"
+
+[[files]]
+file = "mods/Debugify-1.21.1+1.0.jar"
+hash = "934344031b9e7db8c22467845ae9c3a5f25c7d147ffc0155e08a2f197fc2b3af"
+
+[[files]]
+file = "mods/DiagonalFences-v21.1.1-1.21.1-Fabric.jar"
+hash = "3aefd48f57b048879a9fd0fb91d4597301cc2a613f99a05a5f5a80bb683fa096"
+
+[[files]]
+file = "mods/DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar"
+hash = "486fdeb5b0545637fd94988f12574cda632b107452838484b55e62a0093d3243"
+
+[[files]]
+file = "mods/Drip Sounds-0.5.1+1.21.5-Fabric.jar"
+hash = "ebe5f17f5e6b8a27cdff5b1dd67dafa08016fd63821dabc5607d79f564e99c0a"
+
+[[files]]
+file = "mods/DumplingsDelightRewrapped-1.21.1-1.3.0+fabric.jar"
+hash = "f659d524fe2755b3465539d891b03d34d49e317b54a4b4f6c46b917a4511725b"
+
+[[files]]
+file = "mods/EMIProfessions-fabric-1.21.1-1.0.3.jar"
+hash = "414ad8da2d48e0a3aca97795f4e5ba8a2201bf6febc867db0ada1df97b8cc0d5"
+
+[[files]]
+file = "mods/EasyMagic-v21.1.4-1.21.1-Fabric.jar"
+hash = "04eceb7d0afe515b0933ada1f115dab9d53e4098128d3a1be705031e61603899"
+
+[[files]]
+file = "mods/EasyShulkerBoxes-v21.1.3-1.21.1-Fabric.jar"
+hash = "413526d06a8c520cdb75dfc69a00eb1d98bd4702812219b9184e4cdcdc490849"
+
+[[files]]
+file = "mods/EmeraldTools-Fabric-1.21.1-1.8.17.jar"
+hash = "b4c358b63d9f44448783aca1a5aa5868c22366d103b7aa6fe66664fc39d1bbe1"
+
+[[files]]
+file = "mods/EnchantingInfuser-v21.1.2-1.21.1-Fabric.jar"
+hash = "6edb14aaf69fad8b017c7f3ce8984ffeb3a12355d3575e5fc4900a6e7f1597c7"
+
+[[files]]
+file = "mods/EuphoriaPatcher-1.8.1-r5.7.1-fabric.jar"
+hash = "8a39694437f836280d671f4ee17f9dfdc04a2aa15d3635bee0d8c6beb839bc50"
+
+[[files]]
+file = "mods/ExplorersCompass-1.21.1-2.2.5-fabric.jar"
+hash = "1928425d73656e11e45535f4ffcd9f43a1cf80a2e88f75049dfc2aa40d647bac"
+
+[[files]]
+file = "mods/FarmersDelight-1.21.1-3.2.2+refabricated.jar"
+hash = "29147029ce2e72c9e8a8d3c0f8b081024d61829e09f826f96c3094a86786d99a"
+
+[[files]]
+file = "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"
+hash = "2e3a8f0e3bda85a7d722720e7ce879cbd9d028d9395c6fc224d329b3c982d9b1"
+
+[[files]]
+file = "mods/FpsReducer2-fabric-1.21-2.9.jar"
+hash = "acde54ab190257b2e0ea7b8dfb5770b96e7346e7b2f2fff2c7bd0dde7c22f307"
+
+[[files]]
+file = "mods/Gamma-Utils-2.1.2-mc1.21.1.jar"
+hash = "81c99e88c86fdcb01fd4f626b8f71ea5bd86b943aa1433883d7c92c57281ce60"
+
+[[files]]
+file = "mods/Geophilic v3.4.6.mod.jar"
+hash = "5be5d3429efae33b5c297d49a8268bf07e51c3cd29fa65d84a49e56838af7d36"
+
+[[files]]
+file = "mods/GlitchCore-fabric-1.21.1-2.1.0.0.jar"
+hash = "9e36cf0fed4b1f40f1c60ac3dc99582a71cd2dc802339b95ee98e054e748b4c9"
+
+[[files]]
+file = "mods/HealthBars-v21.1.0-1.21.1-Fabric.jar"
+hash = "aa566b591001b4c188e401b074969b12e621a14d7321d4c41dc69ac61f1ddc2d"
+
+[[files]]
+file = "mods/Highlighter-1.21-fabric-1.1.11.jar"
+hash = "3a36e4757528ff441b4687cebe9671509ced8e9b39390bba74068293ecbdb483"
+
+[[files]]
+file = "mods/HorseCombatControls-f1.21.0-1.0.5.jar"
+hash = "9e1726a14405677bb4cdd9569df031aa90b33c77f89c8625e2884f1e42bd4f11"
+
+[[files]]
+file = "mods/Icarus-Fabric-4.6.4.jar"
+hash = "4857e1d351788b425282df332a381d1563786f8d448d74732cdae4d0a3799cb3"
+
+[[files]]
+file = "mods/Iceberg-1.21.1-fabric-1.3.2.jar"
+hash = "512c6ca788ec4c676a2f73e668489a03cfe0cb5c0ebda31a1be48527ef1a64e4"
+
+[[files]]
+file = "mods/ImmediatelyFast-Fabric-1.6.10+1.21.1.jar"
+hash = "8ffe57f1e320756eced473872a0d8d4a59caa6c857a88631fc8b5d5d39f9a0bd"
+
+[[files]]
+file = "mods/ImmersiveUI-FABRIC-0.3.3+1.21.1.jar"
+hash = "5893759a26abef27218d7f7151ed611749fc2e0218dd4bad4a5742fb21535600"
+
+[[files]]
+file = "mods/InvMove-0.9.3+1.21.1-Fabric.jar"
+hash = "1b3712aa98335990326ea434dac915af47b5fe238b789b800b1fc04b60a52a5d"
+
+[[files]]
+file = "mods/InventoryProfilesNext-fabric-1.21.1-2.2.3.jar"
+hash = "e51ce81c91f56b4a5870d5d23b9649fdd8d30acbb53274708d0efb9b0772c173"
+
+[[files]]
+file = "mods/ItemBorders-1.21-fabric-1.2.5.jar"
+hash = "e1870f13a0d9197d81acc981d94b0ac191d5ae1d99cf0debd0c18cfd6df2a1bb"
+
+[[files]]
+file = "mods/Item_Obliterator-Fabric_Quilt-MC_1.21-3.1.1.jar"
+hash = "7376b8517a3193dccd5a269cf334f8878ae489cdd147c488b4ac20ecbd3a7b86"
+
+[[files]]
+file = "mods/ItemsDisplayed - v1.3-1.21.1.jar"
+hash = "be1805c398bb92b3b376f04aff5dd065d6d6de5ca6f0a80f6db6cef737c45d60"
+
+[[files]]
+file = "mods/Jade-1.21.1-Fabric-15.10.5.jar"
+hash = "630ae4ae3ea039ac3953b9517031dad415f5f058f5d630fdd8bf8a5583bf9cee"
+
+[[files]]
+file = "mods/JadeAddons-1.21.1-Fabric-6.0.3.jar"
+hash = "c687e3a25beeb992e995a7e8efa96b27a6844d9516f09190917b56606780f716"
+
+[[files]]
+file = "mods/Kaffee's_Dual_Ride-1.1.0.jar"
+hash = "cb1d5a679272fcc367a94f8c2891356a84b9399266c91df42aabe50aa156c0b7"
+
+[[files]]
+file = "mods/LazyDFU-[UNOFFICIAL]-1.21.jar"
+hash = "2fee399beb8639a4fbe43fbe14f677c8263b7ad497f347872fb2e711d6d871d4"
+
+[[files]]
+file = "mods/LegendaryTooltips-1.21.1-fabric-1.5.5.jar"
+hash = "c85fb91226a9e005659d4c31a6b18c334c5087230bf1ecac17c6250c0ee04e59"
+
+[[files]]
+file = "mods/Luckys-Cozyhome-Refurnished-1.1.20.jar"
+hash = "678dd2cd543b2f5974b0ef37966284fcdfd0474b6c581fd40cbd3e1b2ad4c483"
+
+[[files]]
+file = "mods/MapDistanceFix-1.0.12+mc1.20.5-1.21.10.jar"
+hash = "e4bbfca9e814fcd7e6a3927d52616814e2a6e35e507cf58f6b1ac80a79360bc7"
+
+[[files]]
+file = "mods/MinecraftCapes Fabric 1.21.1-1.0.0.jar"
+hash = "653c6c15fd501763013e02b5909a792ba96a875b73cea48b64de1577fd26bf5c"
+
+[[files]]
+file = "mods/MobCollisionOff-2.0.jar"
+hash = "02d5764dfa5e08aa6ca475d0be99009dad7f42bdcea9af2d1baed856cbd62301"
+
+[[files]]
+file = "mods/MouseTweaks-fabric-mc1.21-2.26.jar"
+hash = "bcdc336c81fcf8f9b341ec2c540dc2aeefc1956edacb1906d67ad1ddf689c92d"
+
+[[files]]
+file = "mods/MyNethersDelight-1.21.1-2.0.3+1.7.8.refabricated.jar"
+hash = "b89ced228ac8f4d5d345b8c5ecedfd9d824c4f08deadcd2bbb4575a22a3715d1"
+
+[[files]]
+file = "mods/NaturesCompass-1.21.1-2.2.7-fabric.jar"
+hash = "4967cea60309878135e76a9e8232388c2d6166505213740f3780e1ccd3493af9"
+
+[[files]]
+file = "mods/Necronomicon-Fabric-1.6.0+1.21.jar"
+hash = "2cfee8e9ceb63c34a540d341752768af67cb2e6b9fc307b50d276895d6f0dc29"
+
+[[files]]
+file = "mods/Not Enough Recipe Book-FABRIC-0.4.3+1.21.jar"
+hash = "cf797c5c2b5f8ee8f4b6f240d733ff193d97ceb4c8671f5d54efd4076896f5b7"
+
+[[files]]
+file = "mods/OctoLib-FABRIC-0.6.0.4+1.21.jar"
+hash = "bc1fc78d6e58f66c879b9caae22994f42c2e41b6232414fc384a3c716e2454bc"
+
+[[files]]
+file = "mods/ParticleEffects-1.2.0+1.21.1+fabric.jar"
+hash = "49820d2dee67711696806fee24d0945d53b1121ab85d69555a9bc5d133d59489"
+
+[[files]]
+file = "mods/Perception-FABRIC-0.1.6+1.21.1.jar"
+hash = "aaeda1c65396e1a90832c8efcab2f6878476248a299719817c73c012162cccc5"
+
+[[files]]
+file = "mods/PickUpNotifier-v21.1.1-1.21.1-Fabric.jar"
+hash = "9dbd257f85284e0556ded7e5ab960e67aec1dd6282cd2d511e8b35a1d2781cd1"
+
+[[files]]
+file = "mods/PresenceFootsteps-1.11.1+1.21.jar"
+hash = "b2a0732fb8965ce7a766153a72851952f294ef30ceab569426dfb2c5f2624782"
+
+[[files]]
+file = "mods/Prism-1.21.1-fabric-1.0.11.jar"
+hash = "42dc38c5fe24f035dd568553af9b65cd00679fba106f05ced1e4e62fffcca1ee"
+
+[[files]]
+file = "mods/PuzzlesLib-v21.1.39-1.21.1-Fabric.jar"
+hash = "3aa86a73d325e8340577ec2a4c09fb8ad47697c10a24eb73246f99219bb139ac"
+
+[[files]]
+file = "mods/RPRenames-1.21.1-0.9.2.jar"
+hash = "a583775b0c1bffbfe7e27da93db2e572e721f6fe6e10fcc774f1ed9158ce385c"
+
+[[files]]
+file = "mods/ReFramed-1.6.6.jar"
+hash = "eb35583dd8b2827ce94e0d0c75a6c5058c24b89bd5b4e04b3971b2a0afb3747e"
+
+[[files]]
+file = "mods/ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar"
+hash = "af0c47160739d91492c390d4ab3ea23106541175cc6772d780ee5c63dac40eab"
+
+[[files]]
+file = "mods/ScalableLux-0.1.0.1+fabric.d0d58ab-all.jar"
+hash = "1727229e51f01a0eceee57cd29efc4b7e8fcf9f3e4abe83b984a9e5b10dd8f25"
+
+[[files]]
+file = "mods/Searchables-fabric-1.21.1-1.0.2.jar"
+hash = "6969e91fbeb616e5b0d3c45e4aeb7cb07d5b89686bdf0fd8bf5ad17ecf9bfb16"
+
+[[files]]
+file = "mods/ShoulderSurfing-Fabric-1.21.1-4.18.2.jar"
+hash = "6768f48ac27b9f7e6c168852cb2b1c270c24505a9dd8b39f51810091d7d0484d"
+
+[[files]]
+file = "mods/Sparkweave-Fabric-0.510.0.jar"
+hash = "47c344115506263f630b200d85e100deb70593713dce9ab3087a78a1d2b1e452"
+
+[[files]]
+file = "mods/StylishEffects-v21.1.2-1.21.1-Fabric.jar"
+hash = "974d9c0ba5faf256eb16eb92d295e80b0d1291d334be2500f798e71c06abaace"
+
+[[files]]
+file = "mods/SubtleEffects-fabric-1.21.1-1.13.1.jar"
+hash = "523c1e1f3bb368f66b6e4bfa9530cbb3d904fbce79c60b908d6ad13f5800fad0"
+
+[[files]]
+file = "mods/SwordBlockingMechanics-v21.1.1-1.21.1-Fabric.jar"
+hash = "56215a6f9adc8b8fbd5306c190a29f78cfa5333d3f52a3cc59778dd9881f8ac2"
+
+[[files]]
+file = "mods/TACZ-Refabricated-1.21.1-0.4.0-forge1.1.7-hotfix.jar"
+hash = "1e80d38174d525164565576e6f865275a6c9586d4d4f102632a8f563129a6a2c"
+
+[[files]]
+file = "mods/TaxFreeLevels-1.4.7-fabric-1.21.1.jar"
+hash = "195f5182096342f9168e1ac80b39d5bd0617b2521c43f73c85bed3276009337c"
+
+[[files]]
+file = "mods/TerraBlender-fabric-1.21.1-4.1.0.8.jar"
+hash = "8eceffdeeef93567e15c0679cab3738c5a3185dcd383fb2e4a2b9d068f073753"
+
+[[files]]
+file = "mods/TravelersTitles-1.21.1-Fabric-5.1.3.jar"
+hash = "e99fadee96d83b956e5e5bedc684fc61dbf94c50cca7070cbc5135e2d313d798"
+
+[[files]]
+file = "mods/UniversalBoneMeal-v21.1.0-1.21.1-Fabric.jar"
+hash = "9e1571499886d2be1aafbc401f0fc3e555c80857f4acbc75c705e3d4bc9c411a"
+
+[[files]]
+file = "mods/VisualWorkbench-v21.1.1-1.21.1-Fabric.jar"
+hash = "c9285cdd9e53a2a80ae9bcb620f9fb786999e947f250617c969cd1b3f0f31644"
+
+[[files]]
+file = "mods/YungsApi-1.21.1-Fabric-5.1.6.jar"
+hash = "b31ffe9eb0f976b66796dc4e85c8d7cc5527cd4322376d50bb4d40ebdf29135e"
+
+[[files]]
+file = "mods/[1.21.1][Fabric] RPG-HUD-3.10.2.jar"
+hash = "b1768926f4aa1bd4ed35ed00d08b469dcc669410da52f5b43bea2e871b6f1a24"
+
+[[files]]
+file = "mods/accessories-fabric-1.1.0-beta.53+1.21.1.jar"
+hash = "800836dc4fddc5be8689651cf80b2a579b50500e96dc925e9b6867f80d0a69f3"
+
+[[files]]
+file = "mods/accessories_compat_layer-fabric-0.1.12+1.21.1.jar"
+hash = "8c81b80b06455fbe673c4477a3f37d69bcea76fb4ba49abfb73e08ea4f7dbba0"
+
+[[files]]
+file = "mods/actuallyharvest-1.21.1-1.1.6.1-FABRIC.jar"
+hash = "4f0dd1c7593ffb92b2c86e0cea9e00710fde6b5a12e3f7badfa9e414b77e91b7"
+
+[[files]]
+file = "mods/additional_rpg_jewelry-fabric-2.2.2+1.21.1.jar"
+hash = "3a2e4151d51d533a26479cee495aa58214dcd949ec18775dd872227ee15fce51"
+
+[[files]]
+file = "mods/adorabuild-structures-2.11.0-fabric-1.21.3.jar"
+hash = "5d53c095d80f530bf8f49af036e7c081cbf611d32cb6b7a9f4532dc560a8aa98"
+
+[[files]]
+file = "mods/ambiance-fabric-1.21-1.1.0.jar"
+hash = "5a7d27b9cb3c51a05ccc73aea73053349335e33eff44ba16925466ca07528a91"
+
+[[files]]
+file = "mods/amecs-1.5.0+mc1.21.1.jar"
+hash = "8043b2dc45e531e564ecdceb64e0eee498990030222ff778aa8446274a4891c5"
+
+[[files]]
+file = "mods/animal_feeding_trough-1.1.2+1.21.1.jar"
+hash = "c6f5b5c3603815c656ddcc0de5b9895d7aa4a46a789881fe21ef7e787eff4ff9"
+
+[[files]]
+file = "mods/another_furniture-fabric-4.0.2.jar"
+hash = "1f500afbb37a05b876d5264f708bf7d4e7fe2e75431e1007966200232b4b6ed1"
+
+[[files]]
+file = "mods/appleskin-fabric-mc1.21-3.0.6.jar"
+hash = "69f2b4b1b550796bac4c7029b90aff4fc7b48271d08960ddf06db379581c5c75"
+
+[[files]]
+file = "mods/archers-fabric-2.6.8+1.21.1.jar"
+hash = "2eef563289a61f113a7980585ba851f04440994eb7667e48cfec13048f589828"
+
+[[files]]
+file = "mods/archers_expansion-fabric-1.4.2+1.21.1.jar"
+hash = "6103d7492fee2d695e658c30b36daf8fb85e691e668e1cd551a3bc5c6c2a7653"
+
+[[files]]
+file = "mods/architectury-13.0.8-fabric.jar"
+hash = "f2df1e3fcdd60811da2204994e90f595ccd55b809158fb06d945b44743ef64e4"
+
+[[files]]
+file = "mods/armory-fabric-1.2.9+1.21.1.jar"
+hash = "2da8675f6e38d147b47c0cb07aca3d97e4bf6e5efe695d47b9303a4f0944b60f"
+
+[[files]]
+file = "mods/arsenal-fabric-1.3.4+1.21.1.jar"
+hash = "978c807340d04922fce645f0c557a26b05058dd802571ed3af552466050bfe1a"
+
+[[files]]
+file = "mods/artifacts-fabric-13.2.0.jar"
+hash = "85345875ab566956bb157840c6d5f1e57d319ff64cdd707fe6c5f96dde2d5376"
+
+[[files]]
+file = "mods/auto_tool-fabric-1.2.0.jar"
+hash = "f7d9e4744792c683435abbf4b91cfa866f609abd2fcc26e4bf15e574ed8f5344"
+
+[[files]]
+file = "mods/automobility-0.5.0.h+1.21.1-fabric.jar"
+hash = "7d55679bac9aed192b0b9fc6ef7728d5e0decac7b72c8ee9de7fa01e39623319"
+
+[[files]]
+file = "mods/azurelib-fabric-1.21.1-3.0.18.jar"
+hash = "e7cec5694a3edf4525389fde906e80c40579db12ce9a803fb761a77bd187c754"
+
+[[files]]
+file = "mods/azurelibarmor-fabric-1.21.1-3.1.1.jar"
+hash = "abbc4bb7b03276e012b5a2e0832a482326363b967978339fe6cd437a1a6b5e81"
+
+[[files]]
+file = "mods/backslot-1.2.16.jar"
+hash = "086c5f3e3855c50828b8467f62c04d790bd3400bffd2af6c1318fed82aa756bf"
+
+[[files]]
+file = "mods/backslotaddon-1.1.2.jar"
+hash = "cb92db745cd12cf1be827e2e686e215364c5d950c0e9eb91865a0116d4d8e463"
+
+[[files]]
+file = "mods/balm-fabric-1.21.1-21.0.56.jar"
+hash = "1e6816190c5fc6671e69a45735b6d1ffcf13a741f1f2119108b781e9800a523f"
+
+[[files]]
+file = "mods/basic-skill-sets-1.3.9.jar"
+hash = "73a94b932985c0fc9aec3f99c3712032075a8a128e738ebb920a43f177603f60"
+
+[[files]]
+file = "mods/bclib-21.0.13.jar"
+hash = "3e34ff88ac17826f84a508c4d06a479df7f37cd6f18d49160a0970965e073fd1"
+
+[[files]]
+file = "mods/beltborne_lanterns-1.2.3-fabric+1.21.1.jar"
+hash = "97d7bad42db578cc28100e589da9915a3fc239e4a096c542881e808158bb9076"
+
+[[files]]
+file = "mods/berserker_rpg-fabric-2.5.3+1.21.1.jar"
+hash = "748bbe5b32ddb7435ecb1fac39a285d70908851b10955fdfb73f32015c2c5962"
+
+[[files]]
+file = "mods/better-end-21.0.11.jar"
+hash = "d353aca1e6ee3fc851474d996cf2637413e405a605201c14d7b4c3c0aeb6ff22"
+
+[[files]]
+file = "mods/better-nether-21.0.11.jar"
+hash = "10640ff6d515d30955487650cbe3548d28d21c1d578008b6ed1b80f90d014249"
+
+[[files]]
+file = "mods/betterbiomeblend-1.5.2.jar"
+hash = "7583e4d3b4088d1f6b0a8e4deb96969847ac4b4e914e819e4d40e3de2f3a0364"
+
+[[files]]
+file = "mods/bettercombat-fabric-2.3.1+1.21.1.jar"
+hash = "ac4b022ef6b6205cad6957064ad06122172ef85863299c87e34edf90c09f269b"
+
+[[files]]
+file = "mods/betterstats-3.13.9+fabric-1.21.jar"
+hash = "1e52f922394012900a3d01447f3c3d5b50ff764e3fc543402820b6f5ace7aba3"
+
+[[files]]
+file = "mods/bl_accessories_layer-1.0.4-fabric+1.21.1.jar"
+hash = "b4eac3296629d8a8b66a456f24da7dcc26f187d2c1c87dd34e3ffa06125c7178"
+
+[[files]]
+file = "mods/blur-fabric-5.3.2+1.21.1.jar"
+hash = "cdddd826ba5e2aff9826835104a4cfb2c2c955eac4cf001462c77ad4d1b21646"
+
+[[files]]
+file = "mods/boatiview-fabric-0.0.6-1.21.1.jar"
+hash = "1ae6740d8fa39ca76a344d0cd77b4da25ce626b55b4dca4a9b6c4ce971cfad2d"
+
+[[files]]
+file = "mods/bookshelfinspector-fabric-2.1+1.21.1.jar"
+hash = "c5e0615ff9e7cb0987991197d50647bcafabe7872780e75c7a227a36c20e1c91"
+
+[[files]]
+file = "mods/c2me-fabric-mc1.21.1-0.3.0+alpha.0.362.jar"
+hash = "784cae9209c485dc2ac007ba6f7ea44bed511c0d58aa2a2f18fb9a52d2f263eb"
+
+[[files]]
+file = "mods/cardinal-components-api-6.1.2.jar"
+hash = "2a8159d1a1014fa02e5a7556b0cbd92274ed76068ff14a9f878530e5052626be"
+
+[[files]]
+file = "mods/carryon-fabric-1.21.1-2.2.2.11.jar"
+hash = "3a323b5986ea7bfc30dddf67ec2eb06602a92f92e3672f7d42dfb7ad8519bc7a"
+
+[[files]]
+file = "mods/cave_dust-3.0.1.jar"
+hash = "2cb163507a903b69fa41767f73863899d07186ca58f76a174487cac801509d45"
+
+[[files]]
+file = "mods/charmofundying-fabric-9.1.0+1.21.1.jar"
+hash = "6b2c817a27ac2057f356e5b5d304715760440917930d161a3984801dbb1faa7e"
+
+[[files]]
+file = "mods/chat_heads-0.14.2-fabric-1.21.jar"
+hash = "dfda9afa540eb41a1b7f26bbee94d4235b88c1baef60f4c9b70f671f06e1d2f0"
+
+[[files]]
+file = "mods/chatanimation-1.0.6.jar"
+hash = "0f7b413610f5745af4d3b1e90fae58d640115845e2e94ad0c7bd4b2ce4f6ea89"
+
+[[files]]
+file = "mods/chefs-delight-1.0.4-fabric-1.21.1.jar"
+hash = "4a3e48e6b92f3897bcc796d80360b10b31ffd057d781a80905a02c14b2eac9b2"
+
+[[files]]
+file = "mods/chimericlib-fabric-2.2.0.jar"
+hash = "9743cb14acc161f00935e11fb24bb538c3fe67766a1622327822180ce64dfa2a"
+
+[[files]]
+file = "mods/cicada-lib-0.14.3+1.21-1.21.1.jar"
+hash = "cae8a9f4204365a789ebabcd5ba13c918629b394f3f84dcebcc75402f7e6b646"
+
+[[files]]
+file = "mods/citresewn-1.2.2+1.21.jar"
+hash = "276b0b920d2427fefad09299098e512dde34b2e9d48524a2d95fb2f45c1ee923"
+
+[[files]]
+file = "mods/clienttweaks-fabric-1.21.1-21.1.9.jar"
+hash = "be75a6e4a6b305985ea730da1fd1ddb71f0cd7d4996eae9bb540fd4f16491a7a"
+
+[[files]]
+file = "mods/cloth-config-15.0.140-fabric.jar"
+hash = "3c7c2ee16aff24a9c562d62942394901f657928b7a5450240e40a168aa470e51"
+
+[[files]]
+file = "mods/collective-1.21.1-8.13.jar"
+hash = "553fccb94df24be7dd5bc3bd67a61720a430e7a81094f0f6a14dcfc93a2f938b"
+
+[[files]]
+file = "mods/combat_roll-fabric-2.0.6+1.21.1.jar"
+hash = "0263da292533ae3336569daccd85baa44053ed8f195d2275ebac20d897bcf344"
+
+[[files]]
+file = "mods/common-networking-fabric-1.0.21-1.21.1.jar"
+hash = "f6982f297423c312032477121a961a80deacb0ace4265dc2c3fb4753f1a24bcf"
+
+[[files]]
+file = "mods/configuration-fabric-1.21.1-3.1.1.jar"
+hash = "75afb459040f5d4b3b5d6aaa19f3296d11c344faaaeae85677b4f7984d066242"
+
+[[files]]
+file = "mods/continuity-3.0.0+1.21.jar"
+hash = "6665b5f1d7f71dfad366041a54fba33aeb221f0c445f5a941acf0d805c434e62"
+
+[[files]]
+file = "mods/coolrain-1.4.0-1.21.1.jar"
+hash = "6ce8bff98c357dd14e5311e9a74442b0cb7aa265c238a194965ab95c99f32eab"
+
+[[files]]
+file = "mods/corndelight-1.21-1.0.0.jar"
+hash = "b844d3e4fdda2ac10a73881b57c51ef53b637917c315da065ad8c1f442d490f4"
+
+[[files]]
+file = "mods/coroutil-fabric-1.21.1-1.3.8.jar"
+hash = "cdba7da5454eac5553738719808216168e4ff7e595fcec1ca5118ca606e95051"
+
+[[files]]
+file = "mods/cratedelight-25.09.22-1.21-fabric.jar"
+hash = "1befa1849e4a5d11457a702a15f7ad9ecd83d6b080fa90603eedfe81cca960c1"
+
+[[files]]
+file = "mods/crawl-0.14.9.jar"
+hash = "1ca2862486acc4a94e18c0bd0f944910c97a76eee45941ffa42255ee1cf6cee5"
+
+[[files]]
+file = "mods/critical_strike-fabric-1.0.4+1.21.1.jar"
+hash = "219197331ba13a8775f74eabccef700e5ea40826be99549057b01fb25b2a6a45"
+
+[[files]]
+file = "mods/culturaldelights-0.17.7.jar"
+hash = "d0f642271364c160d0800b9c54836ba7a9063eb32f1d22c29b99b04e33b5a5ea"
+
+[[files]]
+file = "mods/customchestmenus-fabric-1.21.1-1.6.0.jar"
+hash = "c2d6c885ab1686076b1aad5ef10f92cce885185c8b54bc771e574edc26f55547"
+
+[[files]]
+file = "mods/dashloader-5.1.0-beta.8+1.21.1.jar"
+hash = "743bce89a7361b5b976663b86eaa860a55bb33fd925a35a45a34a5cf7a21c1ea"
+
+[[files]]
+file = "mods/dense-flowers-0.2.2+mc1.21.0.jar"
+hash = "6c7e8eb8bcd0f9a991331241c1f26b70878a0118baeb5b011da4f8c305e9423d"
+
+[[files]]
+file = "mods/disenchanting_table-merged-1.21.1-5.0.2.jar"
+hash = "e763d0d244297bab7e8d8b82fe56ae7e24d1524f677ae1a7a96f9b8570a136b1"
+
+[[files]]
+file = "mods/display-delight-1.2.0-mc1.21.1.jar"
+hash = "b394a7191e04a8ca764396fb46277d3ec9cf4a2aba5de9cdc4bb751f56e256f7"
+
+[[files]]
+file = "mods/do_a_barrel_roll-fabric-3.7.3+1.21.jar"
+hash = "a4a719a76dea8fa5217580bd384a40c5cbcec9d09e5230567db4d3460dcbcf71"
+
+[[files]]
+file = "mods/drippyloadingscreen_fabric_3.1.0_MC_1.21.1.jar"
+hash = "72591347cac28d70c24d4c238fad925af0cf38978306752df96086e4fff8f4fa"
+
+[[files]]
+file = "mods/dummmmmmy-1.21-2.0.11-fabric.jar"
+hash = "c36fd56d3c643607fdf7dfda6cb57b7e723ed430b1a289d9931641c30d8ebf92"
+
+[[files]]
+file = "mods/dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar"
+hash = "429ab71c30bd433ffe2a567dfbd55fa97a537d23c86a9cbb19026cba45188617"
+
+[[files]]
+file = "mods/dynamic_resource_bars-fabric-0.8.1-1.21.1.jar"
+hash = "70cf454b018615e1f87a1205fb5efdf139086d32ad31dc85ec49f0318f182311"
+
+[[files]]
+file = "mods/eating-animation-1.21+1.9.72.jar"
+hash = "ac66f5809a287638456a2d0d31abe19b2673d6e1b834cce9e82dc07d23472eb8"
+
+[[files]]
+file = "mods/effectual-1.2.0-1.21.1.jar"
+hash = "ee687341c011c84a3fea5dda887db9bcaa5ac9a67011d19cb1705e86eb77d674"
+
+[[files]]
+file = "mods/elemental_wizards_rpg-fabric-2.5.3+1.21.1.jar"
+hash = "19739deb14c2e780b2e475f53c12f1e2209ae8a789fc796282f134804aaae3d6"
+
+[[files]]
+file = "mods/elytraslot-fabric-9.0.1+1.21.1.jar"
+hash = "f8db8ded455fb3d0d5a4dcf5033d8fa5ec833cdb501cc0cea168e9a0dd8cf374"
+
+[[files]]
+file = "mods/emi-1.1.22+1.21.1+fabric.jar"
+hash = "96399c49bbef6ba71a0aa585cf4947086a131098f2dd04a15cbdd6758a53093a"
+
+[[files]]
+file = "mods/emi-letsdo-compat-2.0.1.jar"
+hash = "ae6157bab31146d35ab5bd06d79ac9752040143f920d3aecc1347955e584a224"
+
+[[files]]
+file = "mods/emi_enchanting-0.1.2+1.21.jar"
+hash = "b76a2a97815338bc640b85d57828ab871c97438ad5f9d7777d4aa0bf8324458d"
+
+[[files]]
+file = "mods/emi_ores-1.2+1.21.1+fabric.jar"
+hash = "a04a61094b884a1b0185e8c18aca5c7a2d31e1a78c114e7f915813d8f7c30c85"
+
+[[files]]
+file = "mods/emiffect-fabric-2.1.6+mc1.21.1.jar"
+hash = "753f68c436f9de2c2857c552d04903fb4f976bea7e2ae54fc0898723db1c9463"
+
+[[files]]
+file = "mods/emixx-fabric-1.2.3.jar"
+hash = "a334082d78e03f14f55efdd0b16b9bfc959d2f7764745e129927ab9e3c6d1ac9"
+
+[[files]]
+file = "mods/enchanted-bookshelves-1.0+1.21.jar"
+hash = "358fa186ebef6ea94b83b2f458b4fd2fd14a97669d55d77348f794770e4fef98"
+
+[[files]]
+file = "mods/ends_delight-2.5.2+refabricated.1.21.1.jar"
+hash = "7d53768d53160914ff5af234b93dd0bdefa84306fb12b0303fad9bb30d679b84"
+
+[[files]]
+file = "mods/enhancedblockentities-0.10.2+1.21.jar"
+hash = "bd755004af220b138b0d435e2d3bcafae23a775393d3f588de605c9cb266b7ce"
+
+[[files]]
+file = "mods/entity_model_features_fabric_1.21.1-2.4.1.jar"
+hash = "f0965f21771a6de65fdeb2f26f054e0cfb47c0386d778a3b7708bf41da1c143d"
+
+[[files]]
+file = "mods/entity_texture_features_fabric_1.21.1-6.2.9.jar"
+hash = "e9b62c31ac441cb4c2e1d894104565515d801c5d24539a310287430805140ff7"
+
+[[files]]
+file = "mods/entityculling-fabric-1.9.5-mc1.21.1.jar"
+hash = "da18fd50b6e3590fbfebce37bfea9b4f489749b593df75cf028ba63528590403"
+
+[[files]]
+file = "mods/explorations-fabric-1.21.1-1.6.2.jar"
+hash = "2f9fd4df09f1b288d63aa43b279379a895e12d76754322e6d9c7b361752918e1"
+
+[[files]]
+file = "mods/explosive-enhancement-1.3.2-1.21-1.21.1.jar"
+hash = "6d2b840f8b52c84bf556290bd2926ed6c72dc9fd9d532daca9ef9885d3477849"
+
+[[files]]
+file = "mods/extraspellattributes-1.3.2+1.21.1.jar"
+hash = "4743b99409f5a6a8b4213fb139d671636a3dbc26c59ff8cae4342a04b4f0c024"
+
+[[files]]
+file = "mods/fabric-api-0.116.8+1.21.1.jar"
+hash = "87a2f7638e11862eccc4c5fa4d57e46a533f224f2f9006e4cdbae49911fe2b03"
+
+[[files]]
+file = "mods/fabric-bind-cmd-1.7.3-1.21.1.jar"
+hash = "8135048596d5b3d15e638eee2fdd86f042c2dc005a9c3d2538a40ca2b2696970"
+
+[[files]]
+file = "mods/fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar"
+hash = "b96754d4e81c749114e2d86e83fb74e6e13c2ef6e20f991b8d954e18967ed7dc"
+
+[[files]]
+file = "mods/fabricskyboxes-0.7.4+mc1.21.jar"
+hash = "64bc2f7ad0c960dc8c38fb0cdadc579509e93184fa15d185e644f9f6e97b5cef"
+
+[[files]]
+file = "mods/fallingleaves-1.17.1+1.21.1.jar"
+hash = "bb01c531d6d50a86235d949f30bc670c56e500516c9d98345a285281681d8458"
+
+[[files]]
+file = "mods/fallingtrees-fabric-1.21.1-0.14.0-APLHA.2.1.jar"
+hash = "8ee04e90dea2c15e50c49a46f2f7dcffbdc5f8f42e1ef2120acf9b022330e263"
+
+[[files]]
+file = "mods/fancymenu_fabric_3.8.1_MC_1.21.1.jar"
+hash = "3be30cf6629a39a66e155e58f7507b640ecdf178b735f7a0c01a87896ea31688"
+
+[[files]]
+file = "mods/farmersknives-fabric-1.21.1-4.0.4.jar"
+hash = "48f8cb1eb7453661fc78d7a1051d6e53706f56c86ea4213d614b028c2b7fb1b0"
+
+[[files]]
+file = "mods/fast-ip-ping-v1.0.8-mc1.21.1-fabric.jar"
+hash = "7dd97b3986016f4861072f0cb838bb0b5b5be55dd5a10e7149dabbc59f5aa049"
+
+[[files]]
+file = "mods/fastquit-3.0.0+1.20.6.jar"
+hash = "64d20db9db39afe4d973a1f623d16e6f4ab125543632896c620886bc85ba410b"
+
+[[files]]
+file = "mods/ferritecore-7.0.3-fabric.jar"
+hash = "c2afb5dc05d31434a513f72640dec08552c63e8771609aac771e462ea5807f2f"
+
+[[files]]
+file = "mods/fetzisdisplays-fabric-1.0.1-beta-1.21.jar"
+hash = "36f350f3215944d4ef7872251a94f021f8c9ea7e38fb97085d4c65ff2ad736d3"
+
+[[files]]
+file = "mods/footprintparticle-0.5.4b-mc1.21(.1).jar"
+hash = "8c6a4f1c786fdb653ac2986a94ba898f84bba04e5c74354f45e45e804cda33d6"
+
+[[files]]
+file = "mods/forcemaster_rpg-fabric-2.5.3+1.21.1.jar"
+hash = "a3a6ed2d23f183463d490782fe66caf5209644b3274a5e01bf4ab4091a33680c"
+
+[[files]]
+file = "mods/frightsdelight-fabric-1.21.1-1.4.1.jar"
+hash = "2900c8ea722f10ca8cf74e771737c1ee94ed34f845c0fb3b5439f8cda5a4c02b"
+
+[[files]]
+file = "mods/furnitureexpanded-fabric-1.2+1.21.1.jar"
+hash = "7ebb3c84b148ba942b50e4fb451a7e73b6e57a9623f1466386361619febcacb9"
+
+[[files]]
+file = "mods/fzzy_config-0.7.5+1.21.jar"
+hash = "f64224a57474d0c373b7625ba2537686e9fb0a2089bbe66b5fb8ec9e4b3f04e8"
+
+[[files]]
+file = "mods/geckolib-fabric-1.21.1-4.8.3.jar"
+hash = "d11bf9d1cb7456d2547d94fdd177155d8e81e1e9c405201c7aef0781e0a3efd4"
+
+[[files]]
+file = "mods/gliders-1.21.1-fabric-1.1.8.jar"
+hash = "47d16a6c4e56915b448a819738011e22da6c003af4c60699c823fa5c6c3c23ff"
+
+[[files]]
+file = "mods/gravestones-1.2.6+1.21.1+A.jar"
+hash = "f67a61bd4c56a6444597cbc895d4444d13d83fb822ea21072d1322680090be15"
+
+[[files]]
+file = "mods/guiclock-1.21.1-4.7.jar"
+hash = "1b7f7eea8691f616072905d257b982df73d0c2459fe2dd1b243ad44e7cf26b17"
+
+[[files]]
+file = "mods/horseman-fabric-1.21.1-1.5.8.jar"
+hash = "7c2a3ec7dc929fb433c1fcd6e0d774cb26da35c066f2134b5c0493f615344b9f"
+
+[[files]]
+file = "mods/idwtialsimmoedm-0.3.2+1.21.jar"
+hash = "d79ba6ef9fde801ed4e1411326816ac8950d7f96a4202a3bf0a6726dce92978b"
+
+[[files]]
+file = "mods/immersive_aircraft-1.4.2+1.21.1-fabric.jar"
+hash = "e34aac5fc3bbf152a1507c822ab640c7f76023cf5d351d48ff15cac6a59f5b85"
+
+[[files]]
+file = "mods/immersive_melodies-fabric-0.6.2+1.21.1.jar"
+hash = "dd7a4701aa5a753fb25e9a782d96f7da0ae280e12ae00ff27085d4d579628896"
+
+[[files]]
+file = "mods/immersive_paintings-fabric-1.21.1-0.7.6.jar"
+hash = "244ca83a2a62e8d03914090eeb083ea60be8016fb58e980bdac22552d873385f"
+
+[[files]]
+file = "mods/inventoryhud.fabric.1.21.1-3.4.26.jar"
+hash = "e327e41fe036f5f8c000074e4a90ed527d4729e08a66722fd0a2551005dc71e4"
+
+[[files]]
+file = "mods/invoke-1.2.0+1.21.1.jar"
+hash = "dd8e8135d23e7282ee5cd052fe19038bf61529ae220e3c41bf2b8913b5b9133d"
+
+[[files]]
+file = "mods/iris-fabric-1.8.1+mc1.21.1.jar"
+hash = "0ee4559f66da150b1a4a9dd98239248b487fd57c3381b1e69a5dba271d2c1345"
+
+[[files]]
+file = "mods/jei-1.21.1-fabric-19.27.0.340.jar"
+hash = "70cbbe429e8ff1198e00cf786ec355573972f24c17dc378deed393014062eb6b"
+
+[[files]]
+file = "mods/jewelry-fabric-2.3.1+1.21.1.jar"
+hash = "a651b0f8644b5eb619e49ce0572d091a2929c8d71b8b597d4c15334c5913e84e"
+
+[[files]]
+file = "mods/jobsaddon-1.2.2.jar"
+hash = "7647ba64bd2e7b454cc24899d99b56afea318c6a21511d0d423b2697710e3f29"
+
+[[files]]
+file = "mods/kitchenprojectiles-1.0.2+mc1.21.1.jar"
+hash = "0e831f1f54c9c87a72230bcbc68e772c04b8668a95867537889ef4dd885621e2"
+
+[[files]]
+file = "mods/konkrete_fabric_1.9.9_MC_1.21.jar"
+hash = "06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841"
+
+[[files]]
+file = "mods/koreanpatch-fabric-1.9.3+mc1.21.jar"
+hash = "1882d09ecb501ed2a09a198b819e514f3c618df324c0cd54fc67a787a9dd91b6"
+
+[[files]]
+file = "mods/lambdynamiclights-4.8.7+1.21.1.jar"
+hash = "60c6b61c0b41b3c465198e915385ec961cdeeb7232edea6519d000fac7345285"
+
+[[files]]
+file = "mods/letsdo-bakery-fabric-2.1.4.jar"
+hash = "67d13897136d75084a7249073014c1ffd8980d828784c013da93c16c6e25214f"
+
+[[files]]
+file = "mods/letsdo-candlelight-fabric-2.1.7.jar"
+hash = "b225e4307f5641fc1901f601821863f19efa482fc9b4f74634717f7b43d117e8"
+
+[[files]]
+file = "mods/letsdo-farm_and_charm-fabric-1.1.17.jar"
+hash = "d56fe5f03d64db1f4a6092c01604ad93ddc801ea9129a0963126c3e07d335fc5"
+
+[[files]]
+file = "mods/letsdo-herbalbrews-fabric-1.1.2.jar"
+hash = "7a69efa2d5b68d9ad39be56b59efb7bd2943570f7c3c4de5cff216b995bad870"
+
+[[files]]
+file = "mods/letsdo-vinery-fabric-1.5.3.jar"
+hash = "648126e6e9de4ea58d3ff53e3d8f1e77f661c17532c7892f2b89a6619395c697"
+
+[[files]]
+file = "mods/levelz-2.0.8.jar"
+hash = "267086c3172948691458330630e5ad60ecbc26e9b797dd06f6c75f317cc3f075"
+
+[[files]]
+file = "mods/libIPN-fabric-1.21.1-6.6.2.jar"
+hash = "6b9d9ee26bacc1980750a8269df9369cf00fe36b0235e1fad3eebf394b4b74c3"
+
+[[files]]
+file = "mods/libjf-3.17.3.jar"
+hash = "bcf972e8a0ffc24ddff25319e3fc89feb7cee3d26833bf16e8f53d16ae01b359"
+
+[[files]]
+file = "mods/libz-1.0.3.jar"
+hash = "e80db9271d482c8678e23cd1eb307e30b09b73e83fecd1384a9240de19730bf3"
+
+[[files]]
+file = "mods/lithium-fabric-0.15.2+mc1.21.1.jar"
+hash = "92605aaadfac96fba841d0e4bb90a17594d867972e4907c1f9296219812f3b43"
+
+[[files]]
+file = "mods/lootr-fabric-1.21.1-1.11.36.114.jar"
+hash = "db9a2340ac40999620a07fdbe29fff98736c33eaae71a09be279b2d6617ee8df"
+
+[[files]]
+file = "mods/make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar"
+hash = "7b867cfa1cddacf314f616ffcec9696bca755f2563d72e89332ad435219b31a1"
+
+[[files]]
+file = "mods/malilib-fabric-1.21-0.21.9.jar"
+hash = "e2b1bf768b1d0ae2279093a946db426cc1abc608328f31c18f4ed188a35c1a37"
+
+[[files]]
+file = "mods/man_of_many_planes-0.2.1+1.21.1-fabric.jar"
+hash = "a051c1e277975a7d22211ac362d53583422050a1bf33dfd678e68fc30163f604"
+
+[[files]]
+file = "mods/maseffects-1.21.1.jar"
+hash = "a8ff4846331e6eb9158a6a18912bf0c567b9201debc6ed1353eb4d86214b6eaa"
+
+[[files]]
+file = "mods/mcw-bridges-3.1.0-mc1.21.1fabric.jar"
+hash = "1953d94d901235a204d31aff20dea972b553c785f184a30f613b72af6c2686d2"
+
+[[files]]
+file = "mods/mcw-doors-1.1.2-mc1.21.1fabric.jar"
+hash = "02999744fef5e3ce4c5719a6254014f994366a6d143eb3f6a80115429f12e55c"
+
+[[files]]
+file = "mods/mcw-fences-1.2.0-1.21.1fabric.jar"
+hash = "5659f9f6b9aab593cff473cdfbbd20dfd277601366f52f9c61e2e4d8fd2376ad"
+
+[[files]]
+file = "mods/mcw-furniture-3.4.1-mc1.21.1fabric.jar"
+hash = "d7e0ad0c3cf855be1a6424cd617304141cb92c54d69739f3a5551af48900db2c"
+
+[[files]]
+file = "mods/mcw-lights-1.1.5-mc1.21.1fabric.jar"
+hash = "fe280e328ed01bc4513a763418a1116da4884db12225fed85db8a1dda7ae2f91"
+
+[[files]]
+file = "mods/mcw-mcwpaths-1.1.1-mc1.21.1fabric.jar"
+hash = "3e8933091f70a00b1126bfecdc12d0d9d93d711e19c27e4b70a6950691a655d7"
+
+[[files]]
+file = "mods/mcw-roofs-2.3.2-mc1.21.1fabric.jar"
+hash = "824251e0c8cf44e90664e748cd33b09d0010c5a0d4f96e221b7197cf0c3eb874"
+
+[[files]]
+file = "mods/mcw-stairs-1.0.1-1.21.1fabric.jar"
+hash = "3a1cbcf501a89e5ec05840d4f75447f1ecb77e6b8c71386f627c2d83eb08d911"
+
+[[files]]
+file = "mods/mcw-trapdoors-1.1.5-mc1.21.1fabric.jar"
+hash = "ad28a5bce4452bfa92b19b5faaed033c342baa772df6e53bdf0e9ac278a20fa5"
+
+[[files]]
+file = "mods/mcw-windows-2.4.0-1.21.1fabric.jar"
+hash = "8a7e9d03dc108a0acd612e082e74bda8ba8c8264b1c3c9794214b92141e53945"
+
+[[files]]
+file = "mods/melody_fabric_1.0.10_MC_1.21.jar"
+hash = "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83"
+
+[[files]]
+file = "mods/minihud-fabric-1.21-0.32.59.jar"
+hash = "106017e3925a2eec0dd43c9717fef70837bf3247e727c39b42750c875386cc7d"
+
+[[files]]
+file = "mods/mixintrace-1.1.1+1.17.jar"
+hash = "1a12e4927325543796aa3a3600a94f0603835a7b540f12e6f5f3df04c61b51ea"
+
+[[files]]
+file = "mods/modelfix-1.21-1.6-fabric.jar"
+hash = "54db53bdc2b859843b0386a6e93234955f3b4aea66670456307dcec0fe0bc6b5"
+
+[[files]]
+file = "mods/modernfix-fabric-5.25.1+mc1.21.1.jar"
+hash = "81c34a0767af89699b34feb268601460a7d90c6cefc0907c552838c513b221bc"
+
+[[files]]
+file = "mods/modernnetworking-fabric-1.2.8+1.21.1.jar"
+hash = "ca124579c0ac44ee3eef7d1f1870a3e706f267077106a362db533111fd962526"
+
+[[files]]
+file = "mods/modmenu-11.0.3.jar"
+hash = "cd5e1fcd72b7499c6fce81965fa1393cc057329aea9370f393129b4b156da0d9"
+
+[[files]]
+file = "mods/monolib-fabric-1.21.1-2.1.0.jar"
+hash = "f67ed3af0f7da07c91317334129ae7eee58011a6cc0f714d458a435af182287e"
+
+[[files]]
+file = "mods/moonlight-1.21-2.29.16-fabric.jar"
+hash = "02a9ad5d46d5bb4e57a74dc740afee03c127b6bd64cd38542469024a0686d833"
+
+[[files]]
+file = "mods/more_relics-fabric-1.1.0+1.21.1.jar"
+hash = "45a1983c3d6d057921bf941866e94105c80284fd831911b699a40e891a0a7456"
+
+[[files]]
+file = "mods/more_rpg_library-fabric-2.5.5+1.21.1.jar"
+hash = "80cde03da35c35a03e4e734a5d09ca4bb0e4f4d98228f805a7480cc5c53e537a"
+
+[[files]]
+file = "mods/moreculling-fabric-1.21.1-1.0.3.jar"
+hash = "70d86c2c9c4ecddb7d364c0ac9eb081a268c35a8844a75206dfe38acbde3adfc"
+
+[[files]]
+file = "mods/moredelight-25.07.28-1.21-fabric.jar"
+hash = "2970a1e5b58b76135d04a75c3323e2cee6612298b568d5bfdd194cd03793def7"
+
+[[files]]
+file = "mods/movingelevators-1.4.12-fabric-mc1.21.jar"
+hash = "b976006779e8e230f581fccf4acc87b36b6f2cdddf2eda161a6dc37994cb82d2"
+
+[[files]]
+file = "mods/mru-1.0.19+LTS+1.21.1+fabric.jar"
+hash = "8ae8aaeb0212a982fcc248d5afcfc93ff39f7a533067e9efd70d10c761a79ac8"
+
+[[files]]
+file = "mods/musketmod-1.21.1-fabric-1.5.4.jar"
+hash = "75e9a482c94f89f58d15e0b9d85cbdd48c4878b7a86e56e7900f5566c91f67f4"
+
+[[files]]
+file = "mods/nametagtweaks-1.3.5+1.21-fabric.jar"
+hash = "be3d62b3c86e17041e45f2b103f6eb23e82c95cdf061f90e30d3b5a23ce19856"
+
+[[files]]
+file = "mods/nofeathertrample-1.21.1-1.3.jar"
+hash = "88e0f6bdba34239918554686e9af9f498dcdf6527e66f82cbb0b23bd75d5fae8"
+
+[[files]]
+file = "mods/nonarrator-1.0.2.jar"
+hash = "7349208b15420e5066a37628de0a60a94cee43bf9194eaf5b371710715f0a227"
+
+[[files]]
+file = "mods/notenoughanimations-fabric-1.11.2-mc1.21.1.jar"
+hash = "17fd8c93b52dd83977f0dd00e070e6c28e4c206823189f17b13010ac21995be3"
+
+[[files]]
+file = "mods/notenoughcrashes-fabric-4.4.9+1.21.1.jar"
+hash = "44063cb6e837fe90d1350054d3ed97ba0cd16ecc0199f3a1729be18796195859"
+
+[[files]]
+file = "mods/oceansdelight-fdrf-fabric-1.0.2-1.21.jar"
+hash = "9d03d7c0c077ab1b40aa5dad4ac21e6ad27168f61f70701642edfe0b90e91225"
+
+[[files]]
+file = "mods/ok_zoomer-fabric-10.0.0-beta.10.jar"
+hash = "4cf873940e381266e07cddfecb638de8ae877d69554e3018dae856e5c74ead1d"
+
+[[files]]
+file = "mods/open-parties-and-claims-fabric-1.21.1-0.25.8.jar"
+hash = "b551a9ffa2eadc8eddf3e4f1e0b0355f2727771da204d355c77b4bad47ba3295"
+
+[[files]]
+file = "mods/optiboxes-1.4+mc1.21.1-9eba186.jar"
+hash = "b0620ef264ce11e45773b62be82531c812319ac6c6ed0f6135e70f887491ee87"
+
+[[files]]
+file = "mods/owo-lib-0.12.15.4+1.21.jar"
+hash = "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec"
+
+[[files]]
+file = "mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
+hash = "5b09aeaf2fd6a43269b3483776e239d4f147c501a066135e46da4c05bf8995a4"
+
+[[files]]
+file = "mods/paladins-fabric-2.6.4+1.21.1.jar"
+hash = "9900e48df4d49e2f702da36486feac66d6281b3f22f108d9429746e4d73da7b9"
+
+[[files]]
+file = "mods/pandalib-fabric-1.21.1-1.0.0-ALPHA.2.1.jar"
+hash = "b4ba4d0aca53b31441c7cea7024ea00293c329a49aa5ce098a9f492e663ffdf6"
+
+[[files]]
+file = "mods/particle_core-0.3.3+1.21.jar"
+hash = "2114229c7cac272c35a6ccf1bc29ca6c3994324443664e5ebee32c98854a443a"
+
+[[files]]
+file = "mods/particlerain-4.0.0-beta.5+1.21.1-fabric.jar"
+hash = "0eb71610d012e905f7a8ac323f2532f595b8a98ac8d6598889b064b8933e0151"
+
+[[files]]
+file = "mods/particular-1.1.2+1.21.jar"
+hash = "2c3eb546707671565b9e77947513a1de7ab55d8999f27c872883a45e5087b6a7"
+
+[[files]]
+file = "mods/pineapple_delight-1.1.0-1.21.1-fabric-fix.jar"
+hash = "f57b344473935e48b6e6e57a160f56ffda76a315f6e7256086f557946c21f3c2"
+
+[[files]]
+file = "mods/placeholder-api-2.4.2+1.21.jar"
+hash = "b313ae516e99067105d7ee599233cb774a4c830c7ce49aa1b56704ddd5937803"
+
+[[files]]
+file = "mods/player-animation-lib-fabric-2.0.1+1.21.1.jar"
+hash = "21745a2ba2cb41ff6e59f8a8453d14c887c02c1b1205b4d5e073d8aee5f61b6a"
+
+[[files]]
+file = "mods/pneumonocore-1.2.0+1.21.1.jar"
+hash = "460dc2e9c9745b92558c863434a6db4d808c918d902d40ea903d4827651201e6"
+
+[[files]]
+file = "mods/polymorph-fabric-1.1.0+1.21.1.jar"
+hash = "6a890d5ff5cfd7fb466b259f6fb8215265202a6aeaf3711bb4ac77e98c3010bc"
+
+[[files]]
+file = "mods/pumpkin_pie_delight-1.0.2+1.21.jar"
+hash = "52e0315ed8807e18f58f7e88baa259d19d9fe59b1e86c33d40ffd89fa444b8f7"
+
+[[files]]
+file = "mods/punchy-2.3-fabric-1.21.1.jar"
+hash = "eb7a85c3f3a0cc9305d713f06911a39f0750e65364501e1522ec82e6c73f0bbc"
+
+[[files]]
+file = "mods/ranged_weapon_api-fabric-2.3.2+1.21.1.jar"
+hash = "3909bc5067df522bd507a290f957ff14a9a9ed6e60019c00d436bf5f7af1c239"
+
+[[files]]
+file = "mods/recipe_modification-fabric-1.21.1-0.1.2.jar"
+hash = "9a9ce4f4c68a89eaa59c1290e6cf1e45240120b042e62f8a2a083f03dc261964"
+
+[[files]]
+file = "mods/redirected-fabric-1.0.0-1.21.1.jar"
+hash = "941eeb42eae331bea9b9ccc08e9811de74112ec3e563be243f01d38e865d8f40"
+
+[[files]]
+file = "mods/reeses-sodium-options-fabric-1.8.0-beta.4+mc1.21.1.jar"
+hash = "13435401fa390c4b26403a03ea84d7d1263251b3c0d51a4916d66e6cb4b4bb90"
+
+[[files]]
+file = "mods/reinforced-barrels-2.6.1+1.21.1.jar"
+hash = "90557ea9ef306412db85796f233b6ec554a9dcc661fdb63648a13c96bdec35e3"
+
+[[files]]
+file = "mods/reinforced-chests-3.1.1+1.21.1.jar"
+hash = "3c4ae908b98c7c8bfd7400ca481f76fac61b36a97345ed8ff7703012a5b69be6"
+
+[[files]]
+file = "mods/reinforced-shulker-boxes-3.2.1+1.21.1.jar"
+hash = "56031ca994d38642d81a0179036b1cb404bfaea87c4780f4c3f9588dda540fb2"
+
+[[files]]
+file = "mods/relics-fabric-1.2.1+1.21.1.jar"
+hash = "77d9bde7da6316d42616d22420c07b062a03996afcc8d6bf157916f9d72cffe4"
+
+[[files]]
+file = "mods/resourcefulconfig-fabric-1.21-3.0.11.jar"
+hash = "cb5d6d57d64119744cd23667f6d6fda4373f996a5a45053f568a3b790f28bf86"
+
+[[files]]
+file = "mods/respackopts-4.14.0+1.21.1.jar"
+hash = "8e5794576805b54b78bdce3db1eaa6754d6f28f84bcd047fba16df28ec6d944e"
+
+[[files]]
+file = "mods/rogues-fabric-2.6.4+1.21.1.jar"
+hash = "5b61daccb2c3470d2b34adfc95a9b191aebf58a71d796f18318af536faceb959"
+
+[[files]]
+file = "mods/runes-fabric-1.2.1+1.21.1.jar"
+hash = "480aee655bf874d8518683850ce7acc99840e33dd79cbb15725f3b6815f73655"
+
+[[files]]
+file = "mods/ruok-fabric_1.21.1-1.7.2fix.jar"
+hash = "e0f3dccb42026db84a4dafa04a8756abdb2ba0f70526e2c403692af85fc2215a"
+
+[[files]]
+file = "mods/rusticdelight-fabric-1.21.1-1.5.1.jar"
+hash = "d951654eaa0036ffa82bf499cac7c270fc440977e7323532f013727c7e2d1f3d"
+
+[[files]]
+file = "mods/show-me-your-skin-1.11.3+1.21.jar"
+hash = "89f49d0b265c33330049dd5040e0476d75a0864a477fda3bff5a8bf40ea500cb"
+
+[[files]]
+file = "mods/shulkerboxslot-fabric-6.0.0+1.21.1.jar"
+hash = "a1e27abbd2e1a38921533a4f4d32197bb165ea08351dabb7123eee182be98fcd"
+
+[[files]]
+file = "mods/shulkerboxtooltip-fabric-5.1.8+1.21.1.jar"
+hash = "3ee79955737dad45ee9c01709c48fca69da90814483490c3f495fbe9d7adae15"
+
+[[files]]
+file = "mods/simplehats-fabric-1.21.1-0.4.0.jar"
+hash = "207de0f40afcf375fcdeaa0ebe3afb97ad4542561f19108de29fbbbb55a4d8d7"
+
+[[files]]
+file = "mods/sit-1.21-28.jar"
+hash = "ff87c1cf6d4bbd62124604aa1b246fe2d75b951ff847d15bcc1565d87a2e1942"
+
+[[files]]
+file = "mods/skinlayers3d-fabric-1.9.2-mc1.21.1.jar"
+hash = "267bc061f7ddc695925ddeac685abda0d6e7e6dba9fc86995862b357647b6299"
+
+[[files]]
+file = "mods/sleep-v3.3.2.jar"
+hash = "f04134c9f16129b1d8fa96403a7d8bb808e23b5567d7dcaab3917d0f3dff0bb2"
+
+[[files]]
+file = "mods/smoothscroll-2.2.1-1.21.1.jar"
+hash = "4815f4cb767983fa563e79770ed76c507f1b975c3bbf0124579d2c69f0b7f569"
+
+[[files]]
+file = "mods/smoothswapping-0.9.3.1-1.21.1-fabric.jar"
+hash = "66f6b0c02303d346ee7188961c4ae784d98cf0b36b5759166b51c1a4cbacfe2a"
+
+[[files]]
+file = "mods/sodium-extra-fabric-0.6.0-beta.3+mc1.21.1.jar"
+hash = "ba514459a6c064b8f581d44b876dab1f27c3cc6ff3b4bab5841674d0acf4c2c2"
+
+[[files]]
+file = "mods/sodium-fabric-0.6.0-beta.2+mc1.21.1.jar"
+hash = "f14ba16f64196a349893d165dde8bc87bd1615e40972df6aba937b935f48f7e3"
+
+[[files]]
+file = "mods/sound-physics-remastered-fabric-1.21.1-1.5.1.jar"
+hash = "047c6f56937ed61ac62739ba58c7bfaaf5103ef1945baeea92b22d1f6653a337"
+
+[[files]]
+file = "mods/sounds-2.4.17+lts+1.21.1-fabric.jar"
+hash = "4dcbce5a35030d98927499f614dc927dd5d3e74ee0e0057cd82f68077b94ab97"
+
+[[files]]
+file = "mods/spear-backport-fabric-1.7.3-1.21.1.jar"
+hash = "4d6b3756c832f2e34620a7d1607ce85baaca74e61d4f1dc487f2577f9c3ef5d0"
+
+[[files]]
+file = "mods/spell_engine-fabric-1.8.19+1.21.1.jar"
+hash = "7addba0a4af7d5a602b701aa5ad74da287d02ef42bc0ef6ff58e137683ce6a46"
+
+[[files]]
+file = "mods/spell_power-fabric-1.4.4+1.21.1.jar"
+hash = "c50713e5acab6fb6630ee1b70beb4f2b3f630fed0064568f1e97382d63cd11f4"
+
+[[files]]
+file = "mods/spuds-shops-1.21.1-1.9.0.jar"
+hash = "74281800c95af26fcf6a81fb45f5f2b25d89e39b3388c142a7047289da67c959"
+
+[[files]]
+file = "mods/stackable-fabric-1.21.1-2.0.4.jar"
+hash = "839ebac15687954ecad79fd123b7b640fe65560c2deaa3263290b714d6c6090f"
+
+[[files]]
+file = "mods/stackedblocks-25.02.13-1.21-fabric.jar"
+hash = "fde2cafb6d4fc159cb4a6134231a29284f99c9840f6677398f3dd9abada11382"
+
+[[files]]
+file = "mods/stackedblocksfarmersdelight-25.02.13-1.21-fabric.jar"
+hash = "182db26638575b7fea6eef8c60d98a8dba82866147cb32e6e2824afe88cef083"
+
+[[files]]
+file = "mods/stackrefill-1.21.1-4.9.jar"
+hash = "c01c17c3122db7a29d16dad703e104b2b438d6838807cafd68954beaa30320ba"
+
+[[files]]
+file = "mods/structure_pool_api-fabric-1.2.1+1.21.1.jar"
+hash = "868b00d35807c70de1e7566bd68763891391a9632fbe0457595774f95a8a8fd9"
+
+[[files]]
+file = "mods/superfastmath-0.0.2-1.21.1.jar"
+hash = "0cecd9bdc2730b9c84938c700306782119e6b83c06a075cad9df16690b2b722a"
+
+[[files]]
+file = "mods/supermartijn642configlib-1.1.8-fabric-mc1.21.jar"
+hash = "3afd16ec2b6c7123a082102d832e350da2c4c7cef41aeb9129944fa499ec7e83"
+
+[[files]]
+file = "mods/supermartijn642corelib-1.1.18a-fabric-mc1.21.jar"
+hash = "171f74a0f6598285356d766a74eb18e7d154a6d4d65d84da40ee497423ab28e8"
+
+[[files]]
+file = "mods/swinginglanterns-1.21.1-1.4.0.jar"
+hash = "da35792a349fe077fdea35cbd02656518b5cdadf517e360831e66662dfdf9a89"
+
+[[files]]
+file = "mods/tabtweaks-1.5.9+1.21.1-fabric.jar"
+hash = "02e8d6f36921f6ffa84cd45c5b7ae1db55774df7a86b8bcd8fc8f25d76739970"
+
+[[files]]
+file = "mods/talk_balloons-fabric-1.4.1+1.21.1.jar"
+hash = "5ecd1c64ad4ec27932534a22cd1384a10349d87f763d37d344d886d36e02f816"
+
+[[files]]
+file = "mods/tcdcommons-3.12.7+fabric-1.21.jar"
+hash = "2deb47cf1bef28b58a2ca45b7789c9f5c4636b986c01fcf7859adeb6f76c2dd3"
+
+[[files]]
+file = "mods/threadtweak-fabric-0.1.5+mc1.21.1.jar"
+hash = "fdbca37f42db18024e903a5cbfef04b1f989ef66684d0a16deb1f3fcf90f4d47"
+
+[[files]]
+file = "mods/tia-fabric-1.21-1.2.1.jar"
+hash = "9518d1a5fbc7e7c374c4c6185376c049d9c2e9e62685b02a489ad12271d996bf"
+
+[[files]]
+file = "mods/tlib-1.3.0-1.21.1.jar"
+hash = "992ab837066747934064c56349d39a17f6b1f9a2e32b3fd5d60fb7071cc10f0f"
+
+[[files]]
+file = "mods/tooltip-scroll-1.4.0+1.21.jar"
+hash = "97c240d47a9ea25bad628ae9b79f3ddcd69f44b7777c8dc5e7dcc1638f2a82d7"
+
+[[files]]
+file = "mods/tooltipfix-1.1.1-1.20.jar"
+hash = "21f986fa6fab80fd22ee180339129392f207197e0fa77af06bbcb1b3c16332e2"
+
+[[files]]
+file = "mods/totw_modded-fabric-1.21-1.0.9.jar"
+hash = "258f50d624476ee22d6322709b6efd83d4092abf776774879bf86230c940451f"
+
+[[files]]
+file = "mods/trailandtales_delight-1.3.jar"
+hash = "3afb14c035fd04008efe7e00ee588a29d1d051ec2b2f646ce25d9b38b6d0c0ba"
+
+[[files]]
+file = "mods/trashslot-fabric-1.21.1-21.1.4.jar"
+hash = "aaf6c17cffc2b30a458c4407e07916b50970cb1d6fb1d0a0612559955d773924"
+
+[[files]]
+file = "mods/travelersbackpack-fabric-1.21.1-10.1.33.jar"
+hash = "2f5cb2508fb59bfee7f5b2899ca43310140691dfe0003036acee921fd5e6163b"
+
+[[files]]
+file = "mods/trinkets-3.10.0.jar"
+hash = "90bc31fa9f38ab8e066d978fe2803d8b02c32e27d9a6094ce73873d8561061f5"
+
+[[files]]
+file = "mods/txnilib-fabric-1.0.24-1.21.1.jar"
+hash = "52cd47d6c082710369ab8d05da74b1957bf6b8113f652da580a332fa3cd234ec"
+
+[[files]]
+file = "mods/vegandelight-fabric-1.21.1-2.0.0-beta3.jar"
+hash = "d26bff6a4aa4fd645df09252677ee76825ea2201793bc6fa51e86a413e3402b1"
+
+[[files]]
+file = "mods/village_taverns-fabric-1.1.5+1.21.1.jar"
+hash = "06a0a1468ae46517c978089e32ea3a61832797610ffcee3ef254f8ba5b1f8dca"
+
+[[files]]
+file = "mods/villagertweaks-fabric-4.2.0.jar"
+hash = "4fff6218a273cc1c8c98af187d4993c30b2a3e3da7b6c6c1682e3a0f1d0cf000"
+
+[[files]]
+file = "mods/visuality-0.7.7+1.21.jar"
+hash = "963720a5e640f23c4837a32633d517781b828c38bf306f8d69045c288b30596a"
+
+[[files]]
+file = "mods/vmp-fabric-mc1.21.1-0.2.0+beta.7.172-all.jar"
+hash = "35c3d3f02c7a32f6ad7ba38bcb9c2f0b6680592173bffb9854d9e0563d9e004a"
+
+[[files]]
+file = "mods/voicechat-fabric-1.21.1-2.6.6.jar"
+hash = "c77622591c697c69a1731587f0cb4b9cada3847777be36135de4c26171f072d1"
+
+[[files]]
+file = "mods/wakes-0.4.1+1.21.1.jar"
+hash = "1813abcca795573dc5c87a1d497388357238f77a3916ff8372813a3a575cb17b"
+
+[[files]]
+file = "mods/watut-fabric-1.21.0-1.2.7.jar"
+hash = "6e966a98e13f322bebc5af4c60fcba29cc2cdf30287375bc79143d9e5a750209"
+
+[[files]]
+file = "mods/waveycapes-fabric-1.8.2-mc1.21.1.jar"
+hash = "f8f6054e79ae5ac2def76b78200ed8f79b66bc06b41fa8372555bcf86687d902"
+
+[[files]]
+file = "mods/waystones-fabric-1.21.1-21.1.23.jar"
+hash = "ac1f56191737e2047fe7330c9990321b3ee289f98244cf0c19f88a69ea11e457"
+
+[[files]]
+file = "mods/weaponmaster_ydm-fabric-1.21.1-4.4.2.jar"
+hash = "6f70374d81a5cf16993c3a623982d6a3ebf4736c19c820b3a9cccede28a532c1"
+
+[[files]]
+file = "mods/witcher-class-mod-fabric-2.6.2+1.21.1.jar"
+hash = "0bee57ab9b2aade1345f99a5573d84f739acb8b222ffa1e34c5448e04791ab0c"
+
+[[files]]
+file = "mods/wizards-fabric-2.6.5+1.21.1.jar"
+hash = "ae2c89431ac0255a40adf68ca9d463ac3cc57b47392f95c31dc662b5387c427c"
+
+[[files]]
+file = "mods/worldweaver-21.0.13.jar"
+hash = "548e6e6ff35d5c1fd4402cc6b96cbcc3afd8070a393b6b017bb3fd206fb1a37e"
+
+[[files]]
+file = "mods/xaeromaps_waystones-1.0.8+1.21.x-fabric.jar"
+hash = "70bfe127d0649d639d1a2d078c642badde8f7f5b247c430efb6915a3ec3eecea"
+
+[[files]]
+file = "mods/xaerominimap-fabric-1.21.1-25.3.10.jar"
+hash = "a2380c4836a5ebce3d9757eb8226ee9a3ef3fcd2ca03971d32f9eecc11ff7324"
+
+[[files]]
+file = "mods/xaeroworldmap-fabric-1.21.1-1.40.11.jar"
+hash = "2c42f51a3d64cf93ac385bca6f8962feb1db84fc07a95e47a2c5448622ad3151"
+
+[[files]]
+file = "mods/xlpackets-1.0.5-1.21.jar"
+hash = "5ebb930905d9e04bfd2b4bc6306a54c2375ba3e8074dc60f210929eb3cb3a165"
+
+[[files]]
+file = "mods/yarrp-mc1.21.1-fabric-v0.2.0.jar"
+hash = "19d7e560f461e29d240e74f7d0076c0f6380a9584b13831706e0f6e442c7f1ab"
+
+[[files]]
+file = "mods/yet_another_config_lib_v3-3.8.0+1.21.1-fabric.jar"
+hash = "3ad3b24abf153406ce66905d448bd0b802e26ffef3f14acc790d1e2edeb7671b"
+
+[[files]]
+file = "mods/ysm-2.6.2-fabric+mc1.21.1-release.jar"
+hash = "d01d0c27304fbdf6b4d52a7584daaa7f911212caf9ab104f5188376aefb88760"
