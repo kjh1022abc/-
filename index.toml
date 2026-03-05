@@ -117,10 +117,6 @@ file = "mods/EmeraldTools-Fabric-1.21.1-1.8.17.jar"
 hash = "b4c358b63d9f44448783aca1a5aa5868c22366d103b7aa6fe66664fc39d1bbe1"
 
 [[files]]
-file = "mods/EnchantingInfuser-v21.1.2-1.21.1-Fabric.jar"
-hash = "6edb14aaf69fad8b017c7f3ce8984ffeb3a12355d3575e5fc4900a6e7f1597c7"
-
-[[files]]
 file = "mods/EuphoriaPatcher-1.8.6-r5.7.1-fabric.jar"
 hash = "df77dce4344af4da14a17beb92f74f957f3f12be382e988b5116009aac4c4a83"
 
@@ -193,6 +189,10 @@ file = "mods/ItemBorders-1.21-fabric-1.2.5.jar"
 hash = "e1870f13a0d9197d81acc981d94b0ac191d5ae1d99cf0debd0c18cfd6df2a1bb"
 
 [[files]]
+file = "mods/ItemPhysicLite_FABRIC_v1.6.9_mc1.21.1.jar"
+hash = "c701c8c57d1ddb60f8c813974502bba97830e49fa071ab23de5d4282fc25d982"
+
+[[files]]
 file = "mods/Item_Obliterator-Fabric_Quilt-MC_1.21-3.1.1.jar"
 hash = "7376b8517a3193dccd5a269cf334f8878ae489cdd147c488b4ac20ecbd3a7b86"
 
@@ -214,7 +214,7 @@ hash = "cb1d5a679272fcc367a94f8c2891356a84b9399266c91df42aabe50aa156c0b7"
 
 [[files]]
 file = "mods/LazyDFU-[UNOFFICIAL]-1.21.jar"
-hash = "2fee399beb8639a4fbe43fbe14f677c8263b7ad497f347872fb2e711d6d871d4"
+hash = "67ed32659571a66483d7e3218893f0e023865e4d59101421d9f3c41449f235a7"
 
 [[files]]
 file = "mods/LegendaryTooltips-1.21.1-fabric-1.5.5.jar"
@@ -227,6 +227,10 @@ hash = "678dd2cd543b2f5974b0ef37966284fcdfd0474b6c581fd40cbd3e1b2ad4c483"
 [[files]]
 file = "mods/MapDistanceFix-1.0.12+mc1.20.5-1.21.10.jar"
 hash = "e4bbfca9e814fcd7e6a3927d52616814e2a6e35e507cf58f6b1ac80a79360bc7"
+
+[[files]]
+file = "mods/Marathon-1.0.0+1.21-1.21.8.jar"
+hash = "6f59508a94304756fb33c51a65c607091c27b1aababa8f65bf533a5514651ea6"
 
 [[files]]
 file = "mods/MinecraftCapes Fabric 1.21.1-1.0.0.jar"
@@ -345,6 +349,10 @@ file = "mods/UniversalBoneMeal-v21.1.0-1.21.1-Fabric.jar"
 hash = "9e1571499886d2be1aafbc401f0fc3e555c80857f4acbc75c705e3d4bc9c411a"
 
 [[files]]
+file = "mods/Utilize-1.0.12+1.21-1.21.1.jar"
+hash = "c681ccf7186c393f657e0f906d7acc85e859e6922d57916f912d78aff4a1d2ca"
+
+[[files]]
 file = "mods/VisualWorkbench-v21.1.1-1.21.1-Fabric.jar"
 hash = "c9285cdd9e53a2a80ae9bcb620f9fb786999e947f250617c969cd1b3f0f31644"
 
@@ -454,7 +462,7 @@ hash = "73a94b932985c0fc9aec3f99c3712032075a8a128e738ebb920a43f177603f60"
 
 [[files]]
 file = "mods/bclib-21.0.13.jar"
-hash = "3e34ff88ac17826f84a508c4d06a479df7f37cd6f18d49160a0970965e073fd1"
+hash = "c98bbe4cb9d0fe6d570dfab45d975a00a923a3093fbb3b2c9435c523ff1a1017"
 
 [[files]]
 file = "mods/beltborne_lanterns-1.2.3-fabric+1.21.1.jar"
@@ -570,7 +578,7 @@ hash = "75afb459040f5d4b3b5d6aaa19f3296d11c344faaaeae85677b4f7984d066242"
 
 [[files]]
 file = "mods/continuity-3.0.0+1.21.jar"
-hash = "6665b5f1d7f71dfad366041a54fba33aeb221f0c445f5a941acf0d805c434e62"
+hash = "208056089cc2bceb314fc2b8e46cfe72dfbd33434d281f84f3a62db765930c53"
 
 [[files]]
 file = "mods/coolrain-1.4.0-1.21.1.jar"
@@ -726,7 +734,7 @@ hash = "87a2f7638e11862eccc4c5fa4d57e46a533f224f2f9006e4cdbae49911fe2b03"
 
 [[files]]
 file = "mods/fabric-bind-cmd-1.7.3-1.21.1.jar"
-hash = "044b8be478c3025b16f16e75603f0ba6c9f2667b5f5feb8c8f256b5d294d286d"
+hash = "36e85a0bed259c7507f3fbca83ed45f1f3f4e1adef86bf8ca117da6cda953924"
 
 [[files]]
 file = "mods/fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar"
@@ -793,6 +801,10 @@ file = "mods/fzzy_config-0.7.5+1.21.jar"
 hash = "f64224a57474d0c373b7625ba2537686e9fb0a2089bbe66b5fb8ec9e4b3f04e8"
 
 [[files]]
+file = "mods/gaboulibs-fabric-1.4.jar"
+hash = "40ff037f627a0a1ba94736ddb957e9641a920be5dc966f2d84f203b037f62159"
+
+[[files]]
 file = "mods/geckolib-fabric-1.21.1-4.8.3.jar"
 hash = "d11bf9d1cb7456d2547d94fdd177155d8e81e1e9c405201c7aef0781e0a3efd4"
 
@@ -811,6 +823,10 @@ hash = "1b7f7eea8691f616072905d257b982df73d0c2459fe2dd1b243ad44e7cf26b17"
 [[files]]
 file = "mods/horseman-fabric-1.21.1-1.5.8.jar"
 hash = "7c2a3ec7dc929fb433c1fcd6e0d774cb26da35c066f2134b5c0493f615344b9f"
+
+[[files]]
+file = "mods/identity2-fabric-1.0.0.jar"
+hash = "4980007c969d90bb483588add94a93c9bdcd8bde17bba9cce2822bad8628c0d1"
 
 [[files]]
 file = "mods/idwtialsimmoedm-0.3.2+1.21.jar"
@@ -981,6 +997,10 @@ file = "mods/mixintrace-1.1.1+1.17.jar"
 hash = "1a12e4927325543796aa3a3600a94f0603835a7b540f12e6f5f3df04c61b51ea"
 
 [[files]]
+file = "mods/mobs-always-drop-1.8-1.21.1.jar"
+hash = "5c36f35c78e112edce5071684d0b30939492ddf66c3c890284ad7ee7a9c3ecd2"
+
+[[files]]
 file = "mods/modelfix-1.21-1.6-fabric.jar"
 hash = "54db53bdc2b859843b0386a6e93234955f3b4aea66670456307dcec0fe0bc6b5"
 
@@ -1134,7 +1154,7 @@ hash = "3909bc5067df522bd507a290f957ff14a9a9ed6e60019c00d436bf5f7af1c239"
 
 [[files]]
 file = "mods/recipe_modification-fabric-1.21.1-0.1.2.jar"
-hash = "9a9ce4f4c68a89eaa59c1290e6cf1e45240120b042e62f8a2a083f03dc261964"
+hash = "1a923a3a57dd6acf02004bd590e7b314037345787657d083823c54b62a3c0f76"
 
 [[files]]
 file = "mods/redirected-fabric-1.0.0-1.21.1.jar"
@@ -1142,7 +1162,7 @@ hash = "941eeb42eae331bea9b9ccc08e9811de74112ec3e563be243f01d38e865d8f40"
 
 [[files]]
 file = "mods/reeses-sodium-options-fabric-1.8.0-beta.4+mc1.21.1.jar"
-hash = "13435401fa390c4b26403a03ea84d7d1263251b3c0d51a4916d66e6cb4b4bb90"
+hash = "d62d6e9ebec3a9f23d84ab105f69b5c2cbfce122d3a1c5e088eb9d8d6076edd4"
 
 [[files]]
 file = "mods/reinforced-barrels-2.6.1+1.21.1.jar"
@@ -1222,7 +1242,7 @@ hash = "66f6b0c02303d346ee7188961c4ae784d98cf0b36b5759166b51c1a4cbacfe2a"
 
 [[files]]
 file = "mods/sodium-extra-fabric-0.6.0-beta.3+mc1.21.1.jar"
-hash = "ba514459a6c064b8f581d44b876dab1f27c3cc6ff3b4bab5841674d0acf4c2c2"
+hash = "f2f1d454617f288ec2189840c92884e8cea4a7af6bdc9e4f49cdecebc8bc620e"
 
 [[files]]
 file = "mods/sodium-fabric-0.6.0-beta.2+mc1.21.1.jar"
