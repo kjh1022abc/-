@@ -149,10 +149,6 @@ file = "mods/GlitchCore-fabric-1.21.1-2.1.0.0.jar"
 hash = "9e36cf0fed4b1f40f1c60ac3dc99582a71cd2dc802339b95ee98e054e748b4c9"
 
 [[files]]
-file = "mods/HealthBars-v21.1.0-1.21.1-Fabric.jar.disabled"
-hash = "aa566b591001b4c188e401b074969b12e621a14d7321d4c41dc69ac61f1ddc2d"
-
-[[files]]
 file = "mods/Highlighter-1.21-fabric-1.1.11.jar"
 hash = "3a36e4757528ff441b4687cebe9671509ced8e9b39390bba74068293ecbdb483"
 
@@ -865,10 +861,6 @@ file = "mods/jewelry-fabric-2.3.1+1.21.1.jar"
 hash = "a651b0f8644b5eb619e49ce0572d091a2929c8d71b8b597d4c15334c5913e84e"
 
 [[files]]
-file = "mods/jobsaddon-1.2.2.jar"
-hash = "7647ba64bd2e7b454cc24899d99b56afea318c6a21511d0d423b2697710e3f29"
-
-[[files]]
 file = "mods/kitchenprojectiles-1.0.2+mc1.21.1.jar"
 hash = "0e831f1f54c9c87a72230bcbc68e772c04b8668a95867537889ef4dd885621e2"
 
@@ -905,20 +897,12 @@ file = "mods/letsdo-vinery-fabric-1.5.3.jar"
 hash = "648126e6e9de4ea58d3ff53e3d8f1e77f661c17532c7892f2b89a6619395c697"
 
 [[files]]
-file = "mods/levelz-2.0.8.jar"
-hash = "267086c3172948691458330630e5ad60ecbc26e9b797dd06f6c75f317cc3f075"
-
-[[files]]
 file = "mods/libIPN-fabric-1.21.1-6.6.2.jar"
 hash = "6b9d9ee26bacc1980750a8269df9369cf00fe36b0235e1fad3eebf394b4b74c3"
 
 [[files]]
 file = "mods/libjf-3.17.3.jar"
 hash = "bcf972e8a0ffc24ddff25319e3fc89feb7cee3d26833bf16e8f53d16ae01b359"
-
-[[files]]
-file = "mods/libz-1.0.3.jar"
-hash = "e80db9271d482c8678e23cd1eb307e30b09b73e83fecd1384a9240de19730bf3"
 
 [[files]]
 file = "mods/lithium-fabric-0.15.2+mc1.21.1.jar"
