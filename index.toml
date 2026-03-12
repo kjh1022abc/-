@@ -797,10 +797,6 @@ file = "mods/fzzy_config-0.7.5+1.21.jar"
 hash = "f64224a57474d0c373b7625ba2537686e9fb0a2089bbe66b5fb8ec9e4b3f04e8"
 
 [[files]]
-file = "mods/gaboulibs-fabric-1.4.jar"
-hash = "40ff037f627a0a1ba94736ddb957e9641a920be5dc966f2d84f203b037f62159"
-
-[[files]]
 file = "mods/geckolib-fabric-1.21.1-4.8.3.jar"
 hash = "d11bf9d1cb7456d2547d94fdd177155d8e81e1e9c405201c7aef0781e0a3efd4"
 
@@ -819,10 +815,6 @@ hash = "1b7f7eea8691f616072905d257b982df73d0c2459fe2dd1b243ad44e7cf26b17"
 [[files]]
 file = "mods/horseman-fabric-1.21.1-1.5.8.jar"
 hash = "7c2a3ec7dc929fb433c1fcd6e0d774cb26da35c066f2134b5c0493f615344b9f"
-
-[[files]]
-file = "mods/identity2-fabric-1.0.0.jar"
-hash = "4980007c969d90bb483588add94a93c9bdcd8bde17bba9cce2822bad8628c0d1"
 
 [[files]]
 file = "mods/idwtialsimmoedm-0.3.2+1.21.jar"
@@ -907,6 +899,10 @@ hash = "bcf972e8a0ffc24ddff25319e3fc89feb7cee3d26833bf16e8f53d16ae01b359"
 [[files]]
 file = "mods/lithium-fabric-0.15.2+mc1.21.1.jar"
 hash = "92605aaadfac96fba841d0e4bb90a17594d867972e4907c1f9296219812f3b43"
+
+[[files]]
+file = "mods/lithium-fabric-0.15.3+mc1.21.1.jar"
+hash = "7942632e8b988d31e5ca7bc4e35644004efba5d50f7d2c5758bbf33abe0f984f"
 
 [[files]]
 file = "mods/lootr-fabric-1.21.1-1.11.36.116.jar"
