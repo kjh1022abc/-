@@ -725,8 +725,8 @@ file = "mods/extraspellattributes-1.3.2+1.21.1.jar"
 hash = "4743b99409f5a6a8b4213fb139d671636a3dbc26c59ff8cae4342a04b4f0c024"
 
 [[files]]
-file = "mods/fabric-api-0.116.8+1.21.1.jar"
-hash = "87a2f7638e11862eccc4c5fa4d57e46a533f224f2f9006e4cdbae49911fe2b03"
+file = "mods/fabric-api-0.116.10+1.21.1.jar"
+hash = "af0eb792940568fdb1f37bb65a2599773bc47d2010aedf5ec5ed0bd3b6fc40e6"
 
 [[files]]
 file = "mods/fabric-bind-cmd-1.7.3-1.21.1.jar"
@@ -993,8 +993,8 @@ file = "mods/monolib-fabric-1.21.1-2.1.0.jar"
 hash = "f67ed3af0f7da07c91317334129ae7eee58011a6cc0f714d458a435af182287e"
 
 [[files]]
-file = "mods/moonlight-1.21-2.29.23-fabric.jar"
-hash = "16b2645b4a5ed7db36c09abf2e4ac9269668067de0dd18af3cb5fa77667d2817"
+file = "mods/moonlight-1.21-2.29.17-fabric.jar"
+hash = "dcd0473b577ac073430da960a432ff133d3ea5cf9a027c48a939cf62c7761d69"
 
 [[files]]
 file = "mods/more_relics-fabric-1.2.1+1.21.1.jar"
@@ -1041,10 +1041,6 @@ file = "mods/notenoughanimations-fabric-1.12.0-mc1.21.1.jar"
 hash = "d00bd7a93eabde3435068a85becde186c730d243b786e1bf603ad88a036cd677"
 
 [[files]]
-file = "mods/notenoughcrashes-fabric-4.4.9+1.21.1.jar"
-hash = "44063cb6e837fe90d1350054d3ed97ba0cd16ecc0199f3a1729be18796195859"
-
-[[files]]
 file = "mods/oceansdelight-fdrf-fabric-1.0.2-1.21.jar"
 hash = "9d03d7c0c077ab1b40aa5dad4ac21e6ad27168f61f70701642edfe0b90e91225"
 
@@ -1055,10 +1051,6 @@ hash = "4cf873940e381266e07cddfecb638de8ae877d69554e3018dae856e5c74ead1d"
 [[files]]
 file = "mods/open-parties-and-claims-fabric-1.21.1-0.25.10.jar"
 hash = "8a7c55f9a7d8828be95b7959a582355afccc3ac22bab17b0bf649242f3365ada"
-
-[[files]]
-file = "mods/optiboxes-1.4+mc1.21.1-9eba186.jar"
-hash = "b0620ef264ce11e45773b62be82531c812319ac6c6ed0f6135e70f887491ee87"
 
 [[files]]
 file = "mods/owo-lib-0.12.15.4+1.21.jar"
