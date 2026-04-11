@@ -313,6 +313,10 @@ file = "mods/Sparkweave-Fabric-0.510.0.jar"
 hash = "47c344115506263f630b200d85e100deb70593713dce9ab3087a78a1d2b1e452"
 
 [[files]]
+file = "mods/StackDeobfuscatorFabric-1.4.3+08e71cc.jar"
+hash = "335627367b8212c17e58978866874ede8d0d9a159053fbb38e56123fff83d0f9"
+
+[[files]]
 file = "mods/StylishEffects-v21.1.2-1.21.1-Fabric.jar"
 hash = "974d9c0ba5faf256eb16eb92d295e80b0d1291d334be2500f798e71c06abaace"
 
@@ -657,8 +661,8 @@ file = "mods/effectual-1.2.0-1.21.1.jar"
 hash = "ee687341c011c84a3fea5dda887db9bcaa5ac9a67011d19cb1705e86eb77d674"
 
 [[files]]
-file = "mods/elemental_wizards_rpg-fabric-2.6.5+1.21.1.jar"
-hash = "a70cbaba4f33c0e7163d6733eb5cf58b8e30416589bdfae669df21b7b6b02475"
+file = "mods/elemental_wizards_rpg-fabric-2.6.6+1.21.1.jar"
+hash = "c306e46e2fb3874ca3d41cae09f4c022b272ca94ca1e23440e2fe1a452617784"
 
 [[files]]
 file = "mods/elytraslot-fabric-9.0.1+1.21.1.jar"
@@ -993,16 +997,16 @@ file = "mods/monolib-fabric-1.21.1-2.1.0.jar"
 hash = "f67ed3af0f7da07c91317334129ae7eee58011a6cc0f714d458a435af182287e"
 
 [[files]]
-file = "mods/moonlight-1.21-2.29.17-fabric.jar"
-hash = "dcd0473b577ac073430da960a432ff133d3ea5cf9a027c48a939cf62c7761d69"
+file = "mods/moonlight-1.21-2.29.29-fabric.jar"
+hash = "12a4604d6a2fdd3204f63e05650678162c55a689f01b3d3d0484b5c4b8f71b44"
 
 [[files]]
 file = "mods/more_relics-fabric-1.2.1+1.21.1.jar"
 hash = "6aeb941ce41b59a4b37326203b8b5c100e7691f3854dda0c7e9bcff33f19ff14"
 
 [[files]]
-file = "mods/more_rpg_library-fabric-2.5.22+1.21.1.jar"
-hash = "f830faec5f030ab68bff99beda62b06654651b3a24dc27c2d01e4286416c21d4"
+file = "mods/more_rpg_library-fabric-2.5.23+1.21.1.jar"
+hash = "dce54aebb62b65e223b7a15c87c730eb9afc61f5fd44ffbcbdeb2bc261eff646"
 
 [[files]]
 file = "mods/moreculling-fabric-1.21.1-1.0.7.jar"
