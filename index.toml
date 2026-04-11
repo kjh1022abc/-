@@ -406,11 +406,11 @@ hash = "69f2b4b1b550796bac4c7029b90aff4fc7b48271d08960ddf06db379581c5c75"
 
 [[files]]
 file = "mods/archers-fabric-2.7.0+1.21.1.jar"
-hash = "a79c5c4d37c0e64eb21ade8eb0ca1b89a620ac13c4db9c6486170d7d89cf6dd5"
+hash = "a7b3e2ac66425a484780dbff92d28ebfdb32fc10c248a360ccfc5a5318d4db4f"
 
 [[files]]
 file = "mods/archers_expansion-fabric-1.5.1+1.21.1.jar"
-hash = "6e9cc2841f295c076fb9f160e0065d08d8ddf2470143197bf834c5179c8453d5"
+hash = "cff08404216732fd44047290b0e5c95a8090cdcc3ccba71e78b2171bbd21d78b"
 
 [[files]]
 file = "mods/architectury-13.0.8-fabric.jar"
@@ -466,7 +466,7 @@ hash = "97d7bad42db578cc28100e589da9915a3fc239e4a096c542881e808158bb9076"
 
 [[files]]
 file = "mods/berserker_rpg-fabric-2.6.0+1.21.1.jar"
-hash = "1120fa9897de874cb716a5165672b985cef3eed823c581e1b07bbbd1645ac895"
+hash = "c912d0f1fd52cf99c75ab147320946014ddeec6881fbfe140dea5a8e87677f26"
 
 [[files]]
 file = "mods/better-end-21.0.11.jar"
@@ -662,7 +662,7 @@ hash = "ee687341c011c84a3fea5dda887db9bcaa5ac9a67011d19cb1705e86eb77d674"
 
 [[files]]
 file = "mods/elemental_wizards_rpg-fabric-2.6.6+1.21.1.jar"
-hash = "c306e46e2fb3874ca3d41cae09f4c022b272ca94ca1e23440e2fe1a452617784"
+hash = "02423df9f143520a95be4f001fc1fe0eccb281e3f89171a682aa826de94f7237"
 
 [[files]]
 file = "mods/elytraslot-fabric-9.0.1+1.21.1.jar"
@@ -782,7 +782,7 @@ hash = "8c6a4f1c786fdb653ac2986a94ba898f84bba04e5c74354f45e45e804cda33d6"
 
 [[files]]
 file = "mods/forcemaster_rpg-fabric-2.6.0+1.21.1.jar"
-hash = "3375c494d5dfc2c9522176b80f01b0af87fe570dd50eae20574e396a082e6327"
+hash = "89cd42c4b4172a575e24d8627fc7e46a3047915a35fd63a3eba38c6757853f83"
 
 [[files]]
 file = "mods/frightsdelight-fabric-1.21.1-1.4.1.jar"
@@ -1005,8 +1005,8 @@ file = "mods/more_relics-fabric-1.2.1+1.21.1.jar"
 hash = "6aeb941ce41b59a4b37326203b8b5c100e7691f3854dda0c7e9bcff33f19ff14"
 
 [[files]]
-file = "mods/more_rpg_library-fabric-2.5.23+1.21.1.jar"
-hash = "dce54aebb62b65e223b7a15c87c730eb9afc61f5fd44ffbcbdeb2bc261eff646"
+file = "mods/more_rpg_library-fabric-2.5.24+1.21.1.jar"
+hash = "501e426461466513e51cd6b16b8b5c399b198de3fdddb248a884555177e05961"
 
 [[files]]
 file = "mods/moreculling-fabric-1.21.1-1.0.7.jar"
@@ -1031,6 +1031,10 @@ hash = "75e9a482c94f89f58d15e0b9d85cbdd48c4878b7a86e56e7900f5566c91f67f4"
 [[files]]
 file = "mods/nametagtweaks-1.3.5+1.21-fabric.jar"
 hash = "be3d62b3c86e17041e45f2b103f6eb23e82c95cdf061f90e30d3b5a23ce19856"
+
+[[files]]
+file = "mods/netmusic-1.3.1-fabric+mc1.21.1.jar"
+hash = "e47375e05ca651f812b58a9b112c60ca354740808f8ac615b75cd72c0d654f91"
 
 [[files]]
 file = "mods/nofeathertrample-1.21.1-1.3.jar"
@@ -1066,7 +1070,7 @@ hash = "5b09aeaf2fd6a43269b3483776e239d4f147c501a066135e46da4c05bf8995a4"
 
 [[files]]
 file = "mods/paladins-fabric-2.7.0+1.21.1.jar"
-hash = "edb8a320a909d76a4a34f977ca329702cc28502c149779d4f5089387fa6dfe8f"
+hash = "4f2a1ad84577c0e4d8ad0621c9c5e816de9d288435cce2a7e80d0c057388dcf3"
 
 [[files]]
 file = "mods/pandalib-fabric-1.21.1-0.6.0.jar"
@@ -1158,7 +1162,7 @@ hash = "62af1497902c63b9a3b488bcd138cccbcfb718157c89c30b5abb283dc98ebff1"
 
 [[files]]
 file = "mods/rogues-fabric-2.7.0+1.21.1.jar"
-hash = "7681de9fb02cd44f878616ab68f8c221507d5b263d95b6b297a198d8ebd3150a"
+hash = "50da2223a80c793c13c09ee5289b58484581e4d82c2901a0fb6171d700e3d2fa"
 
 [[files]]
 file = "mods/runes-fabric-1.2.1+1.21.1.jar"
@@ -1230,7 +1234,7 @@ hash = "4d6b3756c832f2e34620a7d1607ce85baaca74e61d4f1dc487f2577f9c3ef5d0"
 
 [[files]]
 file = "mods/spell_engine-fabric-1.9.9+1.21.1.jar"
-hash = "8fb29bca7c5a19963442db1d3da212633ebd66c14f12ab3a24d2d9bad6c63b54"
+hash = "0a4125a7c28f03dd8665fc5e732cbe6c7bad35f8e14c747bfa722de851adc446"
 
 [[files]]
 file = "mods/spell_power-fabric-1.4.4+1.21.1.jar"
@@ -1382,11 +1386,11 @@ hash = "6f70374d81a5cf16993c3a623982d6a3ebf4736c19c820b3a9cccede28a532c1"
 
 [[files]]
 file = "mods/witcher-class-mod-fabric-2.8.0+1.21.1.jar"
-hash = "e96a1cdf0d68c680c169f8447d690da6df81936139d1b823858103ffe8b403ec"
+hash = "e40563b2cdfa4ae52f91112421e21df694bed799cdf99eb1b548604ca00e2b1e"
 
 [[files]]
 file = "mods/wizards-fabric-2.7.1+1.21.1.jar"
-hash = "6bd672d55d74a4e1790e201eeae330036888fba646070606042bc6ba9691e047"
+hash = "84670347f87686bda3f20b90ae191a0ef339f98e0c6cd705850a27ae9e3f9f20"
 
 [[files]]
 file = "mods/worldweaver-21.0.13.jar"
