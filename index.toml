@@ -329,8 +329,8 @@ file = "mods/SwordBlockingMechanics-v21.1.1-1.21.1-Fabric.jar"
 hash = "56215a6f9adc8b8fbd5306c190a29f78cfa5333d3f52a3cc59778dd9881f8ac2"
 
 [[files]]
-file = "mods/TACZ-Refabricated-1.21.1-0.4.0-forge1.1.7-hotfix.jar"
-hash = "1e80d38174d525164565576e6f865275a6c9586d4d4f102632a8f563129a6a2c"
+file = "mods/TACZ-Refabricated-1.21.1-0.5.0-forge1.1.7-hotfix2.jar"
+hash = "61e6c2f4727be972ab1707f02a6dd8ba63f662b8ad5dd448a1eb09c61d6b60c4"
 
 [[files]]
 file = "mods/TaxFreeLevels-1.4.7-fabric-1.21.1.jar"
@@ -383,6 +383,10 @@ hash = "3a2e4151d51d533a26479cee495aa58214dcd949ec18775dd872227ee15fce51"
 [[files]]
 file = "mods/adorabuild-structures-2.11.0-fabric-1.21.3.jar"
 hash = "5d53c095d80f530bf8f49af036e7c081cbf611d32cb6b7a9f4532dc560a8aa98"
+
+[[files]]
+file = "mods/adventurez-1.5.0.jar"
+hash = "61e27cd785f98af991e5395fc452623135b9d7fa97a98339c214737cc57c8c7e"
 
 [[files]]
 file = "mods/ambiance-fabric-1.21-1.1.0.jar"
@@ -1159,6 +1163,10 @@ hash = "cb5d6d57d64119744cd23667f6d6fda4373f996a5a45053f568a3b790f28bf86"
 [[files]]
 file = "mods/respackopts-4.14.0+1.21.1.jar"
 hash = "62af1497902c63b9a3b488bcd138cccbcfb718157c89c30b5abb283dc98ebff1"
+
+[[files]]
+file = "mods/roadarchitect-1.6.2-fabric+1.21.1.jar"
+hash = "c66175755128e98823029ad141e0df50109df324d02c29edfb53dd080cef8967"
 
 [[files]]
 file = "mods/rogues-fabric-2.7.0+1.21.1.jar"
