@@ -1285,6 +1285,10 @@ file = "mods/supermartijn642corelib-1.1.18a-fabric-mc1.21.jar"
 hash = "171f74a0f6598285356d766a74eb18e7d154a6d4d65d84da40ee497423ab28e8"
 
 [[files]]
+file = "mods/supplementaries-1.21-3.5.34-fabric.jar"
+hash = "23718e53e327aa523e50fd09dca7b2cdaf45056fa144e870ee72b627701f7118"
+
+[[files]]
 file = "mods/swinginglanterns-1.21.1-1.4.0.jar"
 hash = "da35792a349fe077fdea35cbd02656518b5cdadf517e360831e66662dfdf9a89"
 
