@@ -314,7 +314,7 @@ hash = "47c344115506263f630b200d85e100deb70593713dce9ab3087a78a1d2b1e452"
 
 [[files]]
 file = "mods/StackDeobfuscatorFabric-1.4.3+08e71cc.jar"
-hash = "335627367b8212c17e58978866874ede8d0d9a159053fbb38e56123fff83d0f9"
+hash = "a8ef30fab5063c4b630f0e1401e869d86582ddc39dac301949b2b7b4e050eafc"
 
 [[files]]
 file = "mods/StylishEffects-v21.1.2-1.21.1-Fabric.jar"
@@ -433,12 +433,12 @@ file = "mods/artifacts-fabric-13.2.0.jar"
 hash = "85345875ab566956bb157840c6d5f1e57d319ff64cdd707fe6c5f96dde2d5376"
 
 [[files]]
-file = "mods/auto_tool-fabric-1.2.0.jar"
-hash = "f7d9e4744792c683435abbf4b91cfa866f609abd2fcc26e4bf15e574ed8f5344"
-
-[[files]]
 file = "mods/automobility-0.5.0.h+1.21.1-fabric.jar"
 hash = "7d55679bac9aed192b0b9fc6ef7728d5e0decac7b72c8ee9de7fa01e39623319"
+
+[[files]]
+file = "mods/autotools-fabric-3.4.1.jar"
+hash = "9564bc1491ccc60b612fb94f6dc7af1f24b71b1654e1e0527517393e89cf0d1c"
 
 [[files]]
 file = "mods/azurelib-fabric-1.21.1-3.1.4.jar"
