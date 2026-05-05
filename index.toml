@@ -1305,6 +1305,10 @@ file = "mods/tcdcommons-3.12.7+fabric-1.21.jar"
 hash = "2deb47cf1bef28b58a2ca45b7789c9f5c4636b986c01fcf7859adeb6f76c2dd3"
 
 [[files]]
+file = "mods/thermoo-4.8.0.jar"
+hash = "b63c52285fecd97754fbd9c9dee9f642794df364e5791f4b40533e44e5629955"
+
+[[files]]
 file = "mods/threadtweak-fabric-0.1.5+mc1.21.1.jar"
 hash = "fdbca37f42db18024e903a5cbfef04b1f989ef66684d0a16deb1f3fcf90f4d47"
 
