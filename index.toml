@@ -441,8 +441,8 @@ file = "mods/autotools-fabric-3.4.2.jar"
 hash = "b40b8180785db21b3672f0b5c160e7163f4bffdb391440bf75fbc5c099dd5cca"
 
 [[files]]
-file = "mods/azurelib-fabric-1.21.1-3.1.4.jar"
-hash = "d4f3fa4d1befd9aecc4f7602c4aa17a7fce422f484592ff85831600e6d2b92b7"
+file = "mods/azurelib-fabric-1.21.1-3.1.8.jar"
+hash = "7774cdb460f3740c8b2d4b79af9d3706a407eb6fa7761cbd673356720fb80de8"
 
 [[files]]
 file = "mods/azurelibarmor-fabric-1.21.1-3.1.3.jar"
@@ -797,8 +797,8 @@ file = "mods/furnitureexpanded-fabric-1.2+1.21.1.jar"
 hash = "7ebb3c84b148ba942b50e4fb451a7e73b6e57a9623f1466386361619febcacb9"
 
 [[files]]
-file = "mods/fwa+1.21.1-1.0.5.jar"
-hash = "3dbf1d6fefffb5e9ded0caeedc2c3c29783011339bc50cef1a41fc4fb387bd1b"
+file = "mods/fwa+1.21.1-1.2.15.1.jar"
+hash = "204bbe016c9842621c6e051f33955e9916f702cbdd3b3ea1e8f708c49f38dd52"
 
 [[files]]
 file = "mods/fzzy_config-0.7.5+1.21.jar"
@@ -911,10 +911,6 @@ hash = "bcf972e8a0ffc24ddff25319e3fc89feb7cee3d26833bf16e8f53d16ae01b359"
 [[files]]
 file = "mods/libz-1.1.0.jar"
 hash = "1eccad3e2c0efacaf6bb88279f0d6b8c031b28afe6ac6f5b8fe8273b96fb54c6"
-
-[[files]]
-file = "mods/lithium-fabric-0.15.2+mc1.21.1.jar"
-hash = "92605aaadfac96fba841d0e4bb90a17594d867972e4907c1f9296219812f3b43"
 
 [[files]]
 file = "mods/lithium-fabric-0.15.3+mc1.21.1.jar"
@@ -1133,8 +1129,8 @@ file = "mods/pumpkin_pie_delight-1.0.2+1.21.jar"
 hash = "52e0315ed8807e18f58f7e88baa259d19d9fe59b1e86c33d40ffd89fa444b8f7"
 
 [[files]]
-file = "mods/punchy-2.4.5-fabric-1.21.1.jar"
-hash = "fa933f1205f52027d2bc95fcd98d2f55220c6db1937003807597910b6624afa5"
+file = "mods/punchy-2.5.3-fabric-1.21.1.jar"
+hash = "1e58d872655b535f146f222f6f1d96d31e0937f8af7015851813c9b0333a7361"
 
 [[files]]
 file = "mods/ranged_weapon_api-fabric-2.3.2+1.21.1.jar"
@@ -1175,10 +1171,6 @@ hash = "cb5d6d57d64119744cd23667f6d6fda4373f996a5a45053f568a3b790f28bf86"
 [[files]]
 file = "mods/respackopts-4.14.0+1.21.1.jar"
 hash = "62af1497902c63b9a3b488bcd138cccbcfb718157c89c30b5abb283dc98ebff1"
-
-[[files]]
-file = "mods/roadarchitect-1.6.2-fabric+1.21.1.jar"
-hash = "c66175755128e98823029ad141e0df50109df324d02c29edfb53dd080cef8967"
 
 [[files]]
 file = "mods/rogues-fabric-2.7.0+1.21.1.jar"
@@ -1261,10 +1253,6 @@ file = "mods/spell_power-fabric-1.4.4+1.21.1.jar"
 hash = "c50713e5acab6fb6630ee1b70beb4f2b3f630fed0064568f1e97382d63cd11f4"
 
 [[files]]
-file = "mods/spuds-shops-1.21.1-1.9.0.jar"
-hash = "74281800c95af26fcf6a81fb45f5f2b25d89e39b3388c142a7047289da67c959"
-
-[[files]]
 file = "mods/stackable-fabric-1.21.1-2.0.4.jar"
 hash = "839ebac15687954ecad79fd123b7b640fe65560c2deaa3263290b714d6c6090f"
 
@@ -1295,10 +1283,6 @@ hash = "3afd16ec2b6c7123a082102d832e350da2c4c7cef41aeb9129944fa499ec7e83"
 [[files]]
 file = "mods/supermartijn642corelib-1.1.18a-fabric-mc1.21.jar"
 hash = "171f74a0f6598285356d766a74eb18e7d154a6d4d65d84da40ee497423ab28e8"
-
-[[files]]
-file = "mods/supplementaries-1.21-3.5.34-fabric.jar"
-hash = "23718e53e327aa523e50fd09dca7b2cdaf45056fa144e870ee72b627701f7118"
 
 [[files]]
 file = "mods/swinginglanterns-1.21.1-1.4.0.jar"
