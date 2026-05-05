@@ -793,6 +793,10 @@ file = "mods/frightsdelight-fabric-1.21.1-1.4.1.jar"
 hash = "2900c8ea722f10ca8cf74e771737c1ee94ed34f845c0fb3b5439f8cda5a4c02b"
 
 [[files]]
+file = "mods/frostiful-2.3.1+1.21.1.jar"
+hash = "fc191d966c38491cfed66164883f08ca713f6fa5fa14dfe3398f963e49bfee07"
+
+[[files]]
 file = "mods/furnitureexpanded-fabric-1.2+1.21.1.jar"
 hash = "7ebb3c84b148ba942b50e4fb451a7e73b6e57a9623f1466386361619febcacb9"
 
@@ -1241,8 +1245,8 @@ file = "mods/sounds-2.4.17+lts+1.21.1-fabric.jar"
 hash = "4dcbce5a35030d98927499f614dc927dd5d3e74ee0e0057cd82f68077b94ab97"
 
 [[files]]
-file = "mods/spear-backport-fabric-1.7.3-1.21.1.jar"
-hash = "4d6b3756c832f2e34620a7d1607ce85baaca74e61d4f1dc487f2577f9c3ef5d0"
+file = "mods/spear-backport-fabric-1.8.0-1.21.1.jar"
+hash = "83f0a5b9262028c4ff76e052e103a40c4f521b55f5b8b2f7569f8b7b93020365"
 
 [[files]]
 file = "mods/spell_engine-fabric-1.9.9+1.21.1.jar"
@@ -1323,6 +1327,10 @@ hash = "21f986fa6fab80fd22ee180339129392f207197e0fa77af06bbcb1b3c16332e2"
 [[files]]
 file = "mods/totw_modded-fabric-1.21-1.0.9.jar"
 hash = "258f50d624476ee22d6322709b6efd83d4092abf776774879bf86230c940451f"
+
+[[files]]
+file = "mods/trade-cycling-fabric-1.21.1-1.0.20.jar"
+hash = "0ae356abeddf18c643fc15a5cb6be43c88e17c23abd5caf1380f9a5b4a5674dc"
 
 [[files]]
 file = "mods/trailandtales_delight-1.3.jar"
