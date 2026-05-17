@@ -89,6 +89,10 @@ file = "mods/DiagonalFences-v21.1.1-1.21.1-Fabric.jar"
 hash = "3aefd48f57b048879a9fd0fb91d4597301cc2a613f99a05a5f5a80bb683fa096"
 
 [[files]]
+file = "mods/DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar"
+hash = "486fdeb5b0545637fd94988f12574cda632b107452838484b55e62a0093d3243"
+
+[[files]]
 file = "mods/Drip Sounds-0.5.1+1.21.5-Fabric.jar"
 hash = "ebe5f17f5e6b8a27cdff5b1dd67dafa08016fd63821dabc5607d79f564e99c0a"
 
@@ -793,10 +797,6 @@ file = "mods/frightsdelight-fabric-1.21.1-1.4.1.jar"
 hash = "2900c8ea722f10ca8cf74e771737c1ee94ed34f845c0fb3b5439f8cda5a4c02b"
 
 [[files]]
-file = "mods/frostiful-2.3.1+1.21.1.jar"
-hash = "fc191d966c38491cfed66164883f08ca713f6fa5fa14dfe3398f963e49bfee07"
-
-[[files]]
 file = "mods/furnitureexpanded-fabric-1.2+1.21.1.jar"
 hash = "7ebb3c84b148ba942b50e4fb451a7e73b6e57a9623f1466386361619febcacb9"
 
@@ -1391,10 +1391,6 @@ hash = "35c3d3f02c7a32f6ad7ba38bcb9c2f0b6680592173bffb9854d9e0563d9e004a"
 [[files]]
 file = "mods/voicechat-fabric-1.21.1-2.6.14.jar"
 hash = "886605b27c19ddfc7a32c38efb27d26fec8cfbf612a2930b50a8c5b86c2c4065"
-
-[[files]]
-file = "mods/voxy-0.2.14-alpha.jar"
-hash = "fc55940bf419780f7f7ee87af34da522fcb8c1e35800525c2e5cda03b74fba52"
 
 [[files]]
 file = "mods/wakes-0.4.1+1.21.1.jar"
