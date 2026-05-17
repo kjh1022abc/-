@@ -821,6 +821,10 @@ file = "mods/gliders-1.21.1-fabric-1.1.8.jar"
 hash = "47d16a6c4e56915b448a819738011e22da6c003af4c60699c823fa5c6c3c23ff"
 
 [[files]]
+file = "mods/grapplemod-1.1+1.21.1.fabric.jar"
+hash = "8cdd47184c5a9caca562bcb1e6450b9316e578664d99ecf61cb479313f3d4f28"
+
+[[files]]
 file = "mods/gravestones-1.2.6+1.21.1+A.jar"
 hash = "f67a61bd4c56a6444597cbc895d4444d13d83fb822ea21072d1322680090be15"
 
@@ -1189,6 +1193,10 @@ file = "mods/rogues-fabric-2.7.0+1.21.1.jar"
 hash = "50da2223a80c793c13c09ee5289b58484581e4d82c2901a0fb6171d700e3d2fa"
 
 [[files]]
+file = "mods/rpgdifficulty-1.4.0.jar"
+hash = "b636b07ae85d8a4621f6e51eedaca568c259dce72a22eb8f84fe31789d311bc4"
+
+[[files]]
 file = "mods/runes-fabric-1.2.1+1.21.1.jar"
 hash = "480aee655bf874d8518683850ce7acc99840e33dd79cbb15725f3b6815f73655"
 
@@ -1443,10 +1451,6 @@ hash = "19d7e560f461e29d240e74f7d0076c0f6380a9584b13831706e0f6e442c7f1ab"
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar"
 hash = "277acc353f5f2eccf6749317e41e19b38fce0c4e283f45b3fb0318161a4e342e"
-
-[[files]]
-file = "mods/yo_hooks-fabric-4.6.1.jar"
-hash = "eb0ad500a8e4a68b62edd819cebc4648d507b388d23b54913e26251cd03d0d14"
 
 [[files]]
 file = "mods/ysm-2.6.4-fabric+mc1.21.1-release.jar"
