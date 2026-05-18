@@ -93,6 +93,10 @@ file = "mods/DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar"
 hash = "486fdeb5b0545637fd94988f12574cda632b107452838484b55e62a0093d3243"
 
 [[files]]
+file = "mods/DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar.duplicate"
+hash = "486fdeb5b0545637fd94988f12574cda632b107452838484b55e62a0093d3243"
+
+[[files]]
 file = "mods/Drip Sounds-0.5.1+1.21.5-Fabric.jar"
 hash = "ebe5f17f5e6b8a27cdff5b1dd67dafa08016fd63821dabc5607d79f564e99c0a"
 
@@ -198,7 +202,7 @@ hash = "be1805c398bb92b3b376f04aff5dd065d6d6de5ca6f0a80f6db6cef737c45d60"
 
 [[files]]
 file = "mods/Jade-1.21.1-Fabric-15.10.5.jar"
-hash = "630ae4ae3ea039ac3953b9517031dad415f5f058f5d630fdd8bf8a5583bf9cee"
+hash = "e73a9cbd1bc651037ed0ca05cde901bc748f9701b5911ce4a8309677485d2f06"
 
 [[files]]
 file = "mods/JadeAddons-1.21.1-Fabric-6.0.3.jar"
@@ -231,10 +235,6 @@ hash = "8f05a37462970050f193f4a6cbadfe20b8d141afe50863c070c26a6453c95f5c"
 [[files]]
 file = "mods/MinecraftCapes Fabric 1.21.1-1.0.0.jar"
 hash = "653c6c15fd501763013e02b5909a792ba96a875b73cea48b64de1577fd26bf5c"
-
-[[files]]
-file = "mods/MobCollisionOff-2.0.jar"
-hash = "02d5764dfa5e08aa6ca475d0be99009dad7f42bdcea9af2d1baed856cbd62301"
 
 [[files]]
 file = "mods/MouseTweaks-fabric-mc1.21-2.26.jar"
@@ -329,8 +329,8 @@ file = "mods/SwordBlockingMechanics-v21.1.1-1.21.1-Fabric.jar"
 hash = "56215a6f9adc8b8fbd5306c190a29f78cfa5333d3f52a3cc59778dd9881f8ac2"
 
 [[files]]
-file = "mods/TACZ-Refabricated-1.21.1-0.5.0-forge1.1.7-hotfix2.jar"
-hash = "61e6c2f4727be972ab1707f02a6dd8ba63f662b8ad5dd448a1eb09c61d6b60c4"
+file = "mods/TACZ-Refabricated-1.21.1-0.6.1-forge1.1.8.jar"
+hash = "e9bb0ae62e78bc5801adf6ea00c76ae129d30c9a3148da7e7628ea5e8c12127c"
 
 [[files]]
 file = "mods/TaxFreeLevels-1.4.7-fabric-1.21.1.jar"
@@ -610,7 +610,7 @@ hash = "1ca2862486acc4a94e18c0bd0f944910c97a76eee45941ffa42255ee1cf6cee5"
 
 [[files]]
 file = "mods/critical_strike-fabric-1.0.4+1.21.1.jar"
-hash = "219197331ba13a8775f74eabccef700e5ea40826be99549057b01fb25b2a6a45"
+hash = "8bd02763fda839a71a3f229ed71cf24b80a14ed7136306d8e88aa9d34e741640"
 
 [[files]]
 file = "mods/culturaldelights-0.17.7.jar"
@@ -1141,8 +1141,8 @@ file = "mods/pumpkin_pie_delight-1.0.2+1.21.jar"
 hash = "52e0315ed8807e18f58f7e88baa259d19d9fe59b1e86c33d40ffd89fa444b8f7"
 
 [[files]]
-file = "mods/punchy-2.5.4-fabric-1.21.1.jar"
-hash = "994d55121202ac038d53992c8921ccd97600caad5cdb0ea8b07197bcaba425dd"
+file = "mods/punchy-2.5.5b-fabric-1.21.1.jar"
+hash = "24269032fa27124d83a97f94d4826a8a6fbe34de60bcf5cc4718b953f9a9d122"
 
 [[files]]
 file = "mods/ranged_weapon_api-fabric-2.3.2+1.21.1.jar"
@@ -1393,6 +1393,10 @@ file = "mods/voicechat-fabric-1.21.1-2.6.14.jar"
 hash = "886605b27c19ddfc7a32c38efb27d26fec8cfbf612a2930b50a8c5b86c2c4065"
 
 [[files]]
+file = "mods/voxy-0.2.14-alpha.jar.disabled"
+hash = "fc55940bf419780f7f7ee87af34da522fcb8c1e35800525c2e5cda03b74fba52"
+
+[[files]]
 file = "mods/wakes-0.4.1+1.21.1.jar"
 hash = "1813abcca795573dc5c87a1d497388357238f77a3916ff8372813a3a575cb17b"
 
@@ -1449,5 +1453,5 @@ file = "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar"
 hash = "277acc353f5f2eccf6749317e41e19b38fce0c4e283f45b3fb0318161a4e342e"
 
 [[files]]
-file = "mods/ysm-2.6.4-fabric+mc1.21.1-release.jar"
-hash = "f1b847c722c9743e05748ef048123b075ae47d6145b21c75a2cb7262a32a0569"
+file = "mods/ysm-2.6.5-fabric+mc1.21.1-release.jar"
+hash = "a66b7265a2761d639c48f61a64179206adf5d81c38f360763fc8275a0fec9fa5"
