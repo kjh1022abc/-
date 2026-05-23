@@ -474,7 +474,7 @@ hash = "97d7bad42db578cc28100e589da9915a3fc239e4a096c542881e808158bb9076"
 
 [[files]]
 file = "mods/berserker_rpg-fabric-2.6.0+1.21.1.jar"
-hash = "c912d0f1fd52cf99c75ab147320946014ddeec6881fbfe140dea5a8e87677f26"
+hash = "1c1b809c148ee486417b0a14960d440d23099d3d69a841b790ae36c4e3c99514"
 
 [[files]]
 file = "mods/better-end-21.0.11.jar"
@@ -758,7 +758,7 @@ hash = "bb01c531d6d50a86235d949f30bc670c56e500516c9d98345a285281681d8458"
 
 [[files]]
 file = "mods/fallingtrees-fabric-1.21.1-0.14.0.jar"
-hash = "a50f068504d81e10de8556bcb8b53ac3ac2f48d3467f1489ba6e6b449e5835fb"
+hash = "8e963f14a3e7c2a8f8f3b8c6fac13c9b82d38a2a127eea35eb4e71372c0a0509"
 
 [[files]]
 file = "mods/fancymenu_fabric_3.8.1_MC_1.21.1.jar"
@@ -1145,6 +1145,10 @@ file = "mods/punchy-2.5.5b-fabric-1.21.1.jar"
 hash = "24269032fa27124d83a97f94d4826a8a6fbe34de60bcf5cc4718b953f9a9d122"
 
 [[files]]
+file = "mods/punchy-2.5.5b-fabric-1.21.1.jar.duplicate"
+hash = "24269032fa27124d83a97f94d4826a8a6fbe34de60bcf5cc4718b953f9a9d122"
+
+[[files]]
 file = "mods/ranged_weapon_api-fabric-2.3.2+1.21.1.jar"
 hash = "3909bc5067df522bd507a290f957ff14a9a9ed6e60019c00d436bf5f7af1c239"
 
@@ -1242,7 +1246,7 @@ hash = "66f6b0c02303d346ee7188961c4ae784d98cf0b36b5759166b51c1a4cbacfe2a"
 
 [[files]]
 file = "mods/sodium-extra-fabric-0.6.0+mc1.21.1.jar"
-hash = "205cc0d946eef47e057cf00232c203f1e7af5518596db677cc88a27edc770376"
+hash = "15f0ceb6dbc7e007f365dd792ddefcfcc4690fa5f648e2d6ad42a2b24c440721"
 
 [[files]]
 file = "mods/sodium-fabric-0.6.13+mc1.21.1.jar"
@@ -1433,12 +1437,12 @@ file = "mods/worldweaver-21.0.13.jar"
 hash = "548e6e6ff35d5c1fd4402cc6b96cbcc3afd8070a393b6b017bb3fd206fb1a37e"
 
 [[files]]
-file = "mods/xaerominimap-fabric-1.21.1-25.3.10.jar"
-hash = "a2380c4836a5ebce3d9757eb8226ee9a3ef3fcd2ca03971d32f9eecc11ff7324"
+file = "mods/xaerominimap-fabric-1.21.1-25.3.12.jar"
+hash = "77bdbcd9be77f3f8e35448569adbec72a99b07419a7e5ac3007e0d87c0eec5d7"
 
 [[files]]
-file = "mods/xaeroworldmap-fabric-1.21.1-1.40.11.jar"
-hash = "2c42f51a3d64cf93ac385bca6f8962feb1db84fc07a95e47a2c5448622ad3151"
+file = "mods/xaeroworldmap-fabric-1.21.1-1.40.16.jar"
+hash = "a144ce7c48d6c91a92f2f90f031f35f0160a104e167063eeba63abb37ea3d413"
 
 [[files]]
 file = "mods/xlpackets-1.0.5-1.21.jar"
