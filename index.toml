@@ -73,10 +73,6 @@ file = "mods/CreativeOnePunch-1.6-universal.jar"
 hash = "1c94104d06e747031920cd90b339e790517fea90f08e5f21a723f7e65ed2ea91"
 
 [[files]]
-file = "mods/Cull Less Leaves-1.4.0+1.21-fabric.jar.disabled"
-hash = "4e2d0b513760c851e2618befe17083a798b09e5857c67735b2a025331cfdc69e"
-
-[[files]]
 file = "mods/CutThrough-v21.1.0-1.21.1-Fabric.jar"
 hash = "484d6f0a75933d7f13d6722da2ee83b209aff29d4c389bcca29784c713456760"
 
@@ -829,6 +825,10 @@ file = "mods/guiclock-1.21.1-4.7.jar"
 hash = "1b7f7eea8691f616072905d257b982df73d0c2459fe2dd1b243ad44e7cf26b17"
 
 [[files]]
+file = "mods/gunjangpoint-1.21.1-fix29-firstperson-offset.jar"
+hash = "79468a4ea6e434aed7d69b2855cdc92ca070362a0af44ea5047cbc8375f4ad28"
+
+[[files]]
 file = "mods/horseman-fabric-1.21.1-1.5.8.jar"
 hash = "7c2a3ec7dc929fb433c1fcd6e0d774cb26da35c066f2134b5c0493f615344b9f"
 
@@ -861,10 +861,6 @@ file = "mods/iris-fabric-1.8.14-beta.1+mc1.21.1.jar"
 hash = "aec8f714cb8df8107f56f2cc7d788e6b3e13aec2c157aa0607e9a9b283c214e0"
 
 [[files]]
-file = "mods/iris-fabric-1.8.8+mc1.21.1.jar.disabled"
-hash = "be97b23dcbe8b7fe856978a6bff07ec27d9034ed74da7f13186f0af5e07fdfae"
-
-[[files]]
 file = "mods/jei-1.21.1-fabric-19.27.0.340.jar"
 hash = "70cbbe429e8ff1198e00cf786ec355573972f24c17dc378deed393014062eb6b"
 
@@ -889,8 +885,8 @@ file = "mods/koreanpatch-fabric-1.9.3+mc1.21.jar"
 hash = "1882d09ecb501ed2a09a198b819e514f3c618df324c0cd54fc67a787a9dd91b6"
 
 [[files]]
-file = "mods/lambdynamiclights-4.8.7+1.21.1.jar"
-hash = "60c6b61c0b41b3c465198e915385ec961cdeeb7232edea6519d000fac7345285"
+file = "mods/lambdynamiclights-4.8.9+1.21.1.jar"
+hash = "1511513ce40d3d3c7fe28da4e80d593589912ca6a75189ac8b4b1d3533be3cb1"
 
 [[files]]
 file = "mods/letsdo-bakery-fabric-2.1.4.jar"
@@ -1037,6 +1033,10 @@ file = "mods/moreculling-fabric-1.21.1-1.0.7.jar.disabled"
 hash = "a0e02c7535076a88fdf7441f7a71b424706c93141032a388b8804f19ba7babcc"
 
 [[files]]
+file = "mods/moreculling-fabric-1.21.1-1.0.8.jar"
+hash = "19c7e65794511ab21eed63cab9e2efbf43a29fd2ea20234b23f92cb71c6a2aa2"
+
+[[files]]
 file = "mods/moredelight-25.07.28-1.21-fabric.jar"
 hash = "2970a1e5b58b76135d04a75c3323e2cee6612298b568d5bfdd194cd03793def7"
 
@@ -1165,8 +1165,8 @@ file = "mods/redirected-fabric-1.0.0-1.21.1.jar"
 hash = "941eeb42eae331bea9b9ccc08e9811de74112ec3e563be243f01d38e865d8f40"
 
 [[files]]
-file = "mods/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar.disabled"
-hash = "024b0ba386a51fbb3d5b4f4908d14c5d325411f3f25db92ac6a94eba8555d067"
+file = "mods/reeses-sodium-options-fabric-2.0.5+mc1.21.1.jar"
+hash = "79ca2d8167f2c4646d79d1df3baab995e369674ab1185fd4068856f3789d6c53"
 
 [[files]]
 file = "mods/reinforced-barrels-2.6.1+1.21.1.jar"
@@ -1253,16 +1253,12 @@ file = "mods/smoothswapping-0.9.3.1-1.21.1-fabric.jar"
 hash = "66f6b0c02303d346ee7188961c4ae784d98cf0b36b5759166b51c1a4cbacfe2a"
 
 [[files]]
-file = "mods/sodium-extra-fabric-0.6.0+mc1.21.1.jar.disabled"
-hash = "15f0ceb6dbc7e007f365dd792ddefcfcc4690fa5f648e2d6ad42a2b24c440721"
-
-[[files]]
-file = "mods/sodium-fabric-0.6.13+mc1.21.1.jar.disabled"
-hash = "f5411b4d6fb9edc91723874e5fc01de1e5d77e79f70f7af2be28154121b8a776"
+file = "mods/sodium-extra-fabric-0.8.7+mc1.21.1.jar"
+hash = "0ee70af47e004dbea2cae57b96bd5f1fb7fc6705f0a3f40154b015e3403efcf8"
 
 [[files]]
 file = "mods/sodium-fabric-0.8.12-beta.1+mc1.21.1.jar"
-hash = "8db17b78aadaa64888d74e9a51c3fe862f280abcace195d0d72ac46e01094b22"
+hash = "89bd67e0c7c87b447bb4d16b5b08f32871c4f2d072bc79c0d3502fcabbe605b1"
 
 [[files]]
 file = "mods/sound-physics-remastered-fabric-1.21.1-1.5.1.jar"
